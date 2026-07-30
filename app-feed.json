@@ -1,1 +1,795 @@
-{"updated":"2026-07-30T07:57","restaurant":{"name":"Loggers Depot","tagline":"Food & Spirits","address":"314 W Houghton Ave","city":"West Branch, MI 48661","phone":"(989) 345-2656","phone_raw":"9893452656","fax":"(989) 787-0031","email":"loggersdepot@gmail.com","facebook":"https://www.facebook.com/loggers.depot/","instagram":"https://www.instagram.com/loggers_depot/","hours":[{"label":"Every day","value":"9:00 AM \u2013 12:00 AM (midnight)"}],"delivery":{"note":"Afternoon delivery during weekdays","days":"Monday \u2013 Friday","window":"9:00 AM \u2013 2:00 PM","starts":"9:00 AM"},"notes":["All prices shown reflect a 3% cash discount","Daily food specials Monday \u2013 Friday","Full-service restaurant and bar"]},"menu":{"updated":"2026-06-01","source":"Dropbox/Loggers/Menu June 2026/Loggers Menu June 2026.pdf","disclaimer":"Prices reflect a 3% cash discount. Menu subject to change. Rev 6/1/2026.","categories":[{"id":"starters","name":"Starters","items":[{"name":"Butterfly Shrimp","price":12.99},{"name":"Dynamite Shrimp","price":12.99},{"name":"Chicken Finger Basket","price":13.99},{"name":"Loaded Tater Tots","price":11.99},{"name":"Potato Skins","price":12.99},{"name":"Mushrooms or Onion Rings","price":12.99},{"name":"Spinach & Artichoke Dip","price":11.99},{"name":"12 Bavarian Pretzel Bites","price":10.99},{"name":"Bone-In or Boneless Wings","price":16.99}]},{"id":"pizza","name":"Homemade Pizza & Breadsticks","items":[{"name":"12\" Traditional Crust Pizza","price":17.99},{"name":"12\" Thin Crust Pizza","price":15.99},{"name":"12\" Traditional Specialty Pizza","price":20.99},{"name":"12\" Thin Specialty Pizza","price":18.99},{"name":"Loaded Breadsticks","price":16.99},{"name":"Butter Parm Sticks","price":14.99}]},{"id":"soups","name":"Soups & Chili","items":[{"name":"Soup of the Day (cup)","price":4.99},{"name":"Soup of the Day (bowl)","price":5.99},{"name":"Homemade Chili (cup)","price":5.99},{"name":"Homemade Chili (bowl)","price":6.99}]},{"id":"salads","name":"Fresh Salads","note":"All made with fresh salad mix","items":[{"name":"Chef Salad","price":18.99,"half":15.99},{"name":"Crunchy or Grilled Chicken","price":17.99,"half":14.99},{"name":"Chicken BLT","price":18.99,"half":15.99},{"name":"Sesame Chicken","price":18.99,"half":15.99},{"name":"Turkey Club","price":18.99,"half":15.99},{"name":"Santa Fe Chicken","price":19.99,"half":16.99}]},{"id":"house","name":"House Specials","items":[{"name":"Loggers Loaded Bowl","price":17.99},{"name":"Sirloin Steak Dinner","price":23.99},{"name":"Glazed Salmon","price":22.99},{"name":"Classic Reuben","price":17.99},{"name":"Fish and Chips","price":18.99},{"name":"Chicken Alfredo","price":16.99},{"name":"Shrimp Alfredo","price":18.99},{"name":"Creamy Mushroom & Leek Smothered Chicken","price":16.99},{"name":"Smothered Angus","price":16.99}]},{"id":"mexican","name":"South of the Border","items":[{"name":"2 Shrimp or Fish Tacos","price":11.99},{"name":"Jumbo Wet Burrito","price":17.99},{"name":"Nacho Supreme","price":17.99,"half":14.99},{"name":"Taco Salad","price":17.99,"half":14.99},{"name":"Homemade Quesadilla","price":11.99},{"name":"Hard or Soft Beef Tacos","price":3.99}]},{"id":"burgers","name":"Handcrafted Burger Classics","note":"Served with fries (upgrade to Brew City fries available). Cooked to order.","items":[{"name":"Classic Angus Burger","price":14.99},{"name":"Big Depot","price":16.99},{"name":"Jack Bacon","price":16.99},{"name":"Patty Melt","price":15.99},{"name":"Smash Burger","price":15.99},{"name":"Bacon Cheeseburger","price":16.99},{"name":"English Pub Burger","price":16.99},{"name":"Irish Smash Burger","price":17.99},{"name":"Mushroom Swiss","price":15.99},{"name":"Crunch Burger","price":16.99}]},{"id":"wraps","name":"Wraps & Fries","note":"All $15.99 \u00b7 served with fries","items":[{"name":"Buffalo Chicken Wrap","price":15.99},{"name":"Turkey or Chicken Bacon Ranch Wrap","price":15.99},{"name":"Grilled Shrimp Wrap","price":15.99},{"name":"Pot Roast Wrap","price":15.99},{"name":"Double Crunch Wrap","price":15.99},{"name":"Mushroom Swiss Wrap","price":15.99}]},{"id":"pitas","name":"Specialty Pitas & Fries","note":"All $15.99 \u00b7 served with fries","items":[{"name":"Loggers Signature Gyro","price":15.99},{"name":"Traverse City Grilled Chicken Pita","price":15.99}]},{"id":"subs","name":"Subs & Sandwiches","note":"Served with fries (upgrade to Brew City fries available)","items":[{"name":"Baked Italian","price":16.99},{"name":"Loggers Steak Sub","price":16.99},{"name":"Loggers Slim Jim","price":16.99},{"name":"Cajun Philly","price":16.99},{"name":"Philly Cheese Steak","price":16.99},{"name":"Pressed Club","price":16.99},{"name":"French Dip","price":14.99},{"name":"Club Sandwich","price":15.99},{"name":"Cherry BBQ Chicken","price":15.99},{"name":"Boom-Boom Chicken","price":15.99},{"name":"Big Tex Chicken","price":15.99},{"name":"Sweet Thai Chili Chicken","price":15.99},{"name":"BLT","price":11.99},{"name":"Hot Turkey or Hot Pot Roast Beef","price":13.99}]},{"id":"breakfast","name":"Breakfast Favorites","note":"Daily 9 AM \u2013 11 AM","items":[{"name":"Eggs with Hash Browns or American Fries, Meat & Toast","price":8.99},{"name":"Signature Thin Crust Breakfast Pizza","price":21.99},{"name":"Western Omelet","price":13.99},{"name":"Loggers Loaded Omelet","price":16.49},{"name":"Farmer\u2019s Omelet","price":12.99},{"name":"Southern Omelet","price":13.99},{"name":"Irish Omelet","price":16.99},{"name":"Mexican Omelet","price":13.99},{"name":"Veggie Omelet","price":11.99},{"name":"Philly Omelet","price":16.99},{"name":"Ham & Cheese Omelet","price":12.99},{"name":"Breakfast Burrito","price":14.99},{"name":"Breakfast Sandwich","price":7.99},{"name":"French Toast","price":6.99},{"name":"Pancakes (full stack)","price":8.99},{"name":"Biscuits & Sausage Gravy","price":8.99,"half":6.99},{"name":"2 Eggs & Corned Beef Hash","price":10.99},{"name":"Steak & Eggs","price":19.99},{"name":"Old-Fashioned Oatmeal","price":5.49}]},{"id":"kids","name":"For the Kids","items":[{"name":"Chicken Finger Basket","price":9.99},{"name":"Grilled Cheese with Fries","price":8.99},{"name":"Plain Hot Dog with Fries","price":8.99},{"name":"Mac and Cheese","price":5.99}]},{"id":"sides","name":"Sides","items":[{"name":"Brew City Fries","price":5.99},{"name":"Regular Fries","price":4.99},{"name":"Tots","price":5.99},{"name":"Baked Potato","price":3.99},{"name":"Mashed Potatoes & Gravy","price":5.99},{"name":"Broccoli","price":4.99},{"name":"Corn","price":2.99},{"name":"Cottage Cheese","price":3.99},{"name":"Texas Toast Garlic Bread","price":2.99},{"name":"Homemade Coleslaw","price":3.99},{"name":"Side Salad","price":5.99}]},{"id":"beverages","name":"Beverages","items":[{"name":"Flavored Lemonade or Fresh Iced Tea"},{"name":"Soft Drinks"},{"name":"Coffee & Tea"},{"name":"Hot Chocolate, Milk & Juice"},{"name":"Red Bull"},{"name":"Full Bar"},{"name":"Draft and Craft Beers"}]}]},"events":{"events":[{"id":"2026-07-23-mat-orlandi","date":"2026-07-23","title":"Mat Orlandi","subtitle":"Solo Acoustic","description":"Mat Orlandi - Solo Acoustic","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-08-01-ethan-deming-country-solo-7-10","date":"2026-08-01","title":"Ethan Deming Country Solo 7 \u201310","subtitle":null,"description":"Ethan Deming Country Solo 7 \u201310","time":null,"type":"event"},{"id":"2026-08-06-taylor-perry","date":"2026-08-06","title":"Taylor Perry","subtitle":"Solo Acoustic","description":"Taylor Perry - Solo Acoustic","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-08-13-dj-joey","date":"2026-08-13","title":"DJ Joey","subtitle":"Karaoke","description":"DJ Joey - Karaoke","time":"9:00 PM - 12:00 AM","type":"music"},{"id":"2026-08-15-ethan-deming","date":"2026-08-15","title":"Ethan Deming","subtitle":"Country Solo","description":"Ethan Deming - Country Solo","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-08-27-parker-zimmerman","date":"2026-08-27","title":"Parker Zimmerman","subtitle":"Solo","description":"Parker Zimmerman - Solo","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-08-29-jeep-jam","date":"2026-08-29","title":"Jeep Jam","subtitle":null,"description":"Jeep Jam","time":null,"type":"event"},{"id":"2026-09-03-taylor-perry","date":"2026-09-03","title":"Taylor Perry","subtitle":"Solo Acoustic","description":"Taylor Perry - Solo Acoustic","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-09-12-corey-kapanka","date":"2026-09-12","title":"Corey Kapanka","subtitle":"Solo Acoustic","description":"Corey Kapanka - Solo Acoustic","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-09-17-andy-brawn","date":"2026-09-17","title":"Andy Brawn","subtitle":"Solo Acoustic","description":"Andy Brawn - Solo Acoustic","time":"7:00 PM - 10:00 PM","type":"music"},{"id":"2026-09-26-party-of-two","date":"2026-09-26","title":"Party of Two","subtitle":"Acoustic Duo","description":"Party of Two - Acoustic Duo","time":"7:00 PM - 10:00 PM","type":"music"}],"source":"G:\\Dropbox\\Loggers\\Jay's\\Entertainment Schedule.docx","updated":"2026-07-30","note":"Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."},"specials":{"found":true,"date":"2026-07-30","date_label":"Thursday, July 30th, 2026","soup":"Homemade Cheesy Bacon & Broccoli Soup or Homemade Chili","footer":"DELIVERY STARTS @ 9 AM","items":[{"name":"Southern Scrambler","price":"10.99","half_price":null,"description":"3 Eggs Scrambled with Hashbrowns, Diced Sausage Links, Diced White Onions Smothered with Homemade Country Gravy and Cheddar-Jack Cheese Choice of Toast","flags":[]},{"name":"The Big K Salad","price":"15.99","half_price":"12.99","description":"Our Delicious Fresh Never Frozen all Beef Angus Burger Chopped Up Over Fresh Salad Mix with Tomato, Onions, Pickle, Cheddar Jack-Cheese, Mozzarella Cheese and 1,000 Island Dressing.","flags":[]},{"name":"Guinness Battered Cod Tender Basket","price":"14.99","half_price":null,"description":"Deep-Fried Guinness Atlantic Cod Tenders with Crinkle Cut Fries","flags":["new"]},{"name":"Buffalo Chicken Sub","price":"14.99","half_price":null,"description":"Golden Brown Chicken Tenders tossed in Homemade Buffalo Sauce nestled in a Hoagie Bun with Pepper-Jack Cheese Leaf Lettuce, Diced Tomatoes and Creamy Bleu Cheese Dressing Choice of: Fries, Tots or Cup of Soup","flags":["new"]},{"name":"Club on Flatbread","price":"15.99","half_price":null,"description":"Classic Flatbread with Mayo Base, Cheddar-Jack and Mozzarella Cheese, Diced Ham, Diced Turkey and Bacon Bits. Then Baked and Topped with Diced Tomatoes and Shredded Lettuce","flags":[]}],"source_file":"Thursday July 30th 2026.docx","generated":"2026-07-30T07:57","error":null}}
+{
+    "updated":  "2026-07-30T08:16",
+    "restaurant":  {
+                       "name":  "Loggers Depot",
+                       "tagline":  "Food \u0026 Spirits",
+                       "address":  "314 W Houghton Ave",
+                       "city":  "West Branch, MI 48661",
+                       "phone":  "(989) 345-2656",
+                       "phone_raw":  "9893452656",
+                       "fax":  "(989) 787-0031",
+                       "email":  "loggersdepot@gmail.com",
+                       "facebook":  "https://www.facebook.com/loggers.depot/",
+                       "instagram":  "https://www.instagram.com/loggers_depot/",
+                       "hours":  [
+                                     {
+                                         "label":  "Every day",
+                                         "value":  "9:00 AM â€“ 12:00 AM (midnight)"
+                                     }
+                                 ],
+                       "delivery":  {
+                                        "note":  "Afternoon delivery during weekdays",
+                                        "days":  "Monday â€“ Friday",
+                                        "window":  "9:00 AM â€“ 2:00 PM",
+                                        "starts":  "9:00 AM"
+                                    },
+                       "notes":  [
+                                     "All prices shown reflect a 3% cash discount",
+                                     "Daily food specials Monday â€“ Friday",
+                                     "Full-service restaurant and bar"
+                                 ]
+                   },
+    "menu":  {
+                 "updated":  "2026-06-01",
+                 "source":  "Dropbox/Loggers/Menu June 2026/Loggers Menu June 2026.pdf",
+                 "disclaimer":  "Prices reflect a 3% cash discount. Menu subject to change. Rev 6/1/2026.",
+                 "categories":  [
+                                    {
+                                        "id":  "starters",
+                                        "name":  "Starters",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Butterfly Shrimp",
+                                                          "price":  12.99,
+                                                          "description":  "8 colossal shrimp with homemade cocktail sauce \u0026 fries"
+                                                      },
+                                                      {
+                                                          "name":  "Dynamite Shrimp",
+                                                          "price":  12.99,
+                                                          "description":  "8 battered shrimp tossed in boom-boom sauce with onion tanglers"
+                                                      },
+                                                      {
+                                                          "name":  "Chicken Finger Basket",
+                                                          "price":  13.99,
+                                                          "description":  "Breaded all-white tenders with fries"
+                                                      },
+                                                      {
+                                                          "name":  "Loaded Tater Tots",
+                                                          "price":  11.99,
+                                                          "description":  "Bacon \u0026 cheddar-jack cheese"
+                                                      },
+                                                      {
+                                                          "name":  "Potato Skins",
+                                                          "price":  12.99,
+                                                          "description":  "4 halves loaded with bacon \u0026 cheddar-jack"
+                                                      },
+                                                      {
+                                                          "name":  "Mushrooms or Onion Rings",
+                                                          "price":  12.99,
+                                                          "description":  "Hand dipped \u0026 deep fried"
+                                                      },
+                                                      {
+                                                          "name":  "Spinach \u0026 Artichoke Dip",
+                                                          "price":  11.99,
+                                                          "description":  "Fried pita bread or tortilla chips"
+                                                      },
+                                                      {
+                                                          "name":  "12 Bavarian Pretzel Bites",
+                                                          "price":  10.99,
+                                                          "description":  "Served with nacho cheese"
+                                                      },
+                                                      {
+                                                          "name":  "Bone-In or Boneless Wings",
+                                                          "price":  16.99,
+                                                          "description":  "10-piece $16.99 Â· Double $31.99. Plain, Buffalo, Sweet Buffalo, Suicide, BBQ, Honey BBQ, Hot BBQ, Sesame or Sweet Chili"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "pizza",
+                                        "name":  "Homemade Pizza \u0026 Breadsticks",
+                                        "items":  [
+                                                      {
+                                                          "name":  "12\" Traditional Crust Pizza",
+                                                          "price":  17.99,
+                                                          "description":  "Toppings $1.75 ea Â· Ground beef or chicken $3.50 Â· Extra cheese $2.50"
+                                                      },
+                                                      {
+                                                          "name":  "12\" Thin Crust Pizza",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "12\" Traditional Specialty Pizza",
+                                                          "price":  20.99,
+                                                          "description":  "BBQ Chicken, Broccoli Chicken Alfredo, Buffalo Chicken, Cajun Chicken, Gyro, Meat Lovers, Philly, Sicilian, Supreme, Taco \u0026 Veggie (no substitutions)"
+                                                      },
+                                                      {
+                                                          "name":  "12\" Thin Specialty Pizza",
+                                                          "price":  18.99
+                                                      },
+                                                      {
+                                                          "name":  "Loaded Breadsticks",
+                                                          "price":  16.99,
+                                                          "description":  "Garlic butter, pepperoni \u0026 mozzarella"
+                                                      },
+                                                      {
+                                                          "name":  "Butter Parm Sticks",
+                                                          "price":  14.99,
+                                                          "description":  "With choice of dipping sauce"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "soups",
+                                        "name":  "Soups \u0026 Chili",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Soup of the Day (cup)",
+                                                          "price":  4.99
+                                                      },
+                                                      {
+                                                          "name":  "Soup of the Day (bowl)",
+                                                          "price":  5.99
+                                                      },
+                                                      {
+                                                          "name":  "Homemade Chili (cup)",
+                                                          "price":  5.99
+                                                      },
+                                                      {
+                                                          "name":  "Homemade Chili (bowl)",
+                                                          "price":  6.99,
+                                                          "description":  "Add cheese \u0026 onions free"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "salads",
+                                        "name":  "Fresh Salads",
+                                        "note":  "All made with fresh salad mix",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Chef Salad",
+                                                          "price":  18.99,
+                                                          "half":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Crunchy or Grilled Chicken",
+                                                          "price":  17.99,
+                                                          "half":  14.99
+                                                      },
+                                                      {
+                                                          "name":  "Chicken BLT",
+                                                          "price":  18.99,
+                                                          "half":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Sesame Chicken",
+                                                          "price":  18.99,
+                                                          "half":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Turkey Club",
+                                                          "price":  18.99,
+                                                          "half":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Santa Fe Chicken",
+                                                          "price":  19.99,
+                                                          "half":  16.99,
+                                                          "description":  "Chopped \u0026 tossed"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "house",
+                                        "name":  "House Specials",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Loggers Loaded Bowl",
+                                                          "price":  17.99,
+                                                          "description":  "Mashed potatoes, beef gravy, cheddar-jack, pot roast or crispy chicken, onion tanglers \u0026 biscuit"
+                                                      },
+                                                      {
+                                                          "name":  "Sirloin Steak Dinner",
+                                                          "price":  23.99,
+                                                          "description":  "10 oz sirloin with potato \u0026 side salad Â· Add mushrooms \u0026 onions $3.50"
+                                                      },
+                                                      {
+                                                          "name":  "Glazed Salmon",
+                                                          "price":  22.99,
+                                                          "description":  "Sesame glaze, potato \u0026 side salad"
+                                                      },
+                                                      {
+                                                          "name":  "Classic Reuben",
+                                                          "price":  17.99,
+                                                          "description":  "Corned beef, Swiss, sauerkraut \u0026 Thousand Island on swirl rye with fries"
+                                                      },
+                                                      {
+                                                          "name":  "Fish and Chips",
+                                                          "price":  18.99,
+                                                          "description":  "3 pieces cod fried, baked or lemon-steamed Â· Extra fish $6.00"
+                                                      },
+                                                      {
+                                                          "name":  "Chicken Alfredo",
+                                                          "price":  16.99,
+                                                          "description":  "With broccoli \u0026 Texas toast garlic bread"
+                                                      },
+                                                      {
+                                                          "name":  "Shrimp Alfredo",
+                                                          "price":  18.99
+                                                      },
+                                                      {
+                                                          "name":  "Creamy Mushroom \u0026 Leek Smothered Chicken",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Smothered Angus",
+                                                          "price":  16.99,
+                                                          "description":  "Onions, mushrooms, mashed potatoes \u0026 beef gravy"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "mexican",
+                                        "name":  "South of the Border",
+                                        "items":  [
+                                                      {
+                                                          "name":  "2 Shrimp or Fish Tacos",
+                                                          "price":  11.99
+                                                      },
+                                                      {
+                                                          "name":  "Jumbo Wet Burrito",
+                                                          "price":  17.99
+                                                      },
+                                                      {
+                                                          "name":  "Nacho Supreme",
+                                                          "price":  17.99,
+                                                          "half":  14.99,
+                                                          "description":  "Make it a Totcho $17.99"
+                                                      },
+                                                      {
+                                                          "name":  "Taco Salad",
+                                                          "price":  17.99,
+                                                          "half":  14.99,
+                                                          "description":  "Add Mexican chicken $3.00"
+                                                      },
+                                                      {
+                                                          "name":  "Homemade Quesadilla",
+                                                          "price":  11.99,
+                                                          "description":  "Add chicken or steak $3.50"
+                                                      },
+                                                      {
+                                                          "name":  "Hard or Soft Beef Tacos",
+                                                          "price":  3.99,
+                                                          "description":  "Cheese, lettuce \u0026 tomato"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "burgers",
+                                        "name":  "Handcrafted Burger Classics",
+                                        "note":  "Served with fries (upgrade to Brew City fries available). Cooked to order.",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Classic Angus Burger",
+                                                          "price":  14.99,
+                                                          "description":  "Lettuce, tomato, pickle, onion \u0026 mayo"
+                                                      },
+                                                      {
+                                                          "name":  "Big Depot",
+                                                          "price":  16.99,
+                                                          "description":  "Bacon, pepper-jack, jalapeÃ±os, tomato \u0026 fiesta ranch"
+                                                      },
+                                                      {
+                                                          "name":  "Jack Bacon",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Patty Melt",
+                                                          "price":  15.99,
+                                                          "description":  "Swiss \u0026 grilled onions on swirl rye"
+                                                      },
+                                                      {
+                                                          "name":  "Smash Burger",
+                                                          "price":  15.99,
+                                                          "description":  "Brew pub sauce, cheddar-jack \u0026 onion tanglers"
+                                                      },
+                                                      {
+                                                          "name":  "Bacon Cheeseburger",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "English Pub Burger",
+                                                          "price":  16.99,
+                                                          "description":  "Fried egg, bacon \u0026 pepper-jack"
+                                                      },
+                                                      {
+                                                          "name":  "Irish Smash Burger",
+                                                          "price":  17.99,
+                                                          "description":  "Corned beef, sauerkraut, Swiss, onions \u0026 Thousand Island"
+                                                      },
+                                                      {
+                                                          "name":  "Mushroom Swiss",
+                                                          "price":  15.99,
+                                                          "description":  "Mushrooms \u0026 homemade garlic aioli"
+                                                      },
+                                                      {
+                                                          "name":  "Crunch Burger",
+                                                          "price":  16.99
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "wraps",
+                                        "name":  "Wraps \u0026 Fries",
+                                        "note":  "All $15.99 Â· served with fries",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Buffalo Chicken Wrap",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Turkey or Chicken Bacon Ranch Wrap",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Grilled Shrimp Wrap",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Pot Roast Wrap",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Double Crunch Wrap",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Mushroom Swiss Wrap",
+                                                          "price":  15.99
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "pitas",
+                                        "name":  "Specialty Pitas \u0026 Fries",
+                                        "note":  "All $15.99 Â· served with fries",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Loggers Signature Gyro",
+                                                          "price":  15.99,
+                                                          "description":  "Turkey or steak with tzatziki"
+                                                      },
+                                                      {
+                                                          "name":  "Traverse City Grilled Chicken Pita",
+                                                          "price":  15.99,
+                                                          "description":  "Bacon, cheddar-jack \u0026 cherry BBQ"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "subs",
+                                        "name":  "Subs \u0026 Sandwiches",
+                                        "note":  "Served with fries (upgrade to Brew City fries available)",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Baked Italian",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Loggers Steak Sub",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Loggers Slim Jim",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Cajun Philly",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Philly Cheese Steak",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Pressed Club",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "French Dip",
+                                                          "price":  14.99
+                                                      },
+                                                      {
+                                                          "name":  "Club Sandwich",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Cherry BBQ Chicken",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Boom-Boom Chicken",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Big Tex Chicken",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "Sweet Thai Chili Chicken",
+                                                          "price":  15.99
+                                                      },
+                                                      {
+                                                          "name":  "BLT",
+                                                          "price":  11.99
+                                                      },
+                                                      {
+                                                          "name":  "Hot Turkey or Hot Pot Roast Beef",
+                                                          "price":  13.99,
+                                                          "description":  "Mashed potatoes \u0026 gravy on Texas toast"
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "breakfast",
+                                        "name":  "Breakfast Favorites",
+                                        "note":  "Daily 9 AM â€“ 11 AM",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Eggs with Hash Browns or American Fries, Meat \u0026 Toast",
+                                                          "price":  8.99,
+                                                          "description":  "1 / 2 / 3 eggs â€” $8.99 / $9.99 / $10.99"
+                                                      },
+                                                      {
+                                                          "name":  "Signature Thin Crust Breakfast Pizza",
+                                                          "price":  21.99,
+                                                          "description":  "Sausage gravy, eggs, ham, sausage, bacon \u0026 cheddar-jack"
+                                                      },
+                                                      {
+                                                          "name":  "Western Omelet",
+                                                          "price":  13.99
+                                                      },
+                                                      {
+                                                          "name":  "Loggers Loaded Omelet",
+                                                          "price":  16.49
+                                                      },
+                                                      {
+                                                          "name":  "Farmerâ€™s Omelet",
+                                                          "price":  12.99
+                                                      },
+                                                      {
+                                                          "name":  "Southern Omelet",
+                                                          "price":  13.99
+                                                      },
+                                                      {
+                                                          "name":  "Irish Omelet",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Mexican Omelet",
+                                                          "price":  13.99
+                                                      },
+                                                      {
+                                                          "name":  "Veggie Omelet",
+                                                          "price":  11.99
+                                                      },
+                                                      {
+                                                          "name":  "Philly Omelet",
+                                                          "price":  16.99
+                                                      },
+                                                      {
+                                                          "name":  "Ham \u0026 Cheese Omelet",
+                                                          "price":  12.99
+                                                      },
+                                                      {
+                                                          "name":  "Breakfast Burrito",
+                                                          "price":  14.99
+                                                      },
+                                                      {
+                                                          "name":  "Breakfast Sandwich",
+                                                          "price":  7.99
+                                                      },
+                                                      {
+                                                          "name":  "French Toast",
+                                                          "price":  6.99
+                                                      },
+                                                      {
+                                                          "name":  "Pancakes (full stack)",
+                                                          "price":  8.99,
+                                                          "description":  "Single $4.99 Â· Short stack $6.99"
+                                                      },
+                                                      {
+                                                          "name":  "Biscuits \u0026 Sausage Gravy",
+                                                          "price":  8.99,
+                                                          "half":  6.99
+                                                      },
+                                                      {
+                                                          "name":  "2 Eggs \u0026 Corned Beef Hash",
+                                                          "price":  10.99
+                                                      },
+                                                      {
+                                                          "name":  "Steak \u0026 Eggs",
+                                                          "price":  19.99,
+                                                          "description":  "10 oz T-bone (med well or well)"
+                                                      },
+                                                      {
+                                                          "name":  "Old-Fashioned Oatmeal",
+                                                          "price":  5.49
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "kids",
+                                        "name":  "For the Kids",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Chicken Finger Basket",
+                                                          "price":  9.99
+                                                      },
+                                                      {
+                                                          "name":  "Grilled Cheese with Fries",
+                                                          "price":  8.99
+                                                      },
+                                                      {
+                                                          "name":  "Plain Hot Dog with Fries",
+                                                          "price":  8.99
+                                                      },
+                                                      {
+                                                          "name":  "Mac and Cheese",
+                                                          "price":  5.99
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "sides",
+                                        "name":  "Sides",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Brew City Fries",
+                                                          "price":  5.99,
+                                                          "description":  "Basket $8.99"
+                                                      },
+                                                      {
+                                                          "name":  "Regular Fries",
+                                                          "price":  4.99,
+                                                          "description":  "Basket $6.99"
+                                                      },
+                                                      {
+                                                          "name":  "Tots",
+                                                          "price":  5.99,
+                                                          "description":  "Basket $8.99"
+                                                      },
+                                                      {
+                                                          "name":  "Baked Potato",
+                                                          "price":  3.99
+                                                      },
+                                                      {
+                                                          "name":  "Mashed Potatoes \u0026 Gravy",
+                                                          "price":  5.99
+                                                      },
+                                                      {
+                                                          "name":  "Broccoli",
+                                                          "price":  4.99
+                                                      },
+                                                      {
+                                                          "name":  "Corn",
+                                                          "price":  2.99
+                                                      },
+                                                      {
+                                                          "name":  "Cottage Cheese",
+                                                          "price":  3.99
+                                                      },
+                                                      {
+                                                          "name":  "Texas Toast Garlic Bread",
+                                                          "price":  2.99
+                                                      },
+                                                      {
+                                                          "name":  "Homemade Coleslaw",
+                                                          "price":  3.99
+                                                      },
+                                                      {
+                                                          "name":  "Side Salad",
+                                                          "price":  5.99
+                                                      }
+                                                  ]
+                                    },
+                                    {
+                                        "id":  "beverages",
+                                        "name":  "Beverages",
+                                        "items":  [
+                                                      {
+                                                          "name":  "Flavored Lemonade or Fresh Iced Tea",
+                                                          "description":  "Blackberry, Raspberry, Strawberry or Desert Pear"
+                                                      },
+                                                      {
+                                                          "name":  "Soft Drinks",
+                                                          "description":  "Coke, Coke Zero, Diet Coke, Vernors, Diet Vernors, Mountain Dew, Sprite, Lemonade, Mr. Pibb, Virgil\u0027s Root Beer"
+                                                      },
+                                                      {
+                                                          "name":  "Coffee \u0026 Tea",
+                                                          "description":  "Regular and Decaf"
+                                                      },
+                                                      {
+                                                          "name":  "Hot Chocolate, Milk \u0026 Juice"
+                                                      },
+                                                      {
+                                                          "name":  "Red Bull",
+                                                          "description":  "Several flavors"
+                                                      },
+                                                      {
+                                                          "name":  "Full Bar",
+                                                          "description":  "Cocktails, mixed drinks, liquor \u0026 spirits"
+                                                      },
+                                                      {
+                                                          "name":  "Draft and Craft Beers",
+                                                          "description":  "Rotating draft selections and craft beers"
+                                                      }
+                                                  ]
+                                    }
+                                ]
+             },
+    "events":  {
+                   "events":  [
+                                  {
+                                      "id":  "2026-07-23-mat-orlandi",
+                                      "date":  "2026-07-23",
+                                      "title":  "Mat Orlandi",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Mat Orlandi - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-08-01-ethan-deming-country-solo-7-10",
+                                      "date":  "2026-08-01",
+                                      "title":  "Ethan Deming Country Solo 7 –10",
+                                      "subtitle":  null,
+                                      "description":  "Ethan Deming Country Solo 7 –10",
+                                      "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-08-06-taylor-perry",
+                                      "date":  "2026-08-06",
+                                      "title":  "Taylor Perry",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Taylor Perry - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-08-13-dj-joey",
+                                      "date":  "2026-08-13",
+                                      "title":  "DJ Joey",
+                                      "subtitle":  "Karaoke",
+                                      "description":  "DJ Joey - Karaoke",
+                                      "time":  "9:00 PM - 12:00 AM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-08-15-ethan-deming",
+                                      "date":  "2026-08-15",
+                                      "title":  "Ethan Deming",
+                                      "subtitle":  "Country Solo",
+                                      "description":  "Ethan Deming - Country Solo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-08-27-parker-zimmerman",
+                                      "date":  "2026-08-27",
+                                      "title":  "Parker Zimmerman",
+                                      "subtitle":  "Solo",
+                                      "description":  "Parker Zimmerman - Solo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-08-29-jeep-jam",
+                                      "date":  "2026-08-29",
+                                      "title":  "Jeep Jam",
+                                      "subtitle":  null,
+                                      "description":  "Jeep Jam",
+                                      "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-09-03-taylor-perry",
+                                      "date":  "2026-09-03",
+                                      "title":  "Taylor Perry",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Taylor Perry - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-09-12-corey-kapanka",
+                                      "date":  "2026-09-12",
+                                      "title":  "Corey Kapanka",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Corey Kapanka - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-09-17-andy-brawn",
+                                      "date":  "2026-09-17",
+                                      "title":  "Andy Brawn",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Andy Brawn - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-09-26-party-of-two",
+                                      "date":  "2026-09-26",
+                                      "title":  "Party of Two",
+                                      "subtitle":  "Acoustic Duo",
+                                      "description":  "Party of Two - Acoustic Duo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  }
+                              ],
+                   "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
+                   "updated":  "2026-07-30",
+                   "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
+               },
+    "specials":  {
+                     "found":  true,
+                     "date":  "2026-07-30",
+                     "date_label":  "Thursday, July 30th, 2026",
+                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "items":  [
+                                   {
+                                       "name":  "Southern Scrambler",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "3 Eggs Scrambled with Hashbrowns, Diced Sausage Links, Diced White Onions Smothered with Homemade Country Gravy and Cheddar-Jack Cheese Choice of Toast",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "The Big K Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Our Delicious Fresh Never Frozen all Beef Angus Burger Chopped Up Over Fresh Salad Mix with Tomato, Onions, Pickle, Cheddar Jack-Cheese, Mozzarella Cheese and 1,000 Island Dressing.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Guinness Battered Cod Tender Basket",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Deep-Fried Guinness Atlantic Cod Tenders with Crinkle Cut Fries",
+                                       "flags":  [
+                                                     "new"
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Buffalo Chicken Sub",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Golden Brown Chicken Tenders tossed in Homemade Buffalo Sauce nestled in a Hoagie Bun with Pepper-Jack Cheese Leaf Lettuce, Diced Tomatoes and Creamy Bleu Cheese Dressing Choice of: Fries, Tots or Cup of Soup",
+                                       "flags":  [
+                                                     "new"
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Club on Flatbread",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Classic Flatbread with Mayo Base, Cheddar-Jack and Mozzarella Cheese, Diced Ham, Diced Turkey and Bacon Bits. Then Baked and Topped with Diced Tomatoes and Shredded Lettuce",
+                                       "flags":  [
+
+                                                 ]
+                                   }
+                               ],
+                     "source_file":  "Thursday July 30th 2026.docx",
+                     "generated":  "2026-07-30T08:16",
+                     "error":  null
+                 }
+}
