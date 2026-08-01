@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-07-31T23:57",
+    "updated":  "2026-08-01T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,7 +732,7 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-07-31",
+                   "updated":  "2026-08-01",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
@@ -789,7 +789,7 @@
                                    }
                                ],
                      "source_file":  "Friday July 31st 2026.docx",
-                     "generated":  "2026-07-31T23:57",
+                     "generated":  "2026-08-01T00:08",
                      "error":  null
                  }
 }
