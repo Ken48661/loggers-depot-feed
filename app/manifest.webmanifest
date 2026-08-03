@@ -1,0 +1,19 @@
+{
+  "name": "Loggers Depot",
+  "short_name": "Loggers",
+  "description": "Daily specials, events, and menu for Loggers Depot",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1a12",
+  "theme_color": "#1a2e1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
