@@ -737,13 +737,13 @@
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-03",
-                     "date_label":  "Monday, August 3rd, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-08-31",
+                     "date_label":  "Monday, August 31st, 2026",
+                     "soup":  "Homemade Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Buttermilk Biscuits covered in Homemade Country gravy.",
+                                       "name":  "Buttermilk biscuits covered in homemade country gravy. Full Order",
                                        "price":  "6.99",
                                        "half_price":  "4.99",
                                        "description":  "",
@@ -752,43 +752,61 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "New Orleans Chicken n Shrimp",
+                                       "name":  "Chicken BLT Salad",
+                                       "price":  "17.99",
+                                       "half_price":  "14.99",
+                                       "description":  "Seasoned chicken breast, cheddar-jack cheese, bacon crumbles, red onions, cucumbers, tomatoes, hard-boiled egg \u0026 croutons.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Bacon n Mushroom Queso Burger",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Fresh Angus beef patty with applewood bacon, sautéed mushrooms and white queso cheese on a bun. Choice of: Fries or Cup of Soup",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Pork Ribeye Dinner",
                                        "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "Cajun Seasoned Grilled Chicken and 8 Cajun Seasoned Grilled Shrimp and Fire Roasted Red Peppers on a Bed of White Rice",
+                                       "description":  "Tender 8oz pork ribeye and homemade mashed potatoes smothered in creamy homemade mushroom leek sauce. Served with green beans and a buttermilk biscuit.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Country Fried Chicken Bowl",
-                                       "price":  "15.99",
+                                       "name":  "White Queso Loaded Tots",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
+                                       "description":  "Deep fried tater tots covered with white queso cheese \u0026 topped with chopped sirloin and onion tanglers. Dessert",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken BLT Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Fresh Salad Mix Topped with Seasoned Chicken Breast, Cheddar Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and a Hard-Boiled Egg",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Guacamole \u0026 Bacon Sandwich",
-                                       "price":  "15.99",
+                                       "name":  "Lemon Berry Mascarpone Cake",
+                                       "price":  "7.99",
                                        "half_price":  null,
-                                       "description":  "7oz Burger or Grilled Chicken with Fresh Homemade Guacamole, Applewood Bacon, Swiss Cheese, Sliced Tomato on a Bun Choice of: Fries, Tanglers or Cup of Soup",
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Hot Honey Cheesecake",
+                                       "price":  "5.99",
+                                       "half_price":  null,
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 3rd, 2026.docx",
+                     "source_file":  "Monday August 31st, 2026.docx",
                      "generated":  "2026-08-03T08:52",
                      "error":  null
                  }
