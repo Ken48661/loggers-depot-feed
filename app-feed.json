@@ -731,19 +731,19 @@
                                       "type":  "music"
                                   }
                               ],
-                   "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
+                   "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
                    "updated":  "2026-08-03",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
                      "date":  "2026-08-03",
-                     "date_label":  "Monday, August 31st, 2026",
-                     "soup":  "Homemade Clam Chowder or Homemade Chili",
+                     "date_label":  "Monday, August 3rd, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Buttermilk biscuits covered in homemade country gravy. Full Order",
+                                       "name":  "Full Order",
                                        "price":  "6.99",
                                        "half_price":  "4.99",
                                        "description":  "",
@@ -752,61 +752,43 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken BLT Salad",
-                                       "price":  "17.99",
-                                       "half_price":  "14.99",
-                                       "description":  "Seasoned chicken breast, cheddar-jack cheese, bacon crumbles, red onions, cucumbers, tomatoes, hard-boiled egg \u0026 croutons.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Bacon n Mushroom Queso Burger",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Fresh Angus beef patty with applewood bacon, sautéed mushrooms and white queso cheese on a bun. Choice of: Fries or Cup of Soup",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Pork Ribeye Dinner",
+                                       "name":  "New Orleans Chicken n Shrimp",
                                        "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "Tender 8oz pork ribeye and homemade mashed potatoes smothered in creamy homemade mushroom leek sauce. Served with green beans and a buttermilk biscuit.",
+                                       "description":  "Cajun Seasoned Grilled Chicken and 8 Cajun Seasoned Grilled Shrimp and Fire Roasted Red Peppers on a Bed of White Rice",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "White Queso Loaded Tots",
-                                       "price":  "12.99",
+                                       "name":  "Country Fried Chicken Bowl",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Deep fried tater tots covered with white queso cheese \u0026 topped with chopped sirloin and onion tanglers. Dessert",
+                                       "description":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Lemon Berry Mascarpone Cake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
-                                       "description":  "",
+                                       "name":  "Chicken BLT Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Fresh Salad Mix Topped with Seasoned Chicken Breast, Cheddar Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and a Hard-Boiled Egg",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Hot Honey Cheesecake",
-                                       "price":  "5.99",
+                                       "name":  "Guacamole \u0026 Bacon Sandwich",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "",
+                                       "description":  "7oz Burger or Grilled Chicken with Fresh Homemade Guacamole, Applewood Bacon, Swiss Cheese, Sliced Tomato on a Bun Choice of: Fries, Tanglers or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 31st, 2026.docx",
+                     "source_file":  "Monday August 3rd, 2026.docx",
                      "generated":  "2026-08-03T08:50",
                      "error":  null
                  }
