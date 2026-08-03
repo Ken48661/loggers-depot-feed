@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#1a2e1a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Loggers Depot" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <title>Loggers Depot</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <style>
+    :root {
+      --bg: #0f1a12;
+      --card: #1a2a1c;
+      --card2: #243528;
+      --text: #f3f6f1;
+      --muted: #a8b5a8;
+      --accent: #c4a35a;
+      --accent2: #8bc34a;
+      --danger: #e57373;
+      --line: rgba(255,255,255,0.08);
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bot: env(safe-area-inset-bottom, 0px);
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      min-height: 100%;
+    }
+    body { padding-bottom: calc(72px + var(--safe-bot)); }
+    header.appbar {
+      position: sticky; top: 0; z-index: 20;
+      background: linear-gradient(180deg, #152418 0%, rgba(15,26,18,0.96) 100%);
+      border-bottom: 1px solid var(--line);
+      padding: calc(10px + var(--safe-top)) 16px 12px;
+      backdrop-filter: blur(8px);
+    }
+    .brand { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .brand h1 { margin: 0; font-size: 1.2rem; letter-spacing: 0.02em; }
+    .brand .tag { color: var(--muted); font-size: 0.82rem; margin-top: 2px; }
+    button.iconbtn {
+      border: 1px solid var(--line);
+      background: var(--card2);
+      color: var(--text);
+      border-radius: 999px;
+      min-width: 44px; min-height: 44px;
+      font-size: 1.1rem;
+      cursor: pointer;
+    }
+    button.iconbtn:active { transform: scale(0.97); }
+    button.iconbtn.spin svg { animation: spin 0.8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .status {
+      margin-top: 8px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      display: flex; flex-wrap: wrap; gap: 8px 14px;
+    }
+    .status .ok { color: var(--accent2); }
+    .status .warn { color: var(--accent); }
+    .status .err { color: var(--danger); }
+    main { padding: 14px 14px 0; max-width: 720px; margin: 0 auto; }
+    .hero {
+      background: radial-gradient(circle at top right, #2e4a30, var(--card));
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 16px;
+      margin-bottom: 14px;
+    }
+    .hero .date { color: var(--accent); font-weight: 700; font-size: 1.05rem; }
+    .hero .soup { margin-top: 8px; color: var(--text); font-size: 0.98rem; }
+    .hero .footer { margin-top: 8px; color: var(--muted); font-size: 0.85rem; }
+    section { margin-bottom: 18px; }
+    section h2 {
+      margin: 0 0 10px;
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 12px 14px;
+      margin-bottom: 10px;
+    }
+    .item-name { font-weight: 650; font-size: 1.02rem; }
+    .item-price {
+      float: right;
+      color: var(--accent);
+      font-weight: 700;
+      margin-left: 10px;
+      white-space: nowrap;
+    }
+    .item-desc { clear: both; color: var(--muted); font-size: 0.9rem; margin-top: 6px; line-height: 1.35; }
+    .badge {
+      display: inline-block;
+      background: #3d5a20;
+      color: #d7f0b2;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 999px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+    .event .when { color: var(--accent2); font-size: 0.85rem; margin-bottom: 4px; }
+    .event .title { font-weight: 650; }
+    .event .sub { color: var(--muted); font-size: 0.9rem; margin-top: 3px; }
+    .info-line { color: var(--muted); font-size: 0.92rem; margin: 4px 0; }
+    .info-line a { color: var(--accent); text-decoration: none; }
+    nav.tabs {
+      position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+      display: grid; grid-template-columns: repeat(4, 1fr);
+      gap: 0;
+      background: rgba(18, 28, 20, 0.97);
+      border-top: 1px solid var(--line);
+      padding: 6px 4px calc(6px + var(--safe-bot));
+    }
+    nav.tabs button {
+      background: transparent; border: 0; color: var(--muted);
+      padding: 8px 4px; font-size: 0.72rem; cursor: pointer;
+    }
+    nav.tabs button.active { color: var(--accent); font-weight: 700; }
+    nav.tabs button span { display: block; font-size: 1.15rem; margin-bottom: 2px; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .empty { color: var(--muted); padding: 20px 8px; text-align: center; }
+    .pullhint { text-align: center; color: var(--muted); font-size: 0.75rem; margin: 0 0 10px; }
+    .menu-cat { margin-bottom: 16px; }
+    .menu-cat h3 { margin: 0 0 8px; font-size: 1rem; color: var(--text); }
+    .toast {
+      position: fixed; left: 50%; bottom: calc(80px + var(--safe-bot));
+      transform: translateX(-50%) translateY(20px);
+      background: #2a3f2c; color: var(--text);
+      border: 1px solid var(--line);
+      padding: 10px 14px; border-radius: 999px;
+      font-size: 0.85rem; opacity: 0; pointer-events: none;
+      transition: opacity .2s, transform .2s; z-index: 50;
+      max-width: 90%;
+    }
+    .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  </style>
+</head>
+<body>
+  <header class="appbar">
+    <div class="brand">
+      <div>
+        <h1>Loggers Depot</h1>
+        <div class="tag">Food &amp; Spirits · West Branch, MI</div>
+      </div>
+      <button class="iconbtn" id="btnRefresh" title="Refresh" aria-label="Refresh specials">
+        <svg id="refreshIcon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M21 12a9 9 0 1 1-2.64-6.36"/><polyline points="21 3 21 9 15 9"/>
+        </svg>
+      </button>
+    </div>
+    <div class="status" id="statusLine">
+      <span id="statusText">Loading…</span>
+    </div>
+  </header>
+
+  <main>
+    <p class="pullhint">Opens fresh · auto-refreshes a few times a day · tap ↻ anytime</p>
+
+    <div id="panel-specials" class="panel active">
+      <div class="hero" id="specialsHero">
+        <div class="date" id="specialsDate">Today’s Specials</div>
+        <div class="soup" id="specialsSoup"></div>
+        <div class="footer" id="specialsFooter"></div>
+      </div>
+      <section>
+        <h2>Specials</h2>
+        <div id="specialsList"></div>
+      </section>
+    </div>
+
+    <div id="panel-events" class="panel">
+      <section>
+        <h2>Coming Up</h2>
+        <div id="eventsList"></div>
+      </section>
+    </div>
+
+    <div id="panel-menu" class="panel">
+      <section>
+        <h2>Menu</h2>
+        <div id="menuList"></div>
+      </section>
+    </div>
+
+    <div id="panel-info" class="panel">
+      <section>
+        <h2>Restaurant</h2>
+        <div class="card" id="infoCard"></div>
+      </section>
+    </div>
+  </main>
+
+  <nav class="tabs" aria-label="Sections">
+    <button type="button" data-tab="specials" class="active"><span>★</span>Specials</button>
+    <button type="button" data-tab="events"><span>♪</span>Events</button>
+    <button type="button" data-tab="menu"><span>☰</span>Menu</button>
+    <button type="button" data-tab="info"><span>ⓘ</span>Info</button>
+  </nav>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    (function () {
+      'use strict';
+
+      // Live feed (GitHub). Cache-busted on every fetch so force-close is never required.
+      var FEED_URLS = [
+        'https://raw.githubusercontent.com/Ken48661/loggers-depot-feed/main/app-feed.json',
+        'https://cdn.jsdelivr.net/gh/Ken48661/loggers-depot-feed@main/app-feed.json',
+        'https://raw.githubusercontent.com/Ken48661/loggers-depot-feed/refs/heads/main/app-feed.json'
+      ];
+
+      // Refresh policy:
+      // - always when opening / returning to the app if data is stale
+      // - while open: every 6 hours
+      // - also at local 8:00, 14:00, 18:00 (a couple+ times a day)
+      var SOFT_STALE_MS = 15 * 60 * 1000;          // re-check after 15 min on resume
+      var HARD_STALE_MS = 6 * 60 * 60 * 1000;      // force refresh every 6 hours while open
+      var DAY_CHECK_HOURS = [8, 14, 18];
+
+      var STORAGE_KEY = 'loggers_feed_v1';
+      var META_KEY = 'loggers_feed_meta_v1';
+
+      var state = {
+        feed: null,
+        lastFetchAt: 0,
+        lastFeedUpdated: null,
+        fetching: false,
+        lastDaySlot: null
+      };
+
+      var $ = function (id) { return document.getElementById(id); };
+
+      function toast(msg) {
+        var el = $('toast');
+        el.textContent = msg;
+        el.classList.add('show');
+        clearTimeout(toast._t);
+        toast._t = setTimeout(function () { el.classList.remove('show'); }, 2200);
+      }
+
+      function setStatus(html, cls) {
+        var el = $('statusText');
+        el.className = cls || '';
+        el.innerHTML = html;
+      }
+
+      function money(v) {
+        if (v == null || v === '') return '';
+        var n = Number(v);
+        if (!isFinite(n)) return '$' + v;
+        return '$' + n.toFixed(2).replace(/\.00$/, '');
+      }
+
+      function esc(s) {
+        return String(s == null ? '' : s)
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      }
+
+      function loadCache() {
+        try {
+          var raw = localStorage.getItem(STORAGE_KEY);
+          var meta = JSON.parse(localStorage.getItem(META_KEY) || '{}');
+          if (raw) {
+            state.feed = JSON.parse(raw);
+            state.lastFetchAt = meta.lastFetchAt || 0;
+            state.lastFeedUpdated = meta.lastFeedUpdated || null;
+          }
+        } catch (e) { /* ignore */ }
+      }
+
+      function saveCache(feed) {
+        try {
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(feed));
+          localStorage.setItem(META_KEY, JSON.stringify({
+            lastFetchAt: state.lastFetchAt,
+            lastFeedUpdated: state.lastFeedUpdated
+          }));
+        } catch (e) { /* ignore quota */ }
+      }
+
+      function isStale(ms) {
+        if (!state.lastFetchAt) return true;
+        return (Date.now() - state.lastFetchAt) > ms;
+      }
+
+      function feedDayChanged() {
+        if (!state.feed || !state.feed.specials || !state.feed.specials.date) return true;
+        var today = new Date();
+        var y = today.getFullYear();
+        var m = String(today.getMonth() + 1).padStart(2, '0');
+        var d = String(today.getDate()).padStart(2, '0');
+        var todayStr = y + '-' + m + '-' + d;
+        // On weekends publisher maps to Friday; still refresh if local calendar day rolled
+        var lastLocalDay = localStorage.getItem('loggers_local_day');
+        if (lastLocalDay && lastLocalDay !== todayStr) return true;
+        return false;
+      }
+
+      function markLocalDay() {
+        var today = new Date();
+        var y = today.getFullYear();
+        var m = String(today.getMonth() + 1).padStart(2, '0');
+        var d = String(today.getDate()).padStart(2, '0');
+        localStorage.setItem('loggers_local_day', y + '-' + m + '-' + d);
+      }
+
+      function currentDaySlot() {
+        var h = new Date().getHours();
+        var slot = null;
+        for (var i = 0; i < DAY_CHECK_HOURS.length; i++) {
+          if (h >= DAY_CHECK_HOURS[i]) slot = DAY_CHECK_HOURS[i];
+        }
+        return slot;
+      }
+
+      async function fetchFeedNetwork() {
+        var lastErr = null;
+        for (var i = 0; i < FEED_URLS.length; i++) {
+          var base = FEED_URLS[i];
+          var url = base + (base.indexOf('?') >= 0 ? '&' : '?') + 't=' + Date.now();
+          try {
+            var res = await fetch(url, {
+              method: 'GET',
+              cache: 'no-store',
+              headers: {
+                'Cache-Control': 'no-cache',
+                'Pragma': 'no-cache'
+              }
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            var data = await res.json();
+            if (!data || !data.specials) throw new Error('Invalid feed');
+            return data;
+          } catch (e) {
+            lastErr = e;
+          }
+        }
+        throw lastErr || new Error('All feed URLs failed');
+      }
+
+      async function refresh(reason, force) {
+        if (state.fetching) return;
+        if (!force && !isStale(SOFT_STALE_MS) && !feedDayChanged()) {
+          // still paint cache
+          if (state.feed) render(state.feed);
+          return;
+        }
+
+        state.fetching = true;
+        $('btnRefresh').classList.add('spin');
+        setStatus('Updating specials…', 'warn');
+
+        try {
+          var data = await fetchFeedNetwork();
+          var prev = state.lastFeedUpdated;
+          state.feed = data;
+          state.lastFetchAt = Date.now();
+          state.lastFeedUpdated = data.updated || data.specials.generated || null;
+          saveCache(data);
+          markLocalDay();
+          render(data);
+
+          var msg = 'Updated';
+          if (data.specials && data.specials.date_label) msg = data.specials.date_label;
+          setStatus(
+            '<span class="ok">Live</span> · ' + esc(msg) +
+            ' · refreshed ' + new Date(state.lastFetchAt).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }),
+            'ok'
+          );
+          if (force || reason === 'manual' || (prev && prev !== state.lastFeedUpdated)) {
+            toast(reason === 'manual' ? 'Specials refreshed' : 'New specials loaded');
+          }
+        } catch (e) {
+          if (state.feed) {
+            render(state.feed);
+            setStatus(
+              '<span class="warn">Offline — showing last saved</span> · ' +
+              (state.lastFetchAt ? new Date(state.lastFetchAt).toLocaleString() : 'unknown'),
+              'warn'
+            );
+          } else {
+            setStatus('<span class="err">Could not load specials</span> · check connection', 'err');
+            $('specialsList').innerHTML = '<div class="empty">Unable to reach the live menu feed.</div>';
+          }
+        } finally {
+          state.fetching = false;
+          $('btnRefresh').classList.remove('spin');
+        }
+      }
+
+      function render(feed) {
+        var sp = feed.specials || {};
+        $('specialsDate').textContent = sp.date_label || sp.date || 'Today’s Specials';
+        $('specialsSoup').textContent = sp.soup ? ('Soup: ' + sp.soup) : '';
+        $('specialsFooter').textContent = sp.footer || '';
+
+        var items = sp.items || [];
+        if (!items.length) {
+          $('specialsList').innerHTML = '<div class="empty">' + esc(sp.error || 'No specials posted yet.') + '</div>';
+        } else {
+          $('specialsList').innerHTML = items.map(function (it) {
+            var price = money(it.price);
+            var half = it.half_price ? (' / half ' + money(it.half_price)) : '';
+            var flags = (it.flags || []).indexOf('new') >= 0 ? '<span class="badge">NEW</span>' : '';
+            return '<div class="card">' +
+              '<div class="item-price">' + esc(price + half) + '</div>' +
+              '<div class="item-name">' + esc(it.name) + flags + '</div>' +
+              (it.description ? '<div class="item-desc">' + esc(it.description) + '</div>' : '') +
+              '</div>';
+          }).join('');
+        }
+
+        // Events: upcoming first
+        var ev = (feed.events && feed.events.events) ? feed.events.events.slice() : [];
+        var today = new Date(); today.setHours(0,0,0,0);
+        ev.sort(function (a, b) { return String(a.date).localeCompare(String(b.date)); });
+        var upcoming = ev.filter(function (e) {
+          if (!e.date) return true;
+          var d = new Date(e.date + 'T00:00:00');
+          return d >= today;
+        });
+        if (!upcoming.length) upcoming = ev.slice(-8);
+        if (!upcoming.length) {
+          $('eventsList').innerHTML = '<div class="empty">No events listed.</div>';
+        } else {
+          $('eventsList').innerHTML = upcoming.map(function (e) {
+            var when = [e.date, e.time].filter(Boolean).join(' · ');
+            return '<div class="card event">' +
+              (when ? '<div class="when">' + esc(when) + '</div>' : '') +
+              '<div class="title">' + esc(e.title || 'Event') + '</div>' +
+              (e.subtitle ? '<div class="sub">' + esc(e.subtitle) + '</div>' : '') +
+              (e.description && e.description !== e.title ? '<div class="sub">' + esc(e.description) + '</div>' : '') +
+              '</div>';
+          }).join('');
+        }
+
+        // Menu
+        var cats = (feed.menu && feed.menu.categories) ? feed.menu.categories : [];
+        if (!cats.length) {
+          $('menuList').innerHTML = '<div class="empty">Menu not available.</div>';
+        } else {
+          $('menuList').innerHTML = cats.map(function (cat) {
+            var rows = (cat.items || []).map(function (it) {
+              var p = it.price != null ? money(it.price) : '';
+              var half = it.half != null ? (' / half ' + money(it.half)) : '';
+              return '<div class="card">' +
+                (p ? '<div class="item-price">' + esc(p + half) + '</div>' : '') +
+                '<div class="item-name">' + esc(it.name) + '</div>' +
+                (it.description ? '<div class="item-desc">' + esc(it.description) + '</div>' : '') +
+                '</div>';
+            }).join('');
+            return '<div class="menu-cat"><h3>' + esc(cat.name) + '</h3>' + rows + '</div>';
+          }).join('');
+        }
+
+        // Info
+        var r = feed.restaurant || {};
+        var hours = (r.hours || []).map(function (h) {
+          return '<div class="info-line"><strong>' + esc(h.label) + ':</strong> ' + esc(h.value) + '</div>';
+        }).join('');
+        var notes = (r.notes || []).map(function (n) {
+          return '<div class="info-line">• ' + esc(n) + '</div>';
+        }).join('');
+        $('infoCard').innerHTML =
+          '<div class="item-name">' + esc(r.name || 'Loggers Depot') + '</div>' +
+          '<div class="info-line">' + esc(r.tagline || '') + '</div>' +
+          '<div class="info-line">' + esc(r.address || '') + '</div>' +
+          '<div class="info-line">' + esc(r.city || '') + '</div>' +
+          (r.phone ? '<div class="info-line"><a href="tel:' + esc(r.phone_raw || r.phone) + '">' + esc(r.phone) + '</a></div>' : '') +
+          (r.email ? '<div class="info-line"><a href="mailto:' + esc(r.email) + '">' + esc(r.email) + '</a></div>' : '') +
+          hours + notes +
+          (r.facebook ? '<div class="info-line"><a href="' + esc(r.facebook) + '" target="_blank" rel="noopener">Facebook</a></div>' : '') +
+          (r.instagram ? '<div class="info-line"><a href="' + esc(r.instagram) + '" target="_blank" rel="noopener">Instagram</a></div>' : '');
+      }
+
+      function setupTabs() {
+        var buttons = document.querySelectorAll('nav.tabs button');
+        buttons.forEach(function (btn) {
+          btn.addEventListener('click', function () {
+            var tab = btn.getAttribute('data-tab');
+            buttons.forEach(function (b) { b.classList.toggle('active', b === btn); });
+            ['specials', 'events', 'menu', 'info'].forEach(function (name) {
+              $('panel-' + name).classList.toggle('active', name === tab);
+            });
+            window.scrollTo(0, 0);
+          });
+        });
+      }
+
+      function maybeScheduledRefresh() {
+        // 6-hour hard refresh while app sits open
+        if (isStale(HARD_STALE_MS) || feedDayChanged()) {
+          refresh('interval', true);
+          return;
+        }
+        // Time-of-day slots: 8am, 2pm, 6pm local
+        var slot = currentDaySlot();
+        if (slot != null && state.lastDaySlot !== slot) {
+          state.lastDaySlot = slot;
+          // only force if we haven't fetched in the last 10 minutes
+          if (isStale(10 * 60 * 1000)) refresh('day-slot', true);
+        }
+      }
+
+      function onResume() {
+        // Returning to the app: refresh if stale or new calendar day — no force-close needed
+        if (feedDayChanged() || isStale(SOFT_STALE_MS)) {
+          refresh('resume', true);
+        }
+      }
+
+      // ---- boot ----
+      loadCache();
+      if (state.feed) {
+        render(state.feed);
+        setStatus('Opening… checking for updates', 'warn');
+      }
+      setupTabs();
+      $('btnRefresh').addEventListener('click', function () { refresh('manual', true); });
+
+      // Always fetch fresh on first open
+      refresh('boot', true);
+
+      // Resume / tab focus
+      document.addEventListener('visibilitychange', function () {
+        if (document.visibilityState === 'visible') onResume();
+      });
+      window.addEventListener('focus', onResume);
+      window.addEventListener('pageshow', function (ev) {
+        // bfcache restore
+        if (ev.persisted) onResume();
+      });
+
+      // Periodic checks while open (every minute is light; only fetches when policy says so)
+      setInterval(maybeScheduledRefresh, 60 * 1000);
+
+      // Service worker for installability; SW never caches the feed JSON
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js').catch(function () { /* optional */ });
+      }
+    })();
+  </script>
+</body>
+</html>
