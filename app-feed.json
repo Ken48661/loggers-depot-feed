@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-03T08:52",
+    "updated":  "2026-08-03T08:53",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -743,10 +743,10 @@
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Buttermilk Biscuits covered in Homemade Country gravy.",
+                                       "name":  "Biscuits \u0026 Gravy",
                                        "price":  "6.99",
                                        "half_price":  "4.99",
-                                       "description":  "",
+                                       "description":  "Buttermilk Biscuits covered in Homemade Country gravy.",
                                        "flags":  [
 
                                                  ]
@@ -789,7 +789,7 @@
                                    }
                                ],
                      "source_file":  "Monday August 3rd, 2026.docx",
-                     "generated":  "2026-08-03T08:52",
+                     "generated":  "2026-08-03T08:53",
                      "error":  null
                  }
 }
