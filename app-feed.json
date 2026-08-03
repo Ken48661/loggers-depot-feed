@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-02T23:53",
+    "updated":  "2026-08-03T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,82 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-02",
+                   "updated":  "2026-08-03",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-07-31",
-                     "date_label":  "Friday, July 31st, 2026",
-                     "soup":  "Clam Chowder or Homemade Chili",
+                     "date":  "2026-08-03",
+                     "date_label":  "Monday, August 31st, 2026",
+                     "soup":  "Homemade Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Spinach Salad",
-                                       "price":  "14.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Fresh Baby Spinach and Romaine with Shredded Parm Cheese, Crunchy Asian Noodles, Golden Rasins, Cranberries, Diced Tomatoes and Red Onions. We Our Raspberry Vinaigrette Dressing",
+                                       "name":  "Buttermilk biscuits covered in homemade country gravy. Full Order",
+                                       "price":  "6.99",
+                                       "half_price":  "4.99",
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "ADD Chicken or Grilled Shrimp additional",
-                                       "price":  "4",
-                                       "half_price":  null,
-                                       "description":  "Fish ‘N’ Chips $15.99 extra Piece $5.00 ea. 3-Premium Atlantic Cod Loins. Baked, Fried, or Lemon Steamed. Served with Fries, Homemade Coleslaw \u0026 Homemade Tartar Sauce",
+                                       "name":  "Chicken BLT Salad",
+                                       "price":  "17.99",
+                                       "half_price":  "14.99",
+                                       "description":  "Seasoned chicken breast, cheddar-jack cheese, bacon crumbles, red onions, cucumbers, tomatoes, hard-boiled egg \u0026 croutons.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "! Boom-Boom Chicken Wrap",
+                                       "name":  "Bacon n Mushroom Queso Burger",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Choice of: Fries or Tots",
-                                       "flags":  [
-                                                     "new"
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Cucumber Ranch Chicken Salad Wrap",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Chicken Salad Accented with Cool Cucumber and Ranch Undertones. Piled High on a Soft Wrap with Crisp Lettuce and your Choice of: Cottage Cheese or Brew City Fries",
+                                       "description":  "Fresh Angus beef patty with applewood bacon, sautéed mushrooms and white queso cheese on a bun. Choice of: Fries or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "8oz Pork Ribeye Dinner",
-                                       "price":  "14.99",
+                                       "name":  "Pork Ribeye Dinner",
+                                       "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "Buttermilk Marinated Pork Ribeye with choice of Potato choice of Corn or Green Beans with a Buttermilk Biscuit",
+                                       "description":  "Tender 8oz pork ribeye and homemade mashed potatoes smothered in creamy homemade mushroom leek sauce. Served with green beans and a buttermilk biscuit.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "White Queso Loaded Tots",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "Deep fried tater tots covered with white queso cheese \u0026 topped with chopped sirloin and onion tanglers. Dessert",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Lemon Berry Mascarpone Cake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Hot Honey Cheesecake",
+                                       "price":  "5.99",
+                                       "half_price":  null,
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday July 31st 2026.docx",
-                     "generated":  "2026-08-02T23:53",
+                     "source_file":  "Monday August 31st, 2026.docx",
+                     "generated":  "2026-08-03T00:08",
                      "error":  null
                  }
 }
