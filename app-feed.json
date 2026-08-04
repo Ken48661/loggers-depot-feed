@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-03T23:53",
+    "updated":  "2026-08-04T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-03",
+                   "updated":  "2026-08-04",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-03",
-                     "date_label":  "Monday, August 3rd, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-08-04",
+                     "date_label":  "Tuesday, August 4th, 2026",
+                     "soup":  "Cheesy Chicken Enchilada Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Biscuits \u0026 Gravy",
-                                       "price":  "6.99",
-                                       "half_price":  "4.99",
-                                       "description":  "Buttermilk Biscuits covered in Homemade Country gravy.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "New Orleans Chicken n Shrimp",
+                                       "name":  "Buffalo Chicken Salad",
                                        "price":  "16.99",
-                                       "half_price":  null,
-                                       "description":  "Cajun Seasoned Grilled Chicken and 8 Cajun Seasoned Grilled Shrimp and Fire Roasted Red Peppers on a Bed of White Rice",
+                                       "half_price":  "13.99",
+                                       "description":  "Chicken tenders tossed in buffalo sauce on fresh salad mix with tomato, red onions, banana peppers, black beans, tri-colored strips and blue cheese crumbles. Served with fiesta ranch.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Country Fried Chicken Bowl",
+                                       "name":  "Sweet-Heat Chicken Wrap",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
+                                       "description":  "Chicken tenders tossed in sweet Thai chili sauce with bacon crumbles, diced jalapeños, mozzarella and cheddar-jack cheese. Wrapped in a 12” grilled tortilla. Choice of: Fries, Tanglers or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken BLT Salad",
+                                       "name":  "Rattlesnake Pasta",
                                        "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Fresh Salad Mix Topped with Seasoned Chicken Breast, Cheddar Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and a Hard-Boiled Egg",
+                                       "half_price":  null,
+                                       "description":  "Creamy Alfredo sauce with smoked sausage, sautéed green peppers, onions and jalapeños over penne. Served with garlic toast.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Guacamole \u0026 Bacon Sandwich",
+                                       "name":  "BBQ Bacon \u0026 Onion Burger",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "7oz Burger or Grilled Chicken with Fresh Homemade Guacamole, Applewood Bacon, Swiss Cheese, Sliced Tomato on a Bun Choice of: Fries, Tanglers or Cup of Soup",
+                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 3rd, 2026.docx",
-                     "generated":  "2026-08-03T23:53",
+                     "source_file":  "Tuesday August 4th, 2026.docx",
+                     "generated":  "2026-08-04T00:08",
                      "error":  null
                  }
 }
