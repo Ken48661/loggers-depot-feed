@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-04T23:53",
+    "updated":  "2026-08-05T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,64 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-04",
+                   "updated":  "2026-08-05",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-04",
-                     "date_label":  "Tuesday, August 4th, 2026",
-                     "soup":  "Cheesy Chicken Enchilada Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-08-05",
+                     "date_label":  "Wednesday, August 5th, 2026",
+                     "soup":  "Homemade Broccoli \u0026 Cheese Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Buffalo Chicken Salad",
+                                       "name":  "Veggie Scrambler",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "3 eggs scrambled with broccoli, diced tomatoes, mushrooms, green peppers and hash browns with cheddar-jack cheese. Choice of toast",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "The Club Salad",
                                        "price":  "16.99",
                                        "half_price":  "13.99",
-                                       "description":  "Chicken tenders tossed in buffalo sauce on fresh salad mix with tomato, red onions, banana peppers, black beans, tri-colored strips and blue cheese crumbles. Served with fiesta ranch.",
+                                       "description":  "Ham, turkey, applewood bacon, iceberg lettuce, cheddar-jack cheese, shredded parm, tomatoes, cucumber, diced white onions and croutons. Choice of dressing.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Sweet-Heat Chicken Wrap",
-                                       "price":  "15.99",
+                                       "name":  "Chicken Bacon and Mushroom Alfredo",
+                                       "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "Chicken tenders tossed in sweet Thai chili sauce with bacon crumbles, diced jalapeños, mozzarella and cheddar-jack cheese. Wrapped in a 12” grilled tortilla. Choice of: Fries, Tanglers or Cup of Soup",
+                                       "description":  "Grilled chicken breast, sautéed mushrooms and bacon over penne noodles covered with our signature Alfredo sauce. Served with garlic bread and side salad.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Rattlesnake Pasta",
+                                       "name":  "Boom-Boom Chicken Wrap",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Creamy Alfredo sauce with smoked sausage, sautéed green peppers, onions and jalapeños over penne. Served with garlic toast.",
+                                       "description":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Choice of: Fries or Tots",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "BBQ Bacon \u0026 Onion Burger",
+                                       "name":  "Loggers 5 Alarm Burger",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
+                                       "description":  "7oz Angus Patty with Pepper-Jack Cheese, Homemade Suicide Sauce, Sliced Jalapenos, Sliced Tomato, Lettuce and Chipotle Mayo on a Bun Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday August 4th, 2026.docx",
-                     "generated":  "2026-08-04T23:53",
+                     "source_file":  "Wednesday August 5th, 2026.docx",
+                     "generated":  "2026-08-05T00:08",
                      "error":  null
                  }
 }
