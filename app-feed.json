@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-06T05:23",
+    "updated":  "2026-08-06T05:38",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -753,7 +753,7 @@
                                    },
                                    {
                                        "name":  "Homemade Sweet \u0026 Sour Chicken",
-                                       "price":  "14.99",
+                                       "price":  "16.99",
                                        "half_price":  null,
                                        "description":  "Breaded Chicken Chunks with Green Peppers, Roasted Red Peppers, White Onion, Pineapple and Broccoli. All tossed in Our Homemade Sauce. Served on a bed of White Rice. Served with 1 Crab Rangoon",
                                        "flags":  [
@@ -807,7 +807,7 @@
                                    }
                                ],
                      "source_file":  "Thursday August 6th, 2026.docx",
-                     "generated":  "2026-08-06T05:23",
+                     "generated":  "2026-08-06T05:38",
                      "error":  null
                  }
 }
