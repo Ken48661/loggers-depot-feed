@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-06T23:53",
+    "updated":  "2026-08-07T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-06",
+                   "updated":  "2026-08-07",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-06",
-                     "date_label":  "Thursday, August 6th, 2026",
-                     "soup":  "Homemade Egg Drop Soup or Homemade Chili",
+                     "date":  "2026-08-07",
+                     "date_label":  "Friday, August 7th, 2026",
+                     "soup":  "New England Clam Chowder or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Veggie Scrambler",
-                                       "price":  "10.99",
+                                       "name":  "Fish ’N’ Chips $17.99 Extra piece",
+                                       "price":  "5.00",
                                        "half_price":  null,
-                                       "description":  "3 Eggs Scrambled with Broccoli, Diced Tomatoes, Mushrooms, Green Peppers and Hashbrowns with Cheddar-Jack Cheese Choice of Toast",
+                                       "description":  "Three pieces of center-cut cod. Choice of deep-fried, baked or lemon-steamed. Served with fries and homemade coleslaw.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Homemade Sweet \u0026 Sour Chicken",
-                                       "price":  "16.99",
-                                       "half_price":  null,
-                                       "description":  "Breaded Chicken Chunks with Green Peppers, Roasted Red Peppers, White Onion, Pineapple and Broccoli. All tossed in Our Homemade Sauce. Served on a bed of White Rice. Served with 1 Crab Rangoon",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Sesame Chicken Salad",
+                                       "name":  "Shrimp Po’ Boy Wrap",
                                        "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Seasoned Chicken Breast, Asian Sauce, Sesame Seeds, Cheddar-Jack Cheese, Crunchy Asian Noodles, Mandurian Oranges, Diced Tomatoes, Diced Red Onions, atop Fresh salad Mix.",
+                                       "half_price":  null,
+                                       "description":  "Crispy Beer Battered Shrimp, Homemade Cajun Rémoulade, Mozzarella Cheese, Shredded Lettuce and Diced Tomato Wrapped in a 12” Grilled Tortilla. Choice of: Fries, Tanglers or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Tuscan Chicken Flatbread",
+                                       "name":  "Homestyle Chicken Finger Basket",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Chicken Breast with Bacon, Sliced Tomatoes, Swiss and American Cheese and Homemade Tuscan Sauce on Flatbread and Baked",
+                                       "description":  "New Homestyle Chicken Fingers, Tossed in Boom-Boom Sauce or Plain Side of Fries or Onion Tanglers.",
+                                       "flags":  [
+                                                     "new"
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Crab Rangoon Bake",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "Our Famous Crab Rangoon Filling on a Pita then Baked. Topped with Deep-Fried Wontons a Drizzle of Sweet Chilli Sauce.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "4 Hand Folded Crab Rangoon’s",
-                                       "price":  "11.99",
+                                       "name":  "6-Mozzarella Sticks",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday August 6th, 2026.docx",
-                     "generated":  "2026-08-06T23:53",
+                     "source_file":  "Friday August 7th, 2026.docx",
+                     "generated":  "2026-08-07T00:08",
                      "error":  null
                  }
 }
