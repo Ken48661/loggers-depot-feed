@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-09T23:53",
+    "updated":  "2026-08-10T00:08",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,54 +732,54 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-09",
+                   "updated":  "2026-08-10",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-07",
-                     "date_label":  "Friday, August 7th, 2026",
-                     "soup":  "New England Clam Chowder or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-08-10",
+                     "date_label":  "Monday, August 10th, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Fish ’N’ Chips $17.99 Extra piece",
-                                       "price":  "5.00",
+                                       "name":  "French Toast",
+                                       "price":  "6.99",
                                        "half_price":  null,
-                                       "description":  "Three pieces of center-cut cod. Choice of deep-fried, baked or lemon-steamed. Served with fries and homemade coleslaw.",
+                                       "description":  "Two Slices of Texas Toast topped with Powder Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Shrimp Po’ Boy Wrap",
+                                       "name":  "Creamy Mushroom \u0026 Leek Pasta",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Fresh penne pasta covered in homemade mushroom leek sauce. Served with a side salad and garlic toast.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Western Club Wrap",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Crispy Beer Battered Shrimp, Homemade Cajun Rémoulade, Mozzarella Cheese, Shredded Lettuce and Diced Tomato Wrapped in a 12” Grilled Tortilla. Choice of: Fries, Tanglers or Cup of Soup",
+                                       "description":  "Applewood Bacon, Bavarian Ham, Purdue Turkey, Lettuce, Tomato Cheddar-Jack Cheese \u0026 Chipotle Mayo in a Grilled Tortilla Wrap. Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Homestyle Chicken Finger Basket",
-                                       "price":  "13.99",
+                                       "name":  "BBQ Bacon \u0026 Onion Burger",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "New Homestyle Chicken Fingers, Tossed in Boom-Boom Sauce or Plain Side of Fries or Onion Tanglers.",
-                                       "flags":  [
-                                                     "new"
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Crab Rangoon Bake",
-                                       "price":  "12.99",
-                                       "half_price":  null,
-                                       "description":  "Our Famous Crab Rangoon Filling on a Pita then Baked. Topped with Deep-Fried Wontons a Drizzle of Sweet Chilli Sauce.",
+                                       "description":  "7oz Angus Beef Patty with Pepper-Jack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "6-Mozzarella Sticks",
+                                       "name":  "Deep-Fried Pickles",
                                        "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday August 7th, 2026.docx",
-                     "generated":  "2026-08-09T23:53",
+                     "source_file":  "Monday August 10th, 2026.docx",
+                     "generated":  "2026-08-10T00:08",
                      "error":  null
                  }
 }
