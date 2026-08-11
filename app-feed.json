@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-10T09:50",
+    "updated":  "2026-08-11T15:50",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,54 +732,54 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-10",
+                   "updated":  "2026-08-11",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-10",
-                     "date_label":  "Monday, August 10th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-08-11",
+                     "date_label":  "Tuesday, August 11th, 2026",
+                     "soup":  "Chicken Gumbo Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "French Toast",
-                                       "price":  "6.99",
+                                       "name":  "Breakfast Burrito",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Two Slices of Texas Toast topped with Powder Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
+                                       "description":  "Hash browns, diced white onions, bacon, American cheese and an omelet shell wrapped in a 12” tortilla and grilled (Available until 11am).",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Creamy Mushroom \u0026 Leek Pasta",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Fresh penne pasta covered in homemade mushroom leek sauce. Served with a side salad and garlic toast.",
+                                       "name":  "Chicken BLT Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Seasoned chicken breast, cheddar-jack cheese, bacon crumbles, red onions, cucumbers, tomatoes, hard-boiled egg \u0026 croutons.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Western Club Wrap",
+                                       "name":  "Broccoli Chicken Wrap",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Applewood Bacon, Bavarian Ham, Purdue Turkey, Lettuce, Tomato Cheddar-Jack Cheese \u0026 Chipotle Mayo in a Grilled Tortilla Wrap. Choice of: Fries, Tots or Cup of Soup",
+                                       "description":  "Seasoned chicken breast, pepper jack cheese, cheddar-jack cheese, broccoli, lettuce, tomato, red onions and homemade ranch dressing wrapped in a 12” grilled tortilla. Choice of: Fries, Tanglers or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "BBQ Bacon \u0026 Onion Burger",
-                                       "price":  "15.99",
+                                       "name":  "Shrimp Alfredo Dinner",
+                                       "price":  "17.99",
                                        "half_price":  null,
-                                       "description":  "7oz Angus Beef Patty with Pepper-Jack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
+                                       "description":  "Succulent grilled shrimp kissed with zesty lemon-pepper over penne noodles covered in our signature Alfredo sauce. Served with garlic bread and side salad.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Deep-Fried Pickles",
+                                       "name":  "Deep-fried Pickles",
                                        "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 10th, 2026.docx",
-                     "generated":  "2026-08-10T09:50",
+                     "source_file":  "Tuesday August 11th, 2026.docx",
+                     "generated":  "2026-08-11T15:50",
                      "error":  null
                  }
 }
