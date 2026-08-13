@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-12T15:20",
+    "updated":  "2026-08-13T08:43",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,82 +732,55 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-12",
+                   "updated":  "2026-08-13",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-12",
-                     "date_label":  "Wednesday, August 12th, 2026",
-                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-08-13",
+                     "date_label":  "Thursday, August 13th, 2026",
+                     "soup":  "Homemade Loaded Baked Potato Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Chef Salad",
+                                       "name":  "Crunchy or Grilled Chicken Salad",
                                        "price":  "15.99",
                                        "half_price":  "12.99",
-                                       "description":  "Ham, turkey, cheddar-jack cheese, red onions, diced tomatoes, cucumbers, hard-boiled egg \u0026 croutons.",
+                                       "description":  "Sliced golden tenders or grilled chicken, cheddar-jack cheese, red onions, diced tomatoes, cucumbers \u0026 croutons.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Two Coney Dogs and Fries",
-                                       "price":  "11.99",
+                                       "name":  "Smothered Italian Chicken",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Covered with Real Detroit Coney Sauce with Diced White Onions. Served with Our Signature Fries.",
+                                       "description":  "Grilled chicken breast topped with sautéed onions and roasted red peppers, diced tomatoes, mozzarella and shredded parm then baked. Served with side salad.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Detroit Coney Chili Dog Pizza",
-                                       "price":  "15.99",
+                                       "name":  "! Homestyle Boneless Wings Basket",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Detroit Coney Sauce, Cheddar Jack Cheese, Hot Dogs, Diced White Onions and Nacho Cheese Sauce. Traditional or Thin Crust.",
+                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with crinkle cut fries",
                                        "flags":  [
                                                      "new"
                                                  ]
                                    },
                                    {
-                                       "name":  "Coney Fries",
-                                       "price":  "10.99",
+                                       "name":  "New Today!!! Buffalo Chicken Taco $4.99 or 2-",
+                                       "price":  "8.99",
                                        "half_price":  null,
-                                       "description":  "Basket of Crinkle Cut Fries Covered with Real Detroit Coney Sauce with Diced White Onions and Cheddar-Jack Cheese",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Mozzarella Sticks",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Dessert",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "New York Cheesecake",
-                                       "price":  "6.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Carrot Cake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
-                                       "description":  "",
+                                       "description":  "Our Yummy Chicken Tender tossed in Buffalo Sauce Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday August 12th, 2026.docx",
-                     "generated":  "2026-08-12T15:20",
+                     "source_file":  "Thursday August 13th, 2026.docx",
+                     "generated":  "2026-08-13T08:43",
                      "error":  null
                  }
 }
