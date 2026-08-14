@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-13T09:50",
+    "updated":  "2026-08-14T07:35",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,64 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-13",
+                   "updated":  "2026-08-14",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-13",
-                     "date_label":  "Thursday, August 13th, 2026",
-                     "soup":  "Homemade Loaded Baked Potato Soup or Homemade Chili",
+                     "date":  "2026-08-14",
+                     "date_label":  "Friday, August 14th, 2026",
+                     "soup":  "Homemade Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Crunchy or Grilled Chicken Salad",
+                                       "name":  "Western Omelet",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "Ham, green peppers, onion \u0026 American cheese. Served with hash browns or American fries \u0026 toast (Available until 11am).",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Turkey Club Salad",
+                                       "price":  "17.99",
+                                       "half_price":  "14.99",
+                                       "description":  "Premium Sliced Turkey Breast, Applewood Bacon, Cheddar-Jack Cheese, Diced Tomatoes, Cucumbers, Red Onion, Croutons and a Hard-Boiled Egg",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fish ’N’ Chips $17.99 Extra fish",
+                                       "price":  "5.00",
+                                       "half_price":  null,
+                                       "description":  "Three pieces of center-cut cod. Choice of deep-fried, baked or lemon-steamed. Served with fries and homemade coleslaw.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Loggers Big Depot",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "7oz Fresh Angus Beef cooked to your liking with Lettuce, Tomato, Pickles, Onion and Mayo on a Grilled Bun with Fries or Tots",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Loggers Club Wrap",
                                        "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Sliced golden tenders or grilled chicken, cheddar-jack cheese, red onions, diced tomatoes, cucumbers \u0026 croutons.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Smothered Italian Chicken",
-                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Grilled chicken breast topped with sautéed onions and roasted red peppers, diced tomatoes, mozzarella and shredded parm then baked. Served with side salad.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "! Homestyle Boneless Wings Basket",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with crinkle cut fries",
-                                       "flags":  [
-                                                     "new"
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "New Today!!! Buffalo Chicken Taco $4.99 or 2-",
-                                       "price":  "8.99",
-                                       "half_price":  null,
-                                       "description":  "Our Yummy Chicken Tender tossed in Buffalo Sauce Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
+                                       "description":  "Sliced Ham, Sliced Turkey, Applewood Bacon, Lettuce, Tomato, Cheddar-Jack Cheese and Mayo Served in a Grilled 12” Tortilla Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday August 13th, 2026.docx",
-                     "generated":  "2026-08-13T09:50",
+                     "source_file":  "Friday August 14th, 2026.docx",
+                     "generated":  "2026-08-14T07:35",
                      "error":  null
                  }
 }
