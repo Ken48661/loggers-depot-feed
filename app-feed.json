@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-14T18:20",
+    "updated":  "2026-08-15T08:22",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -632,42 +632,6 @@
     "events":  {
                    "events":  [
                                   {
-                                      "id":  "2026-07-23-mat-orlandi",
-                                      "date":  "2026-07-23",
-                                      "title":  "Mat Orlandi",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Mat Orlandi - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-08-01-ethan-deming-country-solo-7-10",
-                                      "date":  "2026-08-01",
-                                      "title":  "Ethan Deming Country Solo 7 –10",
-                                      "subtitle":  null,
-                                      "description":  "Ethan Deming Country Solo 7 –10",
-                                      "time":  null,
-                                      "type":  "event"
-                                  },
-                                  {
-                                      "id":  "2026-08-06-taylor-perry",
-                                      "date":  "2026-08-06",
-                                      "title":  "Taylor Perry",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Taylor Perry - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-08-13-dj-joey",
-                                      "date":  "2026-08-13",
-                                      "title":  "DJ Joey",
-                                      "subtitle":  "Karaoke",
-                                      "description":  "DJ Joey - Karaoke",
-                                      "time":  "9:00 PM - 12:00 AM",
-                                      "type":  "music"
-                                  },
-                                  {
                                       "id":  "2026-08-15-ethan-deming",
                                       "date":  "2026-08-15",
                                       "title":  "Ethan Deming",
@@ -704,6 +668,15 @@
                                       "type":  "music"
                                   },
                                   {
+                                      "id":  "2026-09-10-ez-entertainment",
+                                      "date":  "2026-09-10",
+                                      "title":  "EZ Entertainment",
+                                      "subtitle":  null,
+                                      "description":  "EZ Entertainment",
+                                      "time":  "8:00 PM - 11:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
                                       "id":  "2026-09-12-corey-kapanka",
                                       "date":  "2026-09-12",
                                       "title":  "Corey Kapanka",
@@ -725,14 +698,41 @@
                                       "id":  "2026-09-26-party-of-two",
                                       "date":  "2026-09-26",
                                       "title":  "Party of Two",
-                                      "subtitle":  "Acoustic Duo",
-                                      "description":  "Party of Two - Acoustic Duo",
+                                      "subtitle":  "Duo",
+                                      "description":  "Party of Two - Duo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-10-03-dan-meadows",
+                                      "date":  "2026-10-03",
+                                      "title":  "Dan Meadows",
+                                      "subtitle":  "Solo",
+                                      "description":  "Dan Meadows - Solo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-10-10-derek-boik",
+                                      "date":  "2026-10-10",
+                                      "title":  "Derek Boik",
+                                      "subtitle":  "Solo",
+                                      "description":  "Derek Boik - Solo",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-10-17-just-kat-will",
+                                      "date":  "2026-10-17",
+                                      "title":  "Just Kat \u0026Will",
+                                      "subtitle":  "Duo",
+                                      "description":  "Just Kat \u0026Will - Duo",
                                       "time":  "7:00 PM - 10:00 PM",
                                       "type":  "music"
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-14",
+                   "updated":  "2026-08-15",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
@@ -789,7 +789,7 @@
                                    }
                                ],
                      "source_file":  "Friday August 14th, 2026.docx",
-                     "generated":  "2026-08-14T18:20",
+                     "generated":  "2026-08-15T08:22",
                      "error":  null
                  }
 }
