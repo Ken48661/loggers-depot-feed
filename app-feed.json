@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-16T11:20",
+    "updated":  "2026-08-17T08:35",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,82 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-16",
+                   "updated":  "2026-08-17",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-14",
-                     "date_label":  "Friday, August 14th, 2026",
-                     "soup":  "Homemade Clam Chowder or Homemade Chili",
+                     "date":  "2026-08-17",
+                     "date_label":  "Monday, August 17th, 2026",
+                     "soup":  "Homemade Chicken Noodle or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Western Omelet",
-                                       "price":  "12.99",
+                                       "name":  "2 Eggs \u0026 Corned Beef Hash Meal",
+                                       "price":  "8.99",
                                        "half_price":  null,
-                                       "description":  "Ham, green peppers, onion \u0026 American cheese. Served with hash browns or American fries \u0026 toast (Available until 11am).",
+                                       "description":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Turkey Club Salad",
-                                       "price":  "17.99",
-                                       "half_price":  "14.99",
-                                       "description":  "Premium Sliced Turkey Breast, Applewood Bacon, Cheddar-Jack Cheese, Diced Tomatoes, Cucumbers, Red Onion, Croutons and a Hard-Boiled Egg",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Fish ’N’ Chips $17.99 Extra fish",
-                                       "price":  "5.00",
-                                       "half_price":  null,
-                                       "description":  "Three pieces of center-cut cod. Choice of deep-fried, baked or lemon-steamed. Served with fries and homemade coleslaw.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Loggers Big Depot",
+                                       "name":  "Crunchy Dill Chicken",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "7oz Fresh Angus Beef cooked to your liking with Lettuce, Tomato, Pickles, Onion and Mayo on a Grilled Bun with Fries or Tots",
+                                       "description":  "Breaded Chicken Breast on a Bun with Sliced Pickles, Leaf Lettuce and Chipotle Mayo. Served with Our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Loggers Club Wrap",
+                                       "name":  "Cheeseburger Wrap",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Fresh Angus Beef with American Cheese Pickles, Shredded Lettuce, Diced Tomatoes. In a Grilled Tortilla. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Creamy Mushroom \u0026 Leek Smothered Chicken",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Sliced Ham, Sliced Turkey, Applewood Bacon, Lettuce, Tomato, Cheddar-Jack Cheese and Mayo Served in a Grilled 12” Tortilla Choice of: Fries, Tots or Cup of Soup",
+                                       "description":  "Grilled Chicken Breast with Homemade Mashed Potatoes Covered in a Creamy Homemade Mushroom Leek Sauce. Choice of: Corn or Broccoli",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Onion Battered Deep-Fried Green Beans",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Dessert",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "New York Cheesecake",
+                                       "price":  "6.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Carrot Cake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday August 14th, 2026.docx",
-                     "generated":  "2026-08-16T11:20",
+                     "source_file":  "Monday August 17th, 2026.docx",
+                     "generated":  "2026-08-17T08:35",
                      "error":  null
                  }
 }
