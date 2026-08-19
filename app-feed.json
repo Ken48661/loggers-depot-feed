@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-18T10:05",
+    "updated":  "2026-08-19T07:15",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,57 +732,57 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-18",
+                   "updated":  "2026-08-19",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-18",
-                     "date_label":  "Tuesday, August 18th, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "date":  "2026-08-19",
+                     "date_label":  "Wednesday, August 19th, 2026",
+                     "soup":  "Vegetable Beef Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Mexi. Omelet",
+                                       "name":  "Southern Scrambler",
                                        "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
+                                       "description":  "3 Eggs Scrambled with Hashbrowns, Diced Sausage Links, Diced White Onions Smothered with Homemade Country Gravy and Cheddar-Jack Cheese Choice of Toast Biscuits \u0026 Gravy (Avail. ALL DAY)",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Big K Burger",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Fresh Never Frozen Angus Beef Pattie, Swiss and American Cheese, Shredded Lettuce, Onions \u00261,000 Island Dressing on a Bun Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "name":  "Buttermilk Biscuits Covered in Homemade Country Gravy Full Order",
+                                       "price":  "6.99",
+                                       "half_price":  "4.99",
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Philly Cheese Steak Tot’s",
-                                       "price":  "12.99",
-                                       "half_price":  null,
-                                       "description":  "A Mound of Deep-Fried Tater-Tots topped With Grilled Chopped Sirloin Sautéed Onions, Green Peppers, Mushrooms and Mozzarella Cheese",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Grilled Chicken Bacon Ranch Salad",
+                                       "name":  "Country Fried Chicken Bowl",
                                        "price":  "15.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Iceberg Lettuce, Topped with Grilled Chicken, Real Bacon Crumbles, Cheddar-Jack Cheese and Diced Tomatoes. Served with a Side of Loggers Homemade Ranch Dressing.",
+                                       "half_price":  null,
+                                       "description":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Basket of Onion Battered Deep-Fried Breen Beans",
-                                       "price":  "9.99",
+                                       "name":  "Texas Toast BBQ Burger",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Dessert",
+                                       "description":  "7oz Angus Patty Topped with American Cheese, Onion Tanglers, Sweet Baby Ray’s BBQ Sauce on Toasted Texas Toast. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Creamy Mushroom \u0026 Leek Pasta",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Fresh Penne Pasta covered in Homemade Mushroom Leek Sauce. Served with a Side Salad and Garlic Toast Dessert",
                                        "flags":  [
 
                                                  ]
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday August 18th, 2026.docx",
-                     "generated":  "2026-08-18T10:05",
+                     "source_file":  "Wednesday August 19th, 2026.docx",
+                     "generated":  "2026-08-19T07:15",
                      "error":  null
                  }
 }
