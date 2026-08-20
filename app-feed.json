@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-20T17:20",
+    "updated":  "2026-08-20T17:35",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -807,7 +807,7 @@
                                    }
                                ],
                      "source_file":  "Thursday August 20th, 2026.docx",
-                     "generated":  "2026-08-20T17:20",
+                     "generated":  "2026-08-20T17:35",
                      "error":  null
                  }
 }
