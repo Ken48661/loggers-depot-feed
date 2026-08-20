@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-19T12:35",
+    "updated":  "2026-08-20T08:17",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,57 +732,57 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-19",
+                   "updated":  "2026-08-20",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-19",
-                     "date_label":  "Wednesday, August 19th, 2026",
-                     "soup":  "Vegetable Beef Soup or Homemade Chili",
+                     "date":  "2026-08-20",
+                     "date_label":  "Thursday, August 20th, 2026",
+                     "soup":  "Homemade Garden Tomato Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Southern Scrambler",
+                                       "name":  "Loggers Loaded Scrambler",
+                                       "price":  "11.99",
+                                       "half_price":  null,
+                                       "description":  "4 Eggs Scrambled with Diced Ham, Diced Sausage Links, Tomatoes, Green Peppers, Mushrooms, Bacon and Hash Browns Topped with Cheddar-Jack Cheese",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Texas Toast Grilled Cheese with Bowl of Soup",
+                                       "price":  "11.99",
+                                       "half_price":  null,
+                                       "description":  "Get a Grilled Cheese Sandwich Plain with Ham or with Bacon. Along with a Bowl of our Homemade Garden Tomato Soup.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Bacon Bleu Burger",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "7oz Angus Patty with Bleu Cheese Crumbles, Applewood Bacon, Red Onion on a Bun. Choice of: Fries or Cup of Soup",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Buffalo Tot’s",
                                        "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "3 Eggs Scrambled with Hashbrowns, Diced Sausage Links, Diced White Onions Smothered with Homemade Country Gravy and Cheddar-Jack Cheese Choice of Toast Biscuits \u0026 Gravy (Avail. ALL DAY)",
+                                       "description":  "A Mound of Deep-Fried Tater-Tots topped With Bleu Cheese Crumbles and Homemade Buffalo Sauce.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Buttermilk Biscuits Covered in Homemade Country Gravy Full Order",
-                                       "price":  "6.99",
-                                       "half_price":  "4.99",
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Country Fried Chicken Bowl",
+                                       "name":  "The Club Salad",
                                        "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Texas Toast BBQ Burger",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "7oz Angus Patty Topped with American Cheese, Onion Tanglers, Sweet Baby Ray’s BBQ Sauce on Toasted Texas Toast. Served with Our Ultimate Crisp Crinkle Cut Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Creamy Mushroom \u0026 Leek Pasta",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Fresh Penne Pasta covered in Homemade Mushroom Leek Sauce. Served with a Side Salad and Garlic Toast Dessert",
+                                       "half_price":  "12.99",
+                                       "description":  "Ham, Turkey, Applewood Bacon, Iceberg Lettuce, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing. Dessert",
                                        "flags":  [
 
                                                  ]
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday August 19th, 2026.docx",
-                     "generated":  "2026-08-19T12:35",
+                     "source_file":  "Thursday August 20th, 2026.docx",
+                     "generated":  "2026-08-20T08:17",
                      "error":  null
                  }
 }
