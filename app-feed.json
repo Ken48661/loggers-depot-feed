@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T09:20",
+    "updated":  "2026-08-24T07:44",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,48 +732,48 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-23",
+                   "updated":  "2026-08-24",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-21",
-                     "date_label":  "Friday, August 21st, 2026",
-                     "soup":  "Clam Chowder or Broccoli \u0026 Cheese or Homemade Chili",
+                     "date":  "2026-08-24",
+                     "date_label":  "Monday, August 24th, 2026",
+                     "soup":  "Chessy Chicken Enchiladia or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Our Signature Fish and Chips $17.99 Extra piece",
-                                       "price":  "5.00",
+                                       "name":  "Chicken Bacon and Mushroom Alfredo",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
+                                       "description":  "Grilled Chicken Breast Sautéed Mushrooms and Bacon over Penn Noodles Covered with our Signature Alfredo Sauce. Served with Garlic Bread and Side Salad.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Bacon Ranch",
-                                       "price":  "14.99",
+                                       "name":  "BBQ Bacon \u0026 Onion Burger",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Choose either Chicken “Grilled or Crunchy” Or Burger with Applewood Bacon, Swiss Cheese, Lettuce, Tomato and Homemade Ranch Dressing. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "5-Alarm Burger",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "7oz Angus Patty with Pepper-Jack Cheese, Jalapenos and Suicide Sauce on a Bun. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "name":  "Mediterranean Turkey Club Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce. Delicious with Caeser Dressing",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Grilled or Crunchy Chicken Wrap",
-                                       "price":  "14.99",
+                                       "name":  "Cucumber Ranch Chicken Roll Up",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Golden Chicken Tenders or Grilled Chicken Breast with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions and Lettuce with Homemade Bistro Sauce Served in a Grilled 12” Wrap Served with Our Ultimate Crisp Crinkle Cut Fries Dessert",
+                                       "description":  "Chicken Salad Accented with Cool Cucumber and Ranch Undertones. Wrapped in a Soft Flour Tortilla with Crisp Lettuce Choice of: Cup of Soup or Fries Dessert",
                                        "flags":  [
 
                                                  ]
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday August 21st, 2026.docx",
-                     "generated":  "2026-08-23T09:20",
+                     "source_file":  "Monday August 24th, 2026.docx",
+                     "generated":  "2026-08-24T07:44",
                      "error":  null
                  }
 }
