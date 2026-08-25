@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T09:50",
+    "updated":  "2026-08-25T07:35",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,50 +732,50 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-24",
+                   "updated":  "2026-08-25",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-24",
-                     "date_label":  "Monday, August 24th, 2026",
-                     "soup":  "Chessy Chicken Enchiladia or Homemade Chili",
+                     "date":  "2026-08-25",
+                     "date_label":  "Tuesday, August 25th, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Chicken Bacon and Mushroom Alfredo",
-                                       "price":  "15.99",
+                                       "name":  "Mexi. Omelet",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Chicken Breast Sautéed Mushrooms and Bacon over Penn Noodles Covered with our Signature Alfredo Sauce. Served with Garlic Bread and Side Salad.",
+                                       "description":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "BBQ Bacon \u0026 Onion Burger",
-                                       "price":  "15.99",
+                                       "name":  "New Orleans Chicken n Shrimp",
+                                       "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Sauce. Choice of: Fries, Tots or Cup of Soup",
+                                       "description":  "Cajun Seasoned Grilled Chicken and 8 Cajun Seasoned Grilled Shrimp and Sautéed Colored Peppers on a Bed of White Rice",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Mediterranean Turkey Club Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce. Delicious with Caeser Dressing",
+                                       "name":  "Santa-Fe Brisket Bowl",
+                                       "price":  "16.99",
+                                       "half_price":  "14.99",
+                                       "description":  "Slow Smoked Brisket with diced tomatoes, corn, black beans, green onions, chopped cilantro, tri colored tortilla strips and cheddar-jack cheese with fresh salad mix. Served in a deep-fried tortilla bowl.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Cucumber Ranch Chicken Roll Up",
-                                       "price":  "13.99",
+                                       "name":  "! Homestyle Boneless Wings Basket",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Chicken Salad Accented with Cool Cucumber and Ranch Undertones. Wrapped in a Soft Flour Tortilla with Crisp Lettuce Choice of: Cup of Soup or Fries Dessert",
+                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with crinkle cut fries Dessert",
                                        "flags":  [
-
+                                                     "new"
                                                  ]
                                    },
                                    {
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 24th, 2026.docx",
-                     "generated":  "2026-08-24T09:50",
+                     "source_file":  "Tuesday August 25th, 2026.docx",
+                     "generated":  "2026-08-25T07:35",
                      "error":  null
                  }
 }
