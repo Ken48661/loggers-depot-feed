@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T16:20",
+    "updated":  "2026-08-28T07:50",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,41 +732,59 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-27",
+                   "updated":  "2026-08-28",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-27",
-                     "date_label":  "Thursday, August 27th, 2026",
-                     "soup":  "Vegetable Beef or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-08-28",
+                     "date_label":  "Friday, August 28th, 2026",
+                     "soup":  "Clam Chowder, Chicken Gumbo or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2- BBQ Brisket Taco’s",
+                                       "name":  "Our Signature Fish and Chips $17.99 Extra piece",
+                                       "price":  "5.00",
+                                       "half_price":  null,
+                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Cucumber Ranch Chicken Roll Up",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Slow Smoked Brisket with Brew City Onion Straws, Homemade Coleslaw and Sweet Baby Ray’s BBQ Sauce. Stuffed into a Grilled Soft Tortilla Shell",
+                                       "description":  "Chicken Salad Accented with Cool Cucumber and Ranch Undertones. Wrapped in a Soft Flour Tortilla with Crisp Lettuce Choice of: Cup of Soup or Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Brisket Nachos",
-                                       "price":  "16.99",
-                                       "half_price":  "13.99",
-                                       "description":  "Slow Smoked Brisket with Corn, Black Beans, Diced Tomato, Sliced Jalapenos, Chopped Green Onion \u0026 Cilantro on a Bed of Deep-fried Tortilla Chips Covered in White Queso Cheese",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "! Homestyle Boneless Wings Basket",
-                                       "price":  "10.99",
+                                       "name":  "Extra-Jumbo Bone-in Wing Basket",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with crinkle cut fries Dessert",
+                                       "description":  "4 Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries.",
                                        "flags":  [
-                                                     "new"
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Dill Chicken Sandwich",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Breaded Chicken Breast or Grilled on a Bun with Sliced Pickles, Leaf Lettuce and Homemade Dill Pickle Aioli. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Mozzarella Sicks",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Dessert",
+                                       "flags":  [
+
                                                  ]
                                    },
                                    {
@@ -788,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday August 27th, 2026.docx",
-                     "generated":  "2026-08-27T16:20",
+                     "source_file":  "Friday August 28th, 2026.docx",
+                     "generated":  "2026-08-28T07:50",
                      "error":  null
                  }
 }
