@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T10:50",
+    "updated":  "2026-08-31T07:57",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,28 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-30",
+                   "updated":  "2026-08-31",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-28",
-                     "date_label":  "Friday, August 28th, 2026",
-                     "soup":  "Clam Chowder, Chicken Gumbo or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-08-31",
+                     "date_label":  "Monday, August 31st, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Our Signature Fish and Chips $17.99 Extra piece",
-                                       "price":  "5.00",
+                                       "name":  "2- Humongous Buttermilk Pancakes",
+                                       "price":  "5.99",
                                        "half_price":  null,
-                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
+                                       "description":  "Blueberries or Chocolate Chips or Raisins or Bacon Strips",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Cucumber Ranch Chicken Roll Up",
-                                       "price":  "13.99",
-                                       "half_price":  null,
-                                       "description":  "Chicken Salad Accented with Cool Cucumber and Ranch Undertones. Wrapped in a Soft Flour Tortilla with Crisp Lettuce Choice of: Cup of Soup or Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Extra-Jumbo Bone-in Wing Basket",
-                                       "price":  "11.99",
-                                       "half_price":  null,
-                                       "description":  "4 Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Dill Chicken Sandwich",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Breaded Chicken Breast or Grilled on a Bun with Sliced Pickles, Leaf Lettuce and Homemade Dill Pickle Aioli. Served with Our Ultimate Crisp Crinkle Cut Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Mozzarella Sicks",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Dessert",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "New York Cheesecake",
-                                       "price":  "6.99",
+                                       "name":  "2- Plain Pancakes",
+                                       "price":  "4.49",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -797,17 +761,53 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Carrot Cake",
-                                       "price":  "7.99",
+                                       "name":  "Steak Dinner",
+                                       "price":  "16.99",
+                                       "half_price":  null,
+                                       "description":  "6oz Tender Sirloin Steak. Served with Choice of Potato and a Side Salad",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Add Sautéed Onions \u0026 Mushrooms for",
+                                       "price":  "3.50",
                                        "half_price":  null,
                                        "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Garlic Aioli Burger",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "7oz Fresh Angus Patty with Homemade Garlic Aioli Sauce, Sautéed Mushrooms and Onions, Leaf Lettuce and Swiss Cheese on a Hamburger Bun. Choice of: Fries, Tots or Cup of Soup",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Brisket Flatbread",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Classic Flatbread with Sweet Baby Rays BBQ Sauce Base Mozzarella Cheese, Smoked Brisket, Diced Red Onions Chopped Green Onions \u0026 Cilantro",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "The Club Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Ham, Turkey, Applewood Bacon, Iceberg Lettuce, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing.",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday August 28th, 2026.docx",
-                     "generated":  "2026-08-30T10:50",
+                     "source_file":  "Monday August 31st, 2026.docx",
+                     "generated":  "2026-08-31T07:57",
                      "error":  null
                  }
 }
