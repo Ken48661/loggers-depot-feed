@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T20:05",
+    "updated":  "2026-09-01T07:44",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,28 +732,55 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-08-31",
+                   "updated":  "2026-09-01",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-08-31",
-                     "date_label":  "Monday, August 31st, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-09-01",
+                     "date_label":  "Tuesday, September 1st, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2- Humongous Buttermilk Pancakes",
-                                       "price":  "5.99",
+                                       "name":  "Mexi. Omelet",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Blueberries or Chocolate Chips or Raisins or Bacon Strips",
+                                       "description":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "2- Plain Pancakes",
-                                       "price":  "4.49",
+                                       "name":  "Arizona Chicken Sandwich",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Grilled Chicken Breast or Breaded Topped with Sweet Baby Ray’s BBQ Sauce and Brew City Onion Straws and Pepper-Jack Cheese Choice of: Fries or Cup of Soup",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Buffalo Chicken Taco $4.99 or 2-",
+                                       "price":  "8.99",
+                                       "half_price":  null,
+                                       "description":  "Our Yummy Chicken Tender tossed in Buffalo Sauce Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Chicken Fajita Salad",
+                                       "price":  "14.99",
+                                       "half_price":  "11.99",
+                                       "description":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Mozzarella Sicks or Buffalo Moz Sticks",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -761,53 +788,17 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Steak Dinner",
-                                       "price":  "16.99",
-                                       "half_price":  null,
-                                       "description":  "6oz Tender Sirloin Steak. Served with Choice of Potato and a Side Salad",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Add Sautéed Onions \u0026 Mushrooms for",
-                                       "price":  "3.50",
+                                       "name":  "Dessert: Lemon Berry Mascarpone Cake",
+                                       "price":  "7.99",
                                        "half_price":  null,
                                        "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Garlic Aioli Burger",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "7oz Fresh Angus Patty with Homemade Garlic Aioli Sauce, Sautéed Mushrooms and Onions, Leaf Lettuce and Swiss Cheese on a Hamburger Bun. Choice of: Fries, Tots or Cup of Soup",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Brisket Flatbread",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Classic Flatbread with Sweet Baby Rays BBQ Sauce Base Mozzarella Cheese, Smoked Brisket, Diced Red Onions Chopped Green Onions \u0026 Cilantro",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "The Club Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Ham, Turkey, Applewood Bacon, Iceberg Lettuce, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing.",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday August 31st, 2026.docx",
-                     "generated":  "2026-08-31T20:05",
+                     "source_file":  "Tuesday September 1st, 2026.docx",
+                     "generated":  "2026-09-01T07:44",
                      "error":  null
                  }
 }
