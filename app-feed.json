@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T08:50",
+    "updated":  "2026-09-02T09:05",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -739,14 +739,14 @@
                      "found":  true,
                      "date":  "2026-09-02",
                      "date_label":  "Wednesday, September 2nd, 2026",
-                     "soup":  "Homemade Chessy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
                                        "name":  "French Toast",
                                        "price":  "6.49",
                                        "half_price":  null,
-                                       "description":  "Two Slices of Texas Toast topped with Powder Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
+                                       "description":  "Two Slices of Texas Toast topped with Powdered Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
                                        "flags":  [
 
                                                  ]
@@ -780,7 +780,7 @@
                                    }
                                ],
                      "source_file":  "Wednesday September 2nd, 2026.docx",
-                     "generated":  "2026-09-02T08:50",
+                     "generated":  "2026-09-02T09:05",
                      "error":  null
                  }
 }
