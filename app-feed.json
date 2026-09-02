@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T23:50",
+    "updated":  "2026-09-02T00:05",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,73 +732,55 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-01",
+                   "updated":  "2026-09-02",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-01",
-                     "date_label":  "Tuesday, September 1st, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-09-02",
+                     "date_label":  "Wednesday, September 2nd, 2026",
+                     "soup":  "Homemade Chessy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Mexi. Omelet",
-                                       "price":  "10.99",
+                                       "name":  "French Toast",
+                                       "price":  "6.49",
                                        "half_price":  null,
-                                       "description":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
+                                       "description":  "Two Slices of Texas Toast topped with Powder Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Arizona Chicken Sandwich",
+                                       "name":  "Grilled or Crunchy Chicken Wrap",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Chicken Breast or Breaded Topped with Sweet Baby Ray’s BBQ Sauce and Brew City Onion Straws and Pepper-Jack Cheese Choice of: Fries or Cup of Soup",
+                                       "description":  "Golden Chicken Tenders or Grilled Chicken Breast with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions and Lettuce with Homemade Bistro Sauce Served in a Grilled 12” Wrap Choice of: Fries or Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Buffalo Chicken Taco $4.99 or 2-",
-                                       "price":  "8.99",
+                                       "name":  "Pork Ribeye Dinner",
+                                       "price":  "16.99",
                                        "half_price":  null,
-                                       "description":  "Our Yummy Chicken Tender tossed in Buffalo Sauce Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
+                                       "description":  "Tender 8oz Pork Ribeye and Homemade Mashed Potatoes Smothered in Creamy Homemade Mushroom Leek Sauce served with Green Beans and a Buttermilk Biscuit BBQ Chicken Salad $15.99 or Half $12.99 Our Yummy Chicken Tenders tossed in Sweet Baby Ray BBQ set atop Fresh Salad Mix with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions, Cucumbers, Yellow Corn, Black Bean and Tri-Colored Tortilla Strips",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken Fajita Salad",
-                                       "price":  "14.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Mozzarella Sicks or Buffalo Moz Sticks",
-                                       "price":  "9.99",
+                                       "name":  "Extra-Jumbo Bone-in Wing Basket",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Dessert: Lemon Berry Mascarpone Cake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
-                                       "description":  "",
+                                       "description":  "4 Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries.",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday September 1st, 2026.docx",
-                     "generated":  "2026-09-01T23:50",
+                     "source_file":  "Wednesday September 2nd, 2026.docx",
+                     "generated":  "2026-09-02T00:05",
                      "error":  null
                  }
 }
