@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T14:50",
+    "updated":  "2026-09-03T10:01",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,73 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-02",
+                   "updated":  "2026-09-03",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-02",
-                     "date_label":  "Wednesday, September 2nd, 2026",
-                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "date":  "2026-09-03",
+                     "date_label":  "Thursday, September 3rd, 2026",
+                     "soup":  "Vegetable Beef Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "French Toast",
-                                       "price":  "6.49",
+                                       "name":  "2 Eggs \u0026 Corned Beef Hash Meal",
+                                       "price":  "8.99",
                                        "half_price":  null,
-                                       "description":  "Two Slices of Texas Toast topped with Powdered Sugar With Choice of Meat: Bacon, Ham Steak, Sausage Links or Patties",
+                                       "description":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Grilled or Crunchy Chicken Wrap",
-                                       "price":  "14.99",
+                                       "name":  "Boom-Boom Chicken Wrap",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Golden Chicken Tenders or Grilled Chicken Breast with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions and Lettuce with Homemade Bistro Sauce Served in a Grilled 12” Wrap Choice of: Fries or Soup",
+                                       "description":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Choice of: Fries or Tots",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Pork Ribeye Dinner",
+                                       "name":  "Pierogi Dinner",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Sauteed with Green Peppers, Onions and Smoked Sausage.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Buff-erogies",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Tossed in Buffalo Sauce and Drizzled with Homemade Ranch Dressing.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "The Farmers Salad",
                                        "price":  "16.99",
-                                       "half_price":  null,
-                                       "description":  "Tender 8oz Pork Ribeye and Homemade Mashed Potatoes Smothered in Creamy Homemade Mushroom Leek Sauce served with Green Beans and a Buttermilk Biscuit BBQ Chicken Salad $15.99 or Half $12.99 Our Yummy Chicken Tenders tossed in Sweet Baby Ray BBQ set atop Fresh Salad Mix with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions, Cucumbers, Yellow Corn, Black Bean and Tri-Colored Tortilla Strips",
+                                       "half_price":  "13.99",
+                                       "description":  "Fresh Salad Mix Topped with Grilled Chicken, Ham, Turkey, Cheddar-Jack Cheese, Red Onion, Tomatoes, Cucumbers, Hard Boiled Egg, Croutons, \u0026 Real Bacon Crumbles.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Extra-Jumbo Bone-in Wing Basket",
-                                       "price":  "11.99",
+                                       "name":  "Dessert: Lemon Berry Mascarpone Cake",
+                                       "price":  "7.99",
                                        "half_price":  null,
-                                       "description":  "4 Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries.",
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday September 2nd, 2026.docx",
-                     "generated":  "2026-09-02T14:50",
+                     "source_file":  "Thursday September 3rd, 2026.docx",
+                     "generated":  "2026-09-03T10:01",
                      "error":  null
                  }
 }
