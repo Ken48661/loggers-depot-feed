@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T15:05",
+    "updated":  "2026-09-04T07:43",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,64 @@
                                   }
                               ],
                    "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-03",
+                   "updated":  "2026-09-04",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-03",
-                     "date_label":  "Thursday, September 3rd, 2026",
-                     "soup":  "Vegetable Beef Soup or Homemade Chili",
+                     "date":  "2026-09-04",
+                     "date_label":  "Friday, September 4th, 2026",
+                     "soup":  "Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2 Eggs \u0026 Corned Beef Hash Meal",
-                                       "price":  "8.99",
+                                       "name":  "Our Signature Fish and Chips $17.99 Extra piece",
+                                       "price":  "5.00",
                                        "half_price":  null,
-                                       "description":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
+                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Boom-Boom Chicken Wrap",
+                                       "name":  "Western Club Wrap",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Choice of: Fries or Tots",
+                                       "description":  "Applewood Bacon, Bavarian Ham, Purdue Turkey, Lettuce, Tomato Cheddar-Jack Cheese \u0026 Chipotle Mayo in a Grilled Tortilla Wrap Served with our Ultimate Crisp Crinkle Cut Fries.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Pierogi Dinner",
-                                       "price":  "13.99",
+                                       "name":  "Philly Cheese Steak Tot’s",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Sauteed with Green Peppers, Onions and Smoked Sausage.",
+                                       "description":  "With Grilled Chopped Sirloin Sauteed Onions, Green Peppers, Mushrooms and Mozzarella Cheese",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Buff-erogies",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Tossed in Buffalo Sauce and Drizzled with Homemade Ranch Dressing.",
+                                       "name":  "Mediterranean Turkey Club Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese, Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce Dessert:",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "The Farmers Salad",
-                                       "price":  "16.99",
-                                       "half_price":  "13.99",
-                                       "description":  "Fresh Salad Mix Topped with Grilled Chicken, Ham, Turkey, Cheddar-Jack Cheese, Red Onion, Tomatoes, Cucumbers, Hard Boiled Egg, Croutons, \u0026 Real Bacon Crumbles.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Dessert: Lemon Berry Mascarpone Cake",
+                                       "name":  "Lemon Berry Mascarpone Cake",
                                        "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "New York Cheesecake",
+                                       "price":  "6.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday September 3rd, 2026.docx",
-                     "generated":  "2026-09-03T15:05",
+                     "source_file":  "Friday September 4th, 2026.docx",
+                     "generated":  "2026-09-04T07:43",
                      "error":  null
                  }
 }
