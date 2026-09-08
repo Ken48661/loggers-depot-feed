@@ -1,0 +1,21 @@
+name: Purge jsDelivr
+on:
+  push:
+    branches: [main]
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge CDN copies of feed and app
+        run: |
+          set -e
+          for p in \
+            app-feed.json \
+            app/index.html \
+            app/sw.js \
+            app/manifest.webmanifest
+          do
+            echo "Purging $p"
+            curl -fsS "https://purge.jsdelivr.net/gh/Ken48661/loggers-depot-feed@main/${p}"
+            echo
+          done
