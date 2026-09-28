@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T09:05",
+    "updated":  "2026-09-28T09:26",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -731,55 +731,55 @@
                                       "type":  "music"
                                   }
                               ],
-                   "source":  "C:\\Users\\klear\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-06",
+                   "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
+                   "updated":  "2026-09-28",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-04",
-                     "date_label":  "Friday, September 4th, 2026",
-                     "soup":  "Clam Chowder or Homemade Chili",
+                     "date":  "2026-09-28",
+                     "date_label":  "Monday, September 28th, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Our Signature Fish and Chips $17.99 Extra piece",
-                                       "price":  "5.00",
+                                       "name":  "Creamy Mushroom \u0026 Leek Smothered Chicken",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
+                                       "description":  "Grilled Chicken Breast with Homemade Mashed Potatoes Covered in a Creamy Homemade Mushroom Leek Sauce.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Western Club Wrap",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Applewood Bacon, Bavarian Ham, Purdue Turkey, Lettuce, Tomato Cheddar-Jack Cheese \u0026 Chipotle Mayo in a Grilled Tortilla Wrap Served with our Ultimate Crisp Crinkle Cut Fries.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Philly Cheese Steak Tot’s",
+                                       "name":  "Crispy Buffalo Chicken Sandwich",
                                        "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "With Grilled Chopped Sirloin Sauteed Onions, Green Peppers, Mushrooms and Mozzarella Cheese",
+                                       "description":  "Breaded Chicken Breast tossed in Buffalo Sauce with Swiss Cheese, Applewood Bacon, Lettuce, Tomato and Bleu Cheese Dressing Choice of: Brew City or our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Mediterranean Turkey Club Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese, Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce Dessert:",
+                                       "name":  "Southwest Philly Wrap",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "White Queso Cheese, Roasted Red Peppers, Onion Tanglers \u0026 Chopped Grilled Sirloin Steak. Served in a Grilled 12” Tortilla Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Lemon Berry Mascarpone Cake",
+                                       "name":  "The Club Salad",
+                                       "price":  "14.99",
+                                       "half_price":  "11.99",
+                                       "description":  "Ham, Turkey, Applewood Bacon, Iceberg Lettuce, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing. Dessert:",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Double Layer Chocolate Cake",
                                        "price":  "7.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -788,8 +788,8 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "New York Cheesecake",
-                                       "price":  "6.99",
+                                       "name":  "Basket of Deep-fried Onion Battered Green Beans",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday September 4th, 2026.docx",
-                     "generated":  "2026-09-06T09:05",
+                     "source_file":  "Monday September 28th, 2026.docx",
+                     "generated":  "2026-09-28T09:26",
                      "error":  null
                  }
 }
