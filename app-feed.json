@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-28T23:57",
+    "updated":  "2026-09-29T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,48 +732,48 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-28",
+                   "updated":  "2026-09-29",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-28",
-                     "date_label":  "Monday, September 28th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-09-29",
+                     "date_label":  "Tuesday, September 29th, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Creamy Mushroom \u0026 Leek Smothered Chicken",
-                                       "price":  "13.99",
+                                       "name":  "BBQ Bacon \u0026 Onion Burger",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Chicken Breast with Homemade Mashed Potatoes Covered in a Creamy Homemade Mushroom Leek Sauce.",
+                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Crispy Buffalo Chicken Sandwich",
+                                       "name":  "Homemade Beef Enchiladas",
                                        "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Breaded Chicken Breast tossed in Buffalo Sauce with Swiss Cheese, Applewood Bacon, Lettuce, Tomato and Bleu Cheese Dressing Choice of: Brew City or our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Beef Enchilada Wrapped in a 12’ Flour Tortilla with Cheddar-Jack Cheese. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Southwest Philly Wrap",
-                                       "price":  "13.99",
+                                       "name":  "Bean Burrito",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "White Queso Cheese, Roasted Red Peppers, Onion Tanglers \u0026 Chopped Grilled Sirloin Steak. Served in a Grilled 12” Tortilla Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "12” Flour Tortilla filled with refried beans, black beans, lettuce, tomato, cheddar-jack cheese. Grilled. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "The Club Salad",
+                                       "name":  "Santa-Fe Chicken Salad",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "Ham, Turkey, Applewood Bacon, Iceberg Lettuce, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing. Dessert:",
+                                       "description":  "All white chicken with diced tomatoes, corn, black beans, green onions, chopped cilantro, tri colored tortilla strips and cheddar-jack cheese. Served on a romaine lettuce. We suggest our new Mexi-Ranch dressing. Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -786,19 +786,10 @@
                                        "flags":  [
 
                                                  ]
-                                   },
-                                   {
-                                       "name":  "Basket of Deep-fried Onion Battered Green Beans",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
                                    }
                                ],
-                     "source_file":  "Monday September 28th, 2026.docx",
-                     "generated":  "2026-09-28T23:57",
+                     "source_file":  "Tuesday September 29th, 2026.docx",
+                     "generated":  "2026-09-29T00:12",
                      "error":  null
                  }
 }
