@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-29T23:57",
+    "updated":  "2026-09-30T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,48 +732,48 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-29",
+                   "updated":  "2026-09-30",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-29",
-                     "date_label":  "Tuesday, September 29th, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "date":  "2026-09-30",
+                     "date_label":  "Wednesday, September 30th, 2026",
+                     "soup":  "Stuffed Green Pepper Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "BBQ Bacon \u0026 Onion Burger",
+                                       "name":  "Loggers Smash Irish Burger",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "7oz Angus Beef Patty with Pepperjack Cheese, Sautéed Onions, Applewood Bacon and Onion Tanglers and Sweet Baby Rays BBQ Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Slow Roasted Hand Carved Corned Beef, with Grilled Sauerkraut, Fresh Angus Beef Patty, Swiss Cheese, Grilled Onions and 1,000 Island Dressing. Choice of: Brew City Fries or our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Homemade Beef Enchiladas",
-                                       "price":  "12.99",
+                                       "name":  "Pot Roast Loaded Bowl",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Beef Enchilada Wrapped in a 12’ Flour Tortilla with Cheddar-Jack Cheese. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
+                                       "description":  "Homemade Mashed Potatoes Smothered in Beef Gravy and Cheddar-Jack Cheese then Topped with Tender Pot Roast Grilled with Sautéed Onions. Served with a Buttermilk Biscuit",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Bean Burrito",
+                                       "name":  "Hot Roast Beef Sandwich or Hot Turkey Sandwich",
                                        "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "12” Flour Tortilla filled with refried beans, black beans, lettuce, tomato, cheddar-jack cheese. Grilled. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
+                                       "description":  "Slow Cooked Pot Roast or Premium Sliced Turkey on Texas Toast with Homemade Mashed Potatoes Smothered in Beef or Turkey Gravy",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Santa-Fe Chicken Salad",
+                                       "name":  "Mediterranean Turkey Club Salad",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "All white chicken with diced tomatoes, corn, black beans, green onions, chopped cilantro, tri colored tortilla strips and cheddar-jack cheese. Served on a romaine lettuce. We suggest our new Mexi-Ranch dressing. Dessert:",
+                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -788,8 +788,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday September 29th, 2026.docx",
-                     "generated":  "2026-09-29T23:57",
+                     "source_file":  "Wednesday September 30th, 2026.docx",
+                     "generated":  "2026-09-30T00:12",
                      "error":  null
                  }
 }
