@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-01T08:27",
+    "updated":  "2026-10-01T08:42",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -779,6 +779,15 @@
                                                  ]
                                    },
                                    {
+                                       "name":  "Caramel Apple Crunch Cheesecake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
                                        "name":  "12- Bavarian Pretzels Bites",
                                        "price":  "8.99",
                                        "half_price":  null,
@@ -789,7 +798,7 @@
                                    }
                                ],
                      "source_file":  "Thursday October 1st, 2026.docx",
-                     "generated":  "2026-10-01T08:27",
+                     "generated":  "2026-10-01T08:42",
                      "error":  null
                  }
 }
