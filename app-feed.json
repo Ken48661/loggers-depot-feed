@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-30T23:57",
+    "updated":  "2026-10-01T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,48 +732,39 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-09-30",
+                   "updated":  "2026-10-01",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-09-30",
-                     "date_label":  "Wednesday, September 30th, 2026",
-                     "soup":  "Stuffed Green Pepper Soup or Homemade Chili",
+                     "date":  "2026-10-01",
+                     "date_label":  "Thursday, October 1st, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Loggers Smash Irish Burger",
-                                       "price":  "14.99",
+                                       "name":  "! Creamy Mushroom \u0026 Leek Pasta",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Slow Roasted Hand Carved Corned Beef, with Grilled Sauerkraut, Fresh Angus Beef Patty, Swiss Cheese, Grilled Onions and 1,000 Island Dressing. Choice of: Brew City Fries or our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Fresh Penne Pasta covered in Homemade Mushroom Leek Sauce. Served with a Side Salad and Garlic Toast",
+                                       "flags":  [
+                                                     "new"
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "8-Homestyle Boneless Wings Basket",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Pot Roast Loaded Bowl",
-                                       "price":  "14.99",
+                                       "name":  "Grilled or Crunchy Chicken Wrap",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Homemade Mashed Potatoes Smothered in Beef Gravy and Cheddar-Jack Cheese then Topped with Tender Pot Roast Grilled with Sautéed Onions. Served with a Buttermilk Biscuit",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Hot Roast Beef Sandwich or Hot Turkey Sandwich",
-                                       "price":  "11.99",
-                                       "half_price":  null,
-                                       "description":  "Slow Cooked Pot Roast or Premium Sliced Turkey on Texas Toast with Homemade Mashed Potatoes Smothered in Beef or Turkey Gravy",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Mediterranean Turkey Club Salad",
-                                       "price":  "14.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese Bacon, Red Onions, Tomatoes, Cucumbers and a Hard-Boiled Egg on a Bed of Romaine Lettuce Dessert:",
+                                       "description":  "Golden Chicken Tenders or Grilled Chicken Breast with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions and Lettuce with Homemade Bistro Sauce Served in a Grilled 12” Wrap Served with our Ultimate Crisp Crinkle Cut Fries Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -786,10 +777,19 @@
                                        "flags":  [
 
                                                  ]
+                                   },
+                                   {
+                                       "name":  "12- Bavarian Pretzels Bites",
+                                       "price":  "8.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
                                    }
                                ],
-                     "source_file":  "Wednesday September 30th, 2026.docx",
-                     "generated":  "2026-09-30T23:57",
+                     "source_file":  "Thursday October 1st, 2026.docx",
+                     "generated":  "2026-10-01T00:12",
                      "error":  null
                  }
 }
