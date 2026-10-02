@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-02T08:57",
+    "updated":  "2026-10-02T09:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -632,42 +632,6 @@
     "events":  {
                    "events":  [
                                   {
-                                      "id":  "2026-08-15-ethan-deming",
-                                      "date":  "2026-08-15",
-                                      "title":  "Ethan Deming",
-                                      "subtitle":  "Country Solo",
-                                      "description":  "Ethan Deming - Country Solo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-08-27-parker-zimmerman",
-                                      "date":  "2026-08-27",
-                                      "title":  "Parker Zimmerman",
-                                      "subtitle":  "Solo",
-                                      "description":  "Parker Zimmerman - Solo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-08-29-jeep-jam",
-                                      "date":  "2026-08-29",
-                                      "title":  "Jeep Jam",
-                                      "subtitle":  null,
-                                      "description":  "Jeep Jam",
-                                      "time":  null,
-                                      "type":  "event"
-                                  },
-                                  {
-                                      "id":  "2026-09-03-taylor-perry",
-                                      "date":  "2026-09-03",
-                                      "title":  "Taylor Perry",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Taylor Perry - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
                                       "id":  "2026-09-10-ez-entertainment",
                                       "date":  "2026-09-10",
                                       "title":  "EZ Entertainment",
@@ -729,6 +693,24 @@
                                       "description":  "Just Kat \u0026Will - Duo",
                                       "time":  "7:00 PM - 10:00 PM",
                                       "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-10-22-taylor-perry",
+                                      "date":  "2026-10-22",
+                                      "title":  "Taylor Perry",
+                                      "subtitle":  "Solo Acoustic",
+                                      "description":  "Taylor Perry - Solo Acoustic",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "music"
+                                  },
+                                  {
+                                      "id":  "2026-10-30-halloween-costume-party",
+                                      "date":  "2026-10-30",
+                                      "title":  "Halloween Costume Party",
+                                      "subtitle":  null,
+                                      "description":  "Halloween Costume Party",
+                                      "time":  null,
+                                      "type":  "event"
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
@@ -789,7 +771,7 @@
                                    }
                                ],
                      "source_file":  "Friday October 2nd, 2026.docx",
-                     "generated":  "2026-10-02T08:57",
+                     "generated":  "2026-10-02T09:12",
                      "error":  null
                  }
 }
