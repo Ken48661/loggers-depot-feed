@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-01T23:57",
+    "updated":  "2026-10-02T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,64 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-01",
+                   "updated":  "2026-10-02",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-01",
-                     "date_label":  "Thursday, October 1st, 2026",
-                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
+                     "date":  "2026-10-02",
+                     "date_label":  "Friday, October 2nd, 2026",
+                     "soup":  "Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "! Creamy Mushroom \u0026 Leek Pasta",
-                                       "price":  "12.99",
+                                       "name":  "Our Signature Fish and Chips $16.99 Extra piece",
+                                       "price":  "5.00",
                                        "half_price":  null,
-                                       "description":  "Fresh Penne Pasta covered in Homemade Mushroom Leek Sauce. Served with a Side Salad and Garlic Toast",
+                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
                                        "flags":  [
-                                                     "new"
+
                                                  ]
                                    },
                                    {
-                                       "name":  "8-Homestyle Boneless Wings Basket",
+                                       "name":  "Pressed Club Sub",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Grilled Ham, Turkey \u0026 Bacon with Swiss and American Cheese, Lettuce, Tomato and Mayo on a Grilled Pressed Sub Bun Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Shrimp Ahoy!",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "8-Breaded Butterfly Shrimp and 8-Beer Battered 100% edible Shrimp with a Side of our Ultimate Crisp Crinkle Cut Fries and Homemade Coleslaw.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Turkey Club Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Fresh Salad Mix with Premium Turkey Breast, Bacon Crumbles, Cheddar-jack Cheese, Tomato, Red Onions, Home-style Croutons and a Hard-Boiled Egg",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Chicken Finger Basket",
                                        "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Grilled or Crunchy Chicken Wrap",
-                                       "price":  "13.99",
-                                       "half_price":  null,
-                                       "description":  "Golden Chicken Tenders or Grilled Chicken Breast with Cheddar-Jack Cheese, Diced Tomatoes, Red Onions and Lettuce with Homemade Bistro Sauce Served in a Grilled 12” Wrap Served with our Ultimate Crisp Crinkle Cut Fries Dessert:",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Double Layer Chocolate Cake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Caramel Apple Crunch Cheesecake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "12- Bavarian Pretzels Bites",
-                                       "price":  "8.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -797,8 +788,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday October 1st, 2026.docx",
-                     "generated":  "2026-10-01T23:57",
+                     "source_file":  "Friday October 2nd, 2026.docx",
+                     "generated":  "2026-10-02T00:12",
                      "error":  null
                  }
 }
