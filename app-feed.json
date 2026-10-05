@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-04T23:57",
+    "updated":  "2026-10-05T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,55 +714,64 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-04",
+                   "updated":  "2026-10-05",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-02",
-                     "date_label":  "Friday, October 2nd, 2026",
-                     "soup":  "Clam Chowder or Homemade Chili",
+                     "date":  "2026-10-05",
+                     "date_label":  "Monday, October 5th, 2026",
+                     "soup":  "Homemade Chicken Noodle or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Our Signature Fish and Chips $16.99 Extra piece",
-                                       "price":  "5.00",
-                                       "half_price":  null,
-                                       "description":  "Three Pieces of Center Cut Atlantic Cod, Dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries Available in Baked or Lemon Steamed",
+                                       "name":  "Crunchy Orange Chicken Salad",
+                                       "price":  "15.99",
+                                       "half_price":  "11.99",
+                                       "description":  "Salad Mix with Crunchy Chicken Tossed in Orange Sauce with Shredded Parm, Crunchy Asian Noodles, Diced Tomatoes, Cucumbers, Mandarin Oranges, Golden Raisins and Almond Slices",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Pressed Club Sub",
+                                       "name":  "Rattlesnake Pasta",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Creamy Alfredo Sauce with Smoked Sausage, Sautéed Green Peppers, Onions and Jalapenos Served over Penne with Garlic Toast",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Road House Loaded Boneless Wings",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Ham, Turkey \u0026 Bacon with Swiss and American Cheese, Lettuce, Tomato and Mayo on a Grilled Pressed Sub Bun Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Boneless Wings tossed in sweet baby rays bbq sauce and topped with mozzarella cheese and onion straws Then Baked in the Oven",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Shrimp Ahoy!",
-                                       "price":  "15.99",
+                                       "name":  "Arizona Chicken Sandwich",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "8-Breaded Butterfly Shrimp and 8-Beer Battered 100% edible Shrimp with a Side of our Ultimate Crisp Crinkle Cut Fries and Homemade Coleslaw.",
+                                       "description":  "Breaded Chicken Breast Topped with Sweet Baby Ray’s BBQ Sauce and Brew City Onion Straws and Pepper-Jack Cheese Choice of: Cup of Soup or our Ultimate Crisp Crinkle Cut Fries Dessert:",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Turkey Club Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Fresh Salad Mix with Premium Turkey Breast, Bacon Crumbles, Cheddar-jack Cheese, Tomato, Red Onions, Home-style Croutons and a Hard-Boiled Egg",
+                                       "name":  "Caramel Apple Crunch Cheesecake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken Finger Basket",
-                                       "price":  "10.99",
+                                       "name":  "6-Deep-friedmPickle Spears",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -770,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday October 2nd, 2026.docx",
-                     "generated":  "2026-10-04T23:57",
+                     "source_file":  "Monday October 5th, 2026.docx",
+                     "generated":  "2026-10-05T00:12",
                      "error":  null
                  }
 }
