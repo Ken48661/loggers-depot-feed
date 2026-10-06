@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T23:57",
+    "updated":  "2026-10-06T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,48 +714,57 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-05",
+                   "updated":  "2026-10-06",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-05",
-                     "date_label":  "Monday, October 5th, 2026",
-                     "soup":  "Homemade Chicken Noodle or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-06",
+                     "date_label":  "Tuesday, October 6th, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Crunchy Orange Chicken Salad",
+                                       "name":  "Buffalo Chicken Salad",
                                        "price":  "15.99",
                                        "half_price":  "11.99",
-                                       "description":  "Salad Mix with Crunchy Chicken Tossed in Orange Sauce with Shredded Parm, Crunchy Asian Noodles, Diced Tomatoes, Cucumbers, Mandarin Oranges, Golden Raisins and Almond Slices",
+                                       "description":  "Chicken Tenders Tossed in Buffalo Sauce, Set atop Fresh Salad mix. With Tomato, Red Onions, Banana Peppers, Black Beans, Tri-colored strips and Blue Cheese Crumbles. Served with Our Signature Fiesta Ranch Sauce.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Rattlesnake Pasta",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Creamy Alfredo Sauce with Smoked Sausage, Sautéed Green Peppers, Onions and Jalapenos Served over Penne with Garlic Toast",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Road House Loaded Boneless Wings",
+                                       "name":  "BBQ Carnita Wrap",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Boneless Wings tossed in sweet baby rays bbq sauce and topped with mozzarella cheese and onion straws Then Baked in the Oven",
+                                       "description":  "Shredded Seasoned Pork with Sweet Baby Rays BBQ, Homemade Coleslaw, Deep-fried Onion Tanglers \u0026 Cheddar-Jack Cheese in a 12” Grilled Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Arizona Chicken Sandwich",
-                                       "price":  "12.99",
+                                       "name":  "Carnita Nacho’s Supreme",
+                                       "price":  "14.99",
+                                       "half_price":  "11.99",
+                                       "description":  "Deep Fried Tortilla Chips Covered with Shredded Seasoned Pork, White Queso Cheese, Lettuce, Diced Tomatoes, Diced White Onions, Black Olives, Jalapeno’s and Cheddar-Jack Cheese. Taco Taco Taco Beef Taco’s Hard or Soft Shell $2.49 ea.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "2 Center Cut Battered Cod Fish Taco’s",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Breaded Chicken Breast Topped with Sweet Baby Ray’s BBQ Sauce and Brew City Onion Straws and Pepper-Jack Cheese Choice of: Cup of Soup or our Ultimate Crisp Crinkle Cut Fries Dessert:",
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "2 Battered Shrimp Taco’s",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -768,19 +777,10 @@
                                        "flags":  [
 
                                                  ]
-                                   },
-                                   {
-                                       "name":  "6-Deep-friedmPickle Spears",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
                                    }
                                ],
-                     "source_file":  "Monday October 5th, 2026.docx",
-                     "generated":  "2026-10-05T23:57",
+                     "source_file":  "Tuesday October 6th, 2026.docx",
+                     "generated":  "2026-10-06T00:12",
                      "error":  null
                  }
 }
