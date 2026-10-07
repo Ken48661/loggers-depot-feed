@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-06T23:57",
+    "updated":  "2026-10-07T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,57 +714,48 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-06",
+                   "updated":  "2026-10-07",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-06",
-                     "date_label":  "Tuesday, October 6th, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-07",
+                     "date_label":  "Wednesday, October 7th, 2026",
+                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Buffalo Chicken Salad",
-                                       "price":  "15.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Chicken Tenders Tossed in Buffalo Sauce, Set atop Fresh Salad mix. With Tomato, Red Onions, Banana Peppers, Black Beans, Tri-colored strips and Blue Cheese Crumbles. Served with Our Signature Fiesta Ranch Sauce.",
+                                       "name":  "Wrap it Wednesday",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "BBQ Carnita Wrap",
+                                       "name":  "Sweet Heat Loaded Boneless Wings",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Shredded Seasoned Pork with Sweet Baby Rays BBQ, Homemade Coleslaw, Deep-fried Onion Tanglers \u0026 Cheddar-Jack Cheese in a 12” Grilled Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Boneless Wings tossed in sweet chili thai sauce and topped with mozzarella \u0026 cheddar-jack cheese, bacon crumbles and diced jalapenos then Baked in the Oven",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Carnita Nacho’s Supreme",
+                                       "name":  "Grilled Chicken Bacon Ranch Salad",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "Deep Fried Tortilla Chips Covered with Shredded Seasoned Pork, White Queso Cheese, Lettuce, Diced Tomatoes, Diced White Onions, Black Olives, Jalapeno’s and Cheddar-Jack Cheese. Taco Taco Taco Beef Taco’s Hard or Soft Shell $2.49 ea.",
+                                       "description":  "Iceberg Lettuce, Topped with Grilled Chicken, Real Bacon Crumbles, Cheddar-Jack Cheese and Diced Tomatoes, Sliced Cucumbers and Croutons. Served with a Side of Loggers Homemade Ranch Dressing.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "2 Center Cut Battered Cod Fish Taco’s",
-                                       "price":  "9.99",
+                                       "name":  "Chicken Bacon and Mushroom Alfredo",
+                                       "price":  "17.99",
                                        "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "2 Battered Shrimp Taco’s",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Dessert:",
+                                       "description":  "Grilled Chicken Breast Sautéed Mushrooms and Bacon over Penn Noodles Covered with our Signature Alfredo Sauce. Served with Garlic Bread and Side Salad. Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -779,8 +770,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday October 6th, 2026.docx",
-                     "generated":  "2026-10-06T23:57",
+                     "source_file":  "Wednesday October 7th, 2026.docx",
+                     "generated":  "2026-10-07T00:12",
                      "error":  null
                  }
 }
