@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-07T23:57",
+    "updated":  "2026-10-08T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,48 +714,57 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-07",
+                   "updated":  "2026-10-08",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-07",
-                     "date_label":  "Wednesday, October 7th, 2026",
-                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Homemade Chili",
+                     "date":  "2026-10-08",
+                     "date_label":  "Thursday, October 8th, 2026",
+                     "soup":  "Lumberjack Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Wrap it Wednesday",
-                                       "price":  "13.99",
-                                       "half_price":  null,
-                                       "description":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Sweet Heat Loaded Boneless Wings",
+                                       "name":  "Super Sandwich",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Boneless Wings tossed in sweet chili thai sauce and topped with mozzarella \u0026 cheddar-jack cheese, bacon crumbles and diced jalapenos then Baked in the Oven",
+                                       "description":  "Classic Rueben, Turkey Rueben, Beef Sizzle Steak, Fish Sandwich or Patty Melt. Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Grilled Chicken Bacon Ranch Salad",
+                                       "name":  "Ham n Bacon Salad",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "Iceberg Lettuce, Topped with Grilled Chicken, Real Bacon Crumbles, Cheddar-Jack Cheese and Diced Tomatoes, Sliced Cucumbers and Croutons. Served with a Side of Loggers Homemade Ranch Dressing.",
+                                       "description":  "Romaine Lettuce with Ham, Bacon Crumbles, Diced Tomatoes, Sliced Cucumbers, Banana Peppers, Red Onions, Mozzarella Cheese and Croutons.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken Bacon and Mushroom Alfredo",
-                                       "price":  "17.99",
+                                       "name":  "Cordon Bleu Loaded Boneless Wings",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Chicken Breast Sautéed Mushrooms and Bacon over Penn Noodles Covered with our Signature Alfredo Sauce. Served with Garlic Bread and Side Salad. Dessert:",
+                                       "description":  "Boneless Wings tossed in homemade cordon bleu sauce and topped with ham, Swiss and mozzarella cheese Then Baked",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "White Queso Loaded Tot’s",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "Deep Fried Tater Tots Covered with White Queso Cheese \u0026 Topped with Chopped Sirloin and Onion Tanglers.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "8-Homestyle Boneless Wings Basket",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -770,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday October 7th, 2026.docx",
-                     "generated":  "2026-10-07T23:57",
+                     "source_file":  "Thursday October 8th, 2026.docx",
+                     "generated":  "2026-10-08T00:12",
                      "error":  null
                  }
 }
