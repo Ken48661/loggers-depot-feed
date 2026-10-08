@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T08:12",
+    "updated":  "2026-10-08T08:27",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -725,46 +725,37 @@
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Super Sandwich",
+                                       "name":  "Classic Rueben, Turkey Rueben, Beef Sizzle Steak, Fish Sandwich or Patty Melt. Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Classic Rueben, Turkey Rueben, Beef Sizzle Steak, Fish Sandwich or Patty Melt. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "description":  "Ham n Bacon Salad",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Ham n Bacon Salad",
+                                       "name":  "Romaine Lettuce with Ham, Bacon Crumbles, Diced Tomatoes, Sliced Cucumbers, Banana Peppers, Red Onions, Mozzarella Cheese and Croutons.",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "Romaine Lettuce with Ham, Bacon Crumbles, Diced Tomatoes, Sliced Cucumbers, Banana Peppers, Red Onions, Mozzarella Cheese and Croutons.",
+                                       "description":  "Cordon Bleu Loaded Boneless Wings Boneless Wings tossed in homemade cordon bleu sauce and",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Cordon Bleu Loaded Boneless Wings",
+                                       "name":  "topped with ham, Swiss and mozzarella cheese Then Baked",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Boneless Wings tossed in homemade cordon bleu sauce and topped with ham, Swiss and mozzarella cheese Then Baked",
+                                       "description":  "White Queso Loaded Tot’s",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "White Queso Loaded Tot’s",
+                                       "name":  "Deep Fried Tater Tots Covered with White Queso Cheese \u0026 Topped with Chopped Sirloin and Onion Tanglers.",
                                        "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Deep Fried Tater Tots Covered with White Queso Cheese \u0026 Topped with Chopped Sirloin and Onion Tanglers.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "8-Homestyle Boneless Wings Basket",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries Dessert:",
+                                       "description":  "8-Homestyle Boneless Wings Basket Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries $10.99 Dessert:",
                                        "flags":  [
 
                                                  ]
@@ -780,7 +771,7 @@
                                    }
                                ],
                      "source_file":  "Thursday October 8th, 2026.docx",
-                     "generated":  "2026-10-08T08:12",
+                     "generated":  "2026-10-08T08:27",
                      "error":  null
                  }
 }
