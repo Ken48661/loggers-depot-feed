@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T23:57",
+    "updated":  "2026-10-09T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,55 +714,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-08",
+                   "updated":  "2026-10-09",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-08",
-                     "date_label":  "Thursday, October 8th, 2026",
-                     "soup":  "Lumberjack Soup or Homemade Chili",
+                     "date":  "2026-10-09",
+                     "date_label":  "Friday, October 9th, 2026",
+                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Classic Rueben, Turkey Rueben, Beef Sizzle Steak, Fish Sandwich or Patty Melt. Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "5.00",
                                        "half_price":  null,
-                                       "description":  "Ham n Bacon Salad",
+                                       "description":  "2-Carnitas Tacos",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Romaine Lettuce with Ham, Bacon Crumbles, Diced Tomatoes, Sliced Cucumbers, Banana Peppers, Red Onions, Mozzarella Cheese and Croutons.",
+                                       "name":  "Shredded Seasoned Pork with Roasted Red Peppers, Cheddar-Jack Cheese and Fiesta Ranch.",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "Carnitas Breakfast Burrito (avail. Until 11am)",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Shredded Seasoned Pork with All Day Hash Potato \u0026 Vegetable Blend, Cheddar-Jack Cheese and White Queso Cheese Wrapped in a Grilled Tortilla Wrap. Severed with Tater-Tots",
+                                       "price":  "11.99",
+                                       "half_price":  null,
+                                       "description":  "Chicken BLT Salad Fresh Salad Mix Topped with Seasoned Chicken Breast,",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Cheddar-Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and Hard-Boiled Egg.",
                                        "price":  "14.99",
                                        "half_price":  "11.99",
-                                       "description":  "Cordon Bleu Loaded Boneless Wings Boneless Wings tossed in homemade cordon bleu sauce and",
+                                       "description":  "Dessert",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "topped with ham, Swiss and mozzarella cheese Then Baked",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "White Queso Loaded Tot’s",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Deep Fried Tater Tots Covered with White Queso Cheese \u0026 Topped with Chopped Sirloin and Onion Tanglers.",
-                                       "price":  "12.99",
-                                       "half_price":  null,
-                                       "description":  "8-Homestyle Boneless Wings Basket Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries $10.99 Dessert:",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Caramel Apple Crunch Cheesecake",
-                                       "price":  "7.99",
+                                       "name":  "Pumpkin Cheesecake",
+                                       "price":  "6.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -770,8 +770,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday October 8th, 2026.docx",
-                     "generated":  "2026-10-08T23:57",
+                     "source_file":  "Friday October 9th, 2026.docx",
+                     "generated":  "2026-10-09T00:12",
                      "error":  null
                  }
 }
