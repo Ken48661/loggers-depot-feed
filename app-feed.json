@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-11T23:57",
+    "updated":  "2026-10-12T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,47 +714,56 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-11",
+                   "updated":  "2026-10-12",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-09",
-                     "date_label":  "Friday, October 9th, 2026",
-                     "soup":  "Homemade Cheesy Bacon \u0026 Broccoli Soup or Clam Chowder or Homemade Chili",
+                     "date":  "2026-10-12",
+                     "date_label":  "Monday, October 12th, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
-                                       "price":  "5.00",
+                                       "name":  "$16.99 or Half",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "2-Carnitas Tacos",
+                                       "description":  "Shrimp Po Boy Crispy Guinness Beer Battered Shrimp Piled on Toasted Club Bun with Shredded Lettuce, Sliced Tomatoes, Pickles, and Cajun remoulade.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Shredded Seasoned Pork with Roasted Red Peppers, Cheddar-Jack Cheese and Fiesta Ranch.",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Carnitas Breakfast Burrito (avail. Until 11am)",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Shredded Seasoned Pork with All Day Hash Potato \u0026 Vegetable Blend, Cheddar-Jack Cheese and White Queso Cheese Wrapped in a Grilled Tortilla Wrap. Severed with Tater-Tots",
-                                       "price":  "11.99",
-                                       "half_price":  null,
-                                       "description":  "Chicken BLT Salad Fresh Salad Mix Topped with Seasoned Chicken Breast,",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Cheddar-Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and Hard-Boiled Egg.",
+                                       "name":  "Choice of: Fries, Tots or Tanglers",
                                        "price":  "14.99",
-                                       "half_price":  "11.99",
+                                       "half_price":  null,
+                                       "description":  "Dill Chicken Sandwich",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Breaded Chicken Breast or Grilled on a Bun with Sliced Pickles, Leaf Lettuce and Homemade Dill Pickle Aioli. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Shoe String Fries",
+                                       "price":  "5.49",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Deep-fried Onion Battered Green Beans",
+                                       "price":  "8.99",
+                                       "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
 
@@ -770,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday October 9th, 2026.docx",
-                     "generated":  "2026-10-11T23:57",
+                     "source_file":  "Monday October 12th, 2026.docx",
+                     "generated":  "2026-10-12T00:12",
                      "error":  null
                  }
 }
