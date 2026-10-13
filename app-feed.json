@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-12T23:57",
+    "updated":  "2026-10-13T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,39 +714,30 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-12",
+                   "updated":  "2026-10-13",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-12",
-                     "date_label":  "Monday, October 12th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-13",
+                     "date_label":  "Tuesday, October 13th, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "$16.99 or Half",
-                                       "price":  "12.99",
+                                       "name":  "Choice of: Fries or Cup of Soup",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Shrimp Po Boy Crispy Guinness Beer Battered Shrimp Piled on Toasted Club Bun with Shredded Lettuce, Sliced Tomatoes, Pickles, and Cajun remoulade.",
+                                       "description":  "Pot Belly Salad Romaine Lettuce with Ham, Bacon Crumbles, Salami, Croutons, Diced Tomatoes, Diced Red Onion, Sliced Cucumbers and Mozzarella Cheese.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Choice of: Fries, Tots or Tanglers",
-                                       "price":  "14.99",
+                                       "name":  "$15.99 or Half",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Dill Chicken Sandwich",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Breaded Chicken Breast or Grilled on a Bun with Sliced Pickles, Leaf Lettuce and Homemade Dill Pickle Aioli. Served with Our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "",
+                                       "description":  "Hard or Soft Tacos Seasoned taco meat in either hard or soft shell with diced tomato, shredded lettuce and Cheddar-jack Cheese $2.49 ea.",
                                        "flags":  [
 
                                                  ]
@@ -754,15 +745,6 @@
                                    {
                                        "name":  "Basket of Shoe String Fries",
                                        "price":  "5.49",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Basket of Deep-fried Onion Battered Green Beans",
-                                       "price":  "8.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -779,8 +761,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday October 12th, 2026.docx",
-                     "generated":  "2026-10-12T23:57",
+                     "source_file":  "Tuesday October 13th, 2026.docx",
+                     "generated":  "2026-10-13T00:12",
                      "error":  null
                  }
 }
