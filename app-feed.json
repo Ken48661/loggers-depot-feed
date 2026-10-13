@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-13T08:12",
+    "updated":  "2026-10-13T08:27",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -737,7 +737,7 @@
                                        "name":  "$15.99 or Half",
                                        "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Hard or Soft Tacos Seasoned taco meat in either hard or soft shell with diced tomato, shredded lettuce and Cheddar-jack Cheese $2.49 ea.",
+                                       "description":  "BBQ Carnitas Wrap BBQ Carnitas, Homemade Coleslaw, Onion Tanglers \u0026 Cheddar-Jack Cheese in a 12” Grilled Tortilla. Side of Our Famous Crinkle Cut Fries. $11.99",
                                        "flags":  [
 
                                                  ]
@@ -762,7 +762,7 @@
                                    }
                                ],
                      "source_file":  "Tuesday October 13th, 2026.docx",
-                     "generated":  "2026-10-13T08:12",
+                     "generated":  "2026-10-13T08:27",
                      "error":  null
                  }
 }
