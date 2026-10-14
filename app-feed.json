@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-13T20:12",
+    "updated":  "2026-10-14T07:57",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,38 +714,47 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-13",
+                   "updated":  "2026-10-14",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-13",
-                     "date_label":  "Tuesday, October 13th, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-14",
+                     "date_label":  "Wednesday, October 14th, 2026",
+                     "soup":  "Minestrone Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Choice of: Fries or Cup of Soup",
-                                       "price":  "14.99",
+                                       "name":  "Wrap it Wednesday",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Pot Belly Salad Romaine Lettuce with Ham, Bacon Crumbles, Salami, Croutons, Diced Tomatoes, Diced Red Onion, Sliced Cucumbers and Mozzarella Cheese.",
+                                       "description":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Served with our Ultimate Crisp Crinkle Cut Fries Homestyle Boneless Wings Basket 8-Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces.",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "$15.99 or Half",
+                                       "name":  "Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "Extra-Jumbo Bone-in Wing Basket",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "6-Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Hard or Soft Tacos",
+                                       "description":  "Grilled Chicken Bacon Ranch Salad",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Seasoned taco meat with either hard or soft shell with diced tomato, shredded lettuce \u0026 cheddar-jack cheese",
-                                       "price":  "2.49",
-                                       "half_price":  null,
+                                       "name":  "Iceberg Lettuce, Topped with Grilled Chicken, Real Bacon Crumbles, Cheddar-Jack Cheese and Diced Tomatoes. Served with a Side of Loggers Homemade Ranch Dressing.",
+                                       "price":  "14.99",
+                                       "half_price":  "11.99",
                                        "description":  "",
                                        "flags":  [
 
@@ -770,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday October 13th, 2026.docx",
-                     "generated":  "2026-10-13T20:12",
+                     "source_file":  "Wednesday October 14th, 2026.docx",
+                     "generated":  "2026-10-14T07:57",
                      "error":  null
                  }
 }
