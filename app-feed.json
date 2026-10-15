@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-14T23:57",
+    "updated":  "2026-10-15T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,47 +714,38 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-14",
+                   "updated":  "2026-10-15",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-14",
-                     "date_label":  "Wednesday, October 14th, 2026",
-                     "soup":  "Minestrone Soup or Homemade Chili",
+                     "date":  "2026-10-15",
+                     "date_label":  "Thursday, October 15th, 2026",
+                     "soup":  "Lumberjack Potato \u0026 Vegetable Soup or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Wrap it Wednesday",
-                                       "price":  "13.99",
+                                       "name":  "Olive Burger or Sweet n Spicy. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Served with our Ultimate Crisp Crinkle Cut Fries Homestyle Boneless Wings Basket 8-Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces.",
+                                       "description":  "Sesame Glazed Salmon",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "10.99",
+                                       "name":  "Half Pound Atlantic Salmon Baked with our Homemade Sesame Sauce Served with your choice of Potato and a Side Salad",
+                                       "price":  "17.99",
                                        "half_price":  null,
-                                       "description":  "Extra-Jumbo Bone-in Wing Basket",
+                                       "description":  "Shrimp Po’ Boy Wrap Crispy Guinness Beer Battered Shrimp, Homemade Cajun Rémoulade, Mozzarella Cheese, Shredded Lettuce and Diced Tomato Wrapped in a 12” Grilled Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries $14.99 The Club Salad",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "6-Big and Plump Wings Tossed in your choice of Our 10 Sauces or Plain Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "11.99",
-                                       "half_price":  null,
-                                       "description":  "Grilled Chicken Bacon Ranch Salad",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Iceberg Lettuce, Topped with Grilled Chicken, Real Bacon Crumbles, Cheddar-Jack Cheese and Diced Tomatoes. Served with a Side of Loggers Homemade Ranch Dressing.",
-                                       "price":  "14.99",
-                                       "half_price":  "11.99",
+                                       "name":  "Ham, Turkey, Applewood Bacon, Fresh Salad Mix, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing.",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
                                        "description":  "",
                                        "flags":  [
 
@@ -779,8 +770,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday October 14th, 2026.docx",
-                     "generated":  "2026-10-14T23:57",
+                     "source_file":  "Thursday October 15th, 2026.docx",
+                     "generated":  "2026-10-15T00:12",
                      "error":  null
                  }
 }
