@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-15T23:57",
+    "updated":  "2026-10-16T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,47 +714,56 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-15",
+                   "updated":  "2026-10-16",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-15",
-                     "date_label":  "Thursday, October 15th, 2026",
-                     "soup":  "Lumberjack Potato \u0026 Vegetable Soup or Homemade Chili",
+                     "date":  "2026-10-16",
+                     "date_label":  "Friday, October 16th, 2026",
+                     "soup":  "Clam Chowder or Homemade Chili",
                      "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Olive Burger or Sweet n Spicy. Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "15.99",
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "5",
                                        "half_price":  null,
-                                       "description":  "Sesame Glazed Salmon",
+                                       "description":  "Two Coney Dogs \u0026 Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Half Pound Atlantic Salmon Baked with our Homemade Sesame Sauce Served with your choice of Potato and a Side Salad",
-                                       "price":  "17.99",
+                                       "name":  "Covered with Real Detroit Coney Sauce with Diced White Onions. Served with Our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Shrimp Po’ Boy Wrap Crispy Guinness Beer Battered Shrimp, Homemade Cajun Rémoulade, Mozzarella Cheese, Shredded Lettuce and Diced Tomato Wrapped in a 12” Grilled Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries $14.99 The Club Salad",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Ham, Turkey, Applewood Bacon, Fresh Salad Mix, Cheddar-Jack Cheese, Shredded Parm, Tomatoes, Cucumber, Diced White Onions and Croutons. Choice of Dressing.",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
                                        "description":  "",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Basket of Shoe String Fries",
-                                       "price":  "5.49",
+                                       "name":  "1 Coney dog no Fries",
+                                       "price":  "3.99",
                                        "half_price":  null,
+                                       "description":  "Huge Country Fried Steak Dinner Country Fried Steak with Homemade Mashed Potatoes and Gravy.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Smothered in Homemade Country Gravy or Beef Gravy Side of Yellow Corn and a Buttermilk Biscuit.",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "White Queso Nacho Supreme",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fresh Cut and Deep-Fried Tortilla Chips, Topped with Taco-Seasoned Ground Beef, Creamy White Queso Cheese, Lettuce, Tomato, Onion, Black Olives and Sliced Jalapenos",
+                                       "price":  "15.99",
+                                       "half_price":  "11.99",
                                        "description":  "Dessert",
                                        "flags":  [
 
@@ -770,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday October 15th, 2026.docx",
-                     "generated":  "2026-10-15T23:57",
+                     "source_file":  "Friday October 16th, 2026.docx",
+                     "generated":  "2026-10-16T00:12",
                      "error":  null
                  }
 }
