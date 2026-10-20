@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-19T23:57",
+    "updated":  "2026-10-20T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,46 +714,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-19",
+                   "updated":  "2026-10-20",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-19",
-                     "date_label":  "Monday, October 19th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-10-20",
+                     "date_label":  "Tuesday, October 20th, 2026",
+                     "soup":  "Chicken Gumbo or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "1 -Humongous Buttermilk Pancake, 2 Eggs your way and Choice of meat Sausage patty, Sausage links or 2 Strips of Bacon",
-                                       "price":  "8.99",
-                                       "half_price":  null,
-                                       "description":  "Chicken Power Bowl",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Chicken Breast Cooked with Roasted Red Peppers, Broccoli, Tomato, Corn and Cheddar-Jack. On a bed of Cilantro Lime Rice.",
+                                       "name":  "Taco Seasoned Chicken Breast, Black Beans, White Beans, Tomato, White Onions, Cheddar-Jack Cheese, Enchilada Sauce and Tri-Colored Tortilla Strips. On a bed of Cilantro Lime Rice.",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Loggers Calzone This is Huge So You Better Be Hungry!!",
+                                       "description":  "Dynamite Shrimp Tacos",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Your choice of Pepperoni, BBQ Chicken, Buffalo Chicken, Supreme or any 1 Item.",
+                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw in a Grilled 6” Tortilla",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "English Pub Burger",
+                                       "description":  "Buffalo Chicken Salad",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Our Fresh Never Frozen Half Pound Angus Beef Patty, Topped with a Fried Egg, Applewood Bacon \u0026 Pepper-Jack Cheese. Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
+                                       "name":  "Chicken Tenders Tossed in Buffalo Sauce, Set atop Fresh Salad mix. With Tomato, Red Onions, Banana Peppers, Black Beans, Tri-colored strips and Blue Cheese Crumbles. Served with Our Signature Fiesta Ranch Sauce.",
+                                       "price":  "15.99",
+                                       "half_price":  "12.99",
+                                       "description":  "Smothered Angus Dinner",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fresh Angus Beef Patty, Smothered in Grilled Onions, Mushrooms and Homemade Mashed Potatoes with Brown Gravy",
+                                       "price":  "12.99",
                                        "half_price":  null,
                                        "description":  "Basket of Deep-fried Cauliflower",
                                        "flags":  [
@@ -779,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday October 19th, 2026.docx",
-                     "generated":  "2026-10-19T23:57",
+                     "source_file":  "Tuesday October 20th, 2026.docx",
+                     "generated":  "2026-10-20T00:12",
                      "error":  null
                  }
 }
