@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-20T23:57",
+    "updated":  "2026-10-21T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,46 +714,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-20",
+                   "updated":  "2026-10-21",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-20",
-                     "date_label":  "Tuesday, October 20th, 2026",
-                     "soup":  "Chicken Gumbo or Homemade Chili",
+                     "date":  "2026-10-21",
+                     "date_label":  "Wednesday, October 21st, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Taco Seasoned Chicken Breast, Black Beans, White Beans, Tomato, White Onions, Cheddar-Jack Cheese, Enchilada Sauce and Tri-Colored Tortilla Strips. On a bed of Cilantro Lime Rice.",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Dynamite Shrimp Tacos",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw in a Grilled 6” Tortilla",
+                                       "name":  "Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Buffalo Chicken Salad",
+                                       "description":  "Dynamite Shrimp Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Chicken Tenders Tossed in Buffalo Sauce, Set atop Fresh Salad mix. With Tomato, Red Onions, Banana Peppers, Black Beans, Tri-colored strips and Blue Cheese Crumbles. Served with Our Signature Fiesta Ranch Sauce.",
-                                       "price":  "15.99",
-                                       "half_price":  "12.99",
-                                       "description":  "Smothered Angus Dinner",
+                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-Fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw wrapped in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Veggi. Power Bowl",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Fresh Angus Beef Patty, Smothered in Grilled Onions, Mushrooms and Homemade Mashed Potatoes with Brown Gravy",
-                                       "price":  "12.99",
+                                       "name":  "Black Beans, Kidney Beans, Broccoli, Tomatoes, Banana Peppers, Cheddar-Jack Cheese. On a bed of Cilantro Lime Rice.",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Homestyle Boneless Wings Basket",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "8-Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "10.99",
                                        "half_price":  null,
                                        "description":  "Basket of Deep-fried Cauliflower",
                                        "flags":  [
@@ -779,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday October 20th, 2026.docx",
-                     "generated":  "2026-10-20T23:57",
+                     "source_file":  "Wednesday October 21st, 2026.docx",
+                     "generated":  "2026-10-21T00:12",
                      "error":  null
                  }
 }
