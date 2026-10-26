@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-25T23:57",
+    "updated":  "2026-10-26T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,37 +714,19 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-25",
+                   "updated":  "2026-10-26",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-23",
-                     "date_label":  "Friday, October 23rd, 2026",
-                     "soup":  "Clam Chowder or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-26",
+                     "date_label":  "Monday, October 26th, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Deep-fried Tater Tots Covered in Our Homemade Country Gravy, Diced White Onions, Green Peppers, Mushrooms, Scrambled Egg and Cheddar-Jack Cheese.",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Our Signature Fish and Chips Three Pieces of Center Cut Atlantic Cod, dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
-                                       "price":  "5",
-                                       "half_price":  null,
-                                       "description":  "Country Fried Chicken Bowl",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
-                                       "price":  "15.99",
+                                       "name":  "1 -Humongous Buttermilk Pancake, 2 Eggs your way and Choice of meat Sausage patty, Sausage links or 2 Strips of Bacon",
+                                       "price":  "8.99",
                                        "half_price":  null,
                                        "description":  "Maui Burger Fresh Angus Burger with a Grilled Pineapple Ring, Sliced Smoked Gouda, Sweet Baby Rays BBQ Sauce on a Hamburger Bun with",
                                        "flags":  [
@@ -755,14 +737,23 @@
                                        "name":  "Our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "Basket of Deep-fried Cauliflower",
+                                       "description":  "NEW!! Boom-Boom Chicken Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "A golden-brown crispy appetizer with lemon and garlic flavor",
-                                       "price":  "10.99",
+                                       "name":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Pot Belly Salad Romaine Lettuce with Ham, Bacon Crumbles, Salami, Croutons, Diced Tomatoes, Diced Red Onion, Sliced Cucumbers and Mozzarella Cheese.",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "$15.99 or Half",
+                                       "price":  "12.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -770,8 +761,17 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Pumpkin Cheesecake",
-                                       "price":  "6.99",
+                                       "name":  "Caramel Apple Crunch Cheesecake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "2 Vegetable Eggs Rolls with Cup of Soup",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -779,8 +779,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday October 23rd, 2026.docx",
-                     "generated":  "2026-10-25T23:57",
+                     "source_file":  "Monday October 26th, 2026.docx",
+                     "generated":  "2026-10-26T00:12",
                      "error":  null
                  }
 }
