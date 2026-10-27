@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-26T23:57",
+    "updated":  "2026-10-27T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -714,46 +714,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-26",
+                   "updated":  "2026-10-27",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-26",
-                     "date_label":  "Monday, October 26th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-27",
+                     "date_label":  "Tuesday, October 27th, 2026",
+                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "1 -Humongous Buttermilk Pancake, 2 Eggs your way and Choice of meat Sausage patty, Sausage links or 2 Strips of Bacon",
-                                       "price":  "8.99",
-                                       "half_price":  null,
-                                       "description":  "Maui Burger Fresh Angus Burger with a Grilled Pineapple Ring, Sliced Smoked Gouda, Sweet Baby Rays BBQ Sauce on a Hamburger Bun with",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Our Ultimate Crisp Crinkle Cut Fries",
+                                       "name":  "7oz Fresh Angus Patty with Homemade Garlic Aioli Sauce, Sautéed Mushrooms and Onions, Leaf Lettuce and Swiss Cheese on a Hamburger Bun. Choice of: Fries, Tots or Cup of Soup",
                                        "price":  "15.99",
                                        "half_price":  null,
-                                       "description":  "NEW!! Boom-Boom Chicken Wrap",
+                                       "description":  "Hard or Soft Tacos Seasoned taco meat with either hard or soft shell with diced tomato, shredded lettuce \u0026 cheddar-jack cheese $2.49 each Dynamite Shrimp Tacos",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Golden Brown Chicken Tenders tossed in Boom-Boom Sauce with Swiss Cheese, Lettuce, Onion Tanglers in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Pot Belly Salad Romaine Lettuce with Ham, Bacon Crumbles, Salami, Croutons, Diced Tomatoes, Diced Red Onion, Sliced Cucumbers and Mozzarella Cheese.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "$15.99 or Half",
+                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw in a Grilled 6” Tortilla",
                                        "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "Chicken Fajita Salad",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
+                                       "price":  "15.99",
+                                       "half_price":  "11.99",
+                                       "description":  "Basket of Deep-fried Cauliflower",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "A golden-brown crispy appetizer with lemon and garlic flavor",
+                                       "price":  "10.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -768,19 +768,10 @@
                                        "flags":  [
 
                                                  ]
-                                   },
-                                   {
-                                       "name":  "2 Vegetable Eggs Rolls with Cup of Soup",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
                                    }
                                ],
-                     "source_file":  "Monday October 26th, 2026.docx",
-                     "generated":  "2026-10-26T23:57",
+                     "source_file":  "Tuesday October 27th, 2026.docx",
+                     "generated":  "2026-10-27T00:12",
                      "error":  null
                  }
 }
