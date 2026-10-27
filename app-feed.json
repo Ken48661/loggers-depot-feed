@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-27T10:27",
+    "updated":  "2026-10-27T10:42",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -632,84 +632,102 @@
     "events":  {
                    "events":  [
                                   {
-                                      "id":  "2026-09-10-ez-entertainment",
-                                      "date":  "2026-09-10",
-                                      "title":  "EZ Entertainment",
-                                      "subtitle":  null,
-                                      "description":  "EZ Entertainment",
-                                      "time":  "8:00 PM - 11:00 PM",
-                                      "type":  "event"
-                                  },
-                                  {
-                                      "id":  "2026-09-12-corey-kapanka",
-                                      "date":  "2026-09-12",
-                                      "title":  "Corey Kapanka",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Corey Kapanka - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-09-17-andy-brawn",
-                                      "date":  "2026-09-17",
-                                      "title":  "Andy Brawn",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Andy Brawn - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-09-26-party-of-two",
-                                      "date":  "2026-09-26",
-                                      "title":  "Party of Two",
-                                      "subtitle":  "Duo",
-                                      "description":  "Party of Two - Duo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-10-03-dan-meadows",
-                                      "date":  "2026-10-03",
-                                      "title":  "Dan Meadows",
-                                      "subtitle":  "Solo",
-                                      "description":  "Dan Meadows - Solo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-10-10-derek-boik",
-                                      "date":  "2026-10-10",
-                                      "title":  "Derek Boik",
-                                      "subtitle":  "Solo",
-                                      "description":  "Derek Boik - Solo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-10-17-just-kat-will",
-                                      "date":  "2026-10-17",
-                                      "title":  "Just Kat \u0026Will",
-                                      "subtitle":  "Duo",
-                                      "description":  "Just Kat \u0026Will - Duo",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
-                                      "id":  "2026-10-22-taylor-perry",
-                                      "date":  "2026-10-22",
-                                      "title":  "Taylor Perry",
-                                      "subtitle":  "Solo Acoustic",
-                                      "description":  "Taylor Perry - Solo Acoustic",
-                                      "time":  "7:00 PM - 10:00 PM",
-                                      "type":  "music"
-                                  },
-                                  {
                                       "id":  "2026-10-30-halloween-costume-party",
                                       "date":  "2026-10-30",
                                       "title":  "Halloween Costume Party",
                                       "subtitle":  null,
                                       "description":  "Halloween Costume Party",
                                       "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-05-taylor-perry",
+                                      "date":  "2026-11-05",
+                                      "title":  "Taylor Perry",
+                                      "subtitle":  null,
+                                      "description":  "Taylor Perry",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-07-veterans-benefit-fundraiser",
+                                      "date":  "2026-11-07",
+                                      "title":  "Veterans Benefit Fundraiser",
+                                      "subtitle":  null,
+                                      "description":  "Veterans Benefit Fundraiser",
+                                      "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-12-karaoke-by-ez-entertainment",
+                                      "date":  "2026-11-12",
+                                      "title":  "Karaoke by EZ-Entertainment",
+                                      "subtitle":  null,
+                                      "description":  "Karaoke by EZ-Entertainment",
+                                      "time":  "8:00 PM - 11:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-14-dan-meadows",
+                                      "date":  "2026-11-14",
+                                      "title":  "Dan Meadows",
+                                      "subtitle":  null,
+                                      "description":  "Dan Meadows",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-21-ethan-deming",
+                                      "date":  "2026-11-21",
+                                      "title":  "Ethan Deming",
+                                      "subtitle":  null,
+                                      "description":  "Ethan Deming",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-11-28-kat-wil",
+                                      "date":  "2026-11-28",
+                                      "title":  "Kat \u0026 Wil",
+                                      "subtitle":  null,
+                                      "description":  "Kat \u0026 Wil",
+                                      "time":  "7:00 PM - 10:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-12-05-art-wine-walk-starts-5pm",
+                                      "date":  "2026-12-05",
+                                      "title":  "Art \u0026 Wine Walk Starts @5pm",
+                                      "subtitle":  null,
+                                      "description":  "Art \u0026 Wine Walk Starts @5pm",
+                                      "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-12-10-karaoke-by-ez-entertainment",
+                                      "date":  "2026-12-10",
+                                      "title":  "Karaoke by EZ Entertainment",
+                                      "subtitle":  null,
+                                      "description":  "Karaoke by EZ Entertainment",
+                                      "time":  "8:00 PM - 11:00 PM",
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-12-12-candy-cane-lane-all-day",
+                                      "date":  "2026-12-12",
+                                      "title":  "Candy Cane Lane All Day",
+                                      "subtitle":  null,
+                                      "description":  "Candy Cane Lane All Day",
+                                      "time":  null,
+                                      "type":  "event"
+                                  },
+                                  {
+                                      "id":  "2026-12-19-brain-mccosky",
+                                      "date":  "2026-12-19",
+                                      "title":  "Brain McCosky",
+                                      "subtitle":  null,
+                                      "description":  "Brain McCosky",
+                                      "time":  "7:00 PM - 10:00 PM",
                                       "type":  "event"
                                   }
                               ],
@@ -771,7 +789,7 @@
                                    }
                                ],
                      "source_file":  "Tuesday October 27th, 2026.docx",
-                     "generated":  "2026-10-27T10:27",
+                     "generated":  "2026-10-27T10:42",
                      "error":  null
                  }
 }
