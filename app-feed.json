@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-27T23:57",
+    "updated":  "2026-10-28T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-27",
+                   "updated":  "2026-10-28",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-27",
-                     "date_label":  "Tuesday, October 27th, 2026",
-                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-10-28",
+                     "date_label":  "Wednesday, October 28th, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "7oz Fresh Angus Patty with Homemade Garlic Aioli Sauce, Sautéed Mushrooms and Onions, Leaf Lettuce and Swiss Cheese on a Hamburger Bun. Choice of: Fries, Tots or Cup of Soup",
-                                       "price":  "15.99",
+                                       "name":  "Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Hard or Soft Tacos Seasoned taco meat with either hard or soft shell with diced tomato, shredded lettuce \u0026 cheddar-jack cheese $2.49 each Dynamite Shrimp Tacos",
+                                       "description":  "Dynamite Shrimp Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw in a Grilled 6” Tortilla",
-                                       "price":  "12.99",
+                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-Fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw wrapped in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Chicken Fajita Salad",
+                                       "description":  "Homestyle Boneless Wings Basket",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
-                                       "price":  "15.99",
-                                       "half_price":  "11.99",
-                                       "description":  "Basket of Deep-fried Cauliflower",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "A golden-brown crispy appetizer with lemon and garlic flavor",
+                                       "name":  "8-Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "Chef Salad Fresh Salad Mix Topped with Ham, Turkey, Cheddar-Jack Cheese, Red Onion, Tomatoes, Cucumbers, Hard Boiled Egg and Croutons",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "$14.99 or Half",
+                                       "price":  "11.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -788,8 +788,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday October 27th, 2026.docx",
-                     "generated":  "2026-10-27T23:57",
+                     "source_file":  "Wednesday October 28th, 2026.docx",
+                     "generated":  "2026-10-28T00:12",
                      "error":  null
                  }
 }
