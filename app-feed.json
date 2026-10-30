@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-29T23:57",
+    "updated":  "2026-10-30T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-10-29",
+                   "updated":  "2026-10-30",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-29",
-                     "date_label":  "Thursday, October 29th, 2026",
-                     "soup":  "Homemade Garden Tomato Soup or Homemade Chili",
+                     "date":  "2026-10-30",
+                     "date_label":  "Friday, October 30th, 2026",
+                     "soup":  "Homemade Loaded Potato Soup or Clam Chowder or",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast",
-                                       "price":  "7.99",
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "5",
                                        "half_price":  null,
-                                       "description":  "Homemade Chicken Fried Rice",
+                                       "description":  "NEW!!! Hot Honey Hula Burger",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Fried Rice with an Egg, Grilled Chicken and Mixed Veggies. Served with a Vegetable Egg Roll",
-                                       "price":  "13.99",
-                                       "half_price":  null,
-                                       "description":  "Texas Toast Grilled Cheese with Cup of Soup",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Get a Grilled Cheese Sandwich Plain with Ham or with Bacon on Texas Toast Along with a Cup of our Homemade Garden Tomato Soup.",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "New! Sweet and Spicy Burger",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Fresh Angus Patty, with American Cheese, Lettuce, Sweet Relish and Sliced Jalapeño’s. Served on a Hamburger Bun with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
-                                       "half_price":  null,
-                                       "description":  "Chicken BLT Salad Fresh Salad Mix Topped with Seasoned Chicken Breast,",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Cheddar Jack Cheese, Bacon crumbles, Red Onions, Cucumbers, Tomatoes, Croutons and a Hard-boiled Egg",
+                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
                                        "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Coney Dog Covered with Real Detroit Coney Sauce with Diced White Onions. $4.99 or 2 -$8.99",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "1-Hot Dog with Grilled Onions",
+                                       "price":  "1.99",
+                                       "half_price":  null,
+                                       "description":  "Grilled or Crunchy Chicken Salad",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fresh Salad Mix Topped with Sliced Grilled All White Chicken Breast or Breaded Chicken Tenders, Cheddar-Jack Cheese, Red Onion, Diced Tomatoes, Cucumbers, \u0026 Croutons.",
+                                       "price":  "14.99",
                                        "half_price":  "11.99",
                                        "description":  "Dessert",
                                        "flags":  [
@@ -797,8 +788,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday October 29th, 2026.docx",
-                     "generated":  "2026-10-29T23:57",
+                     "source_file":  "Friday October 30th, 2026.docx",
+                     "generated":  "2026-10-30T00:12",
                      "error":  null
                  }
 }
