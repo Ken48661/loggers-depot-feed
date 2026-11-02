@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-01T23:57",
+    "updated":  "2026-11-02T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,47 +732,56 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-01",
+                   "updated":  "2026-11-02",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-10-30",
-                     "date_label":  "Friday, October 30th, 2026",
-                     "soup":  "Homemade Loaded Potato Soup or Clam Chowder or",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-02",
+                     "date_label":  "Monday, November 2nd, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
-                                       "price":  "5",
+                                       "name":  "1 -Humongous Buttermilk Pancake, 2 Eggs your way and Choice of meat Sausage patty, Sausage links or 2 Strips of Bacon",
+                                       "price":  "8.99",
                                        "half_price":  null,
-                                       "description":  "NEW!!! Hot Honey Hula Burger",
+                                       "description":  "French Dip",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
-                                       "price":  "15.99",
+                                       "name":  "Premium Shaved Sirloin Grilled with Swiss Cheese on a Sub Bun Served with a side of Homemade AuJus for dipping",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Coney Dog Covered with Real Detroit Coney Sauce with Diced White Onions. $4.99 or 2 -$8.99",
+                                       "description":  "Pot Roast Loaded Bowl",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "1-Hot Dog with Grilled Onions",
-                                       "price":  "1.99",
-                                       "half_price":  null,
-                                       "description":  "Grilled or Crunchy Chicken Salad",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Fresh Salad Mix Topped with Sliced Grilled All White Chicken Breast or Breaded Chicken Tenders, Cheddar-Jack Cheese, Red Onion, Diced Tomatoes, Cucumbers, \u0026 Croutons.",
+                                       "name":  "Homemade Mashed Potatoes Smothered in Beef Gravy and Cheddar-Jack Cheese then Topped with Tender Pot Roast Grilled with Sautéed Onions. Served with a Buttermilk Biscuit",
                                        "price":  "14.99",
-                                       "half_price":  "11.99",
+                                       "half_price":  null,
+                                       "description":  "Garlic Butter Steak and Potato",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Our House Sirloin cooked to your way with Garlic Butter and your Choice of Mashed Potatoes or Baked Both served with Garlic Butter on them Because Everything is better with Garlic Butter!!",
+                                       "price":  "16.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Hot Honey Mozzarella Sticks",
+                                       "price":  "9.99",
+                                       "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
 
@@ -788,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday October 30th, 2026.docx",
-                     "generated":  "2026-11-01T23:57",
+                     "source_file":  "Monday November 2nd, 2026.docx",
+                     "generated":  "2026-11-02T00:12",
                      "error":  null
                  }
 }
