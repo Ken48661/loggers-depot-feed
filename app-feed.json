@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-02T23:57",
+    "updated":  "2026-11-03T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-02",
+                   "updated":  "2026-11-03",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-02",
-                     "date_label":  "Monday, November 2nd, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-03",
+                     "date_label":  "Tuesday, November 3rd, 2026",
+                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "1 -Humongous Buttermilk Pancake, 2 Eggs your way and Choice of meat Sausage patty, Sausage links or 2 Strips of Bacon",
-                                       "price":  "8.99",
+                                       "name":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
+                                       "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "French Dip",
+                                       "description":  "Taco Platter 1 Hard or Soft Beef Taco",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Premium Shaved Sirloin Grilled with Swiss Cheese on a Sub Bun Served with a side of Homemade AuJus for dipping",
+                                       "name":  "6 Mini-Tacos and Bowl of Soup",
                                        "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Pot Roast Loaded Bowl",
+                                       "description":  "Homemade Beef Enchiladas",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Homemade Mashed Potatoes Smothered in Beef Gravy and Cheddar-Jack Cheese then Topped with Tender Pot Roast Grilled with Sautéed Onions. Served with a Buttermilk Biscuit",
-                                       "price":  "14.99",
+                                       "name":  "Beef Enchilada Wrapped in a 12’ Flour Tortilla with Cheddar-Jack Cheese. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
+                                       "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Garlic Butter Steak and Potato",
+                                       "description":  "Bacon n Mushroom Queso Burger",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Our House Sirloin cooked to your way with Garlic Butter and your Choice of Mashed Potatoes or Baked Both served with Garlic Butter on them Because Everything is better with Garlic Butter!!",
-                                       "price":  "16.99",
+                                       "name":  "Fresh Angus Beef Patty with Applewood Bacon Sautéed Mushrooms and White Queso Cheese served on a Bun Choice of: Fries or Cup of Soup",
+                                       "price":  "15.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -779,7 +779,7 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Hot Honey Mozzarella Sticks",
+                                       "name":  "10-Mini Tacos",
                                        "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday November 2nd, 2026.docx",
-                     "generated":  "2026-11-02T23:57",
+                     "source_file":  "Tuesday November 3rd, 2026.docx",
+                     "generated":  "2026-11-03T00:12",
                      "error":  null
                  }
 }
