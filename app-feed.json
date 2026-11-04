@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-03T23:57",
+    "updated":  "2026-11-04T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,45 +732,45 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-03",
+                   "updated":  "2026-11-04",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-03",
-                     "date_label":  "Tuesday, November 3rd, 2026",
-                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-04",
+                     "date_label":  "Wednesday, November 4th, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Huge 3 Egg Omelet with Taco Meat, Diced Tomato, White Onion and American Cheese. Topped with Cheddar-Jack and Salsa Choice of Potato and Toast",
+                                       "name":  "Huge 3 Egg Omelet with Hashbrowns, Diced Sausage Links, Diced White Onions and American Cheese Smothered with Homemade Country Gravy Choice of Toast",
                                        "price":  "10.99",
                                        "half_price":  null,
-                                       "description":  "Taco Platter 1 Hard or Soft Beef Taco",
+                                       "description":  "Pizza Burger",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "6 Mini-Tacos and Bowl of Soup",
+                                       "name":  "Specialty Blended Pizza Patty topped with Homemade Pizza Sauce Pepperoni and Mozzarella Cheese and a Hamburger Bun.",
                                        "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Homemade Beef Enchiladas",
+                                       "description":  "Wrap it Wednesday",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Beef Enchilada Wrapped in a 12’ Flour Tortilla with Cheddar-Jack Cheese. Then Smothered with White Queso or Enchilada Sauce. Served with Shredded Lettuce, Diced Tomatoes and Sour Cream",
+                                       "name":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Choice of Cup of Soup or our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "13.99",
                                        "half_price":  null,
-                                       "description":  "Bacon n Mushroom Queso Burger",
+                                       "description":  "Country Fried Chicken Bowl",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Fresh Angus Beef Patty with Applewood Bacon Sautéed Mushrooms and White Queso Cheese served on a Bun Choice of: Fries or Cup of Soup",
+                                       "name":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
                                        "price":  "15.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -779,8 +779,8 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "10-Mini Tacos",
-                                       "price":  "9.99",
+                                       "name":  "2-Rueben Egg Rolls with side of 1000 island",
+                                       "price":  "7.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -797,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday November 3rd, 2026.docx",
-                     "generated":  "2026-11-03T23:57",
+                     "source_file":  "Wednesday November 4th, 2026.docx",
+                     "generated":  "2026-11-04T00:12",
                      "error":  null
                  }
 }
