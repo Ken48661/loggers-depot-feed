@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-04T23:57",
+    "updated":  "2026-11-05T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-04",
+                   "updated":  "2026-11-05",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-04",
-                     "date_label":  "Wednesday, November 4th, 2026",
-                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-05",
+                     "date_label":  "Thursday, November 5th, 2026",
+                     "soup":  "Homemade Chicken Tortilla Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Huge 3 Egg Omelet with Hashbrowns, Diced Sausage Links, Diced White Onions and American Cheese Smothered with Homemade Country Gravy Choice of Toast",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Pizza Burger",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Specialty Blended Pizza Patty topped with Homemade Pizza Sauce Pepperoni and Mozzarella Cheese and a Hamburger Bun.",
+                                       "name":  "Huge 3 Eggs Omelet with Broccoli, Diced Tomatoes, Mushrooms, Green Peppers, White Onion and Swiss Cheese Choice of Toast and Choice of American Fries or Hashbrowns",
                                        "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Wrap it Wednesday",
+                                       "description":  "Homemade French Bread Pizza",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Double Crunch, Grilled Shrimp, Buffalo Chicken, Mushroom Swiss or Italian Wrap Choice of Cup of Soup or our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "13.99",
+                                       "name":  "2- 8” French bread Pizzas with Homemade Pizza Sauce Mozzarella Cheese and your Choice of 1 Item",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Country Fried Chicken Bowl",
+                                       "description":  "NEW!!! Hot Honey Hula Burger",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Golden Brown Chicken Tenders, Homemade Mashed Potatoes, Yellow Corn, Country Gravy, Onion Tanglers and Cheddar-Jack Cheese",
+                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
                                        "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Country Fried Steak Dinner",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "11 Ounce Crispy Country Fried Steak with Homemade Mashed Potatoes Covered in White Sausage Gravy or Beef Gravy",
+                                       "price":  "13.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -779,8 +779,17 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "2-Rueben Egg Rolls with side of 1000 island",
-                                       "price":  "7.99",
+                                       "name":  "Hot Honey Mozzarella Sticks",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Mozzarella Sticks",
+                                       "price":  "8.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -797,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday November 4th, 2026.docx",
-                     "generated":  "2026-11-04T23:57",
+                     "source_file":  "Thursday November 5th, 2026.docx",
+                     "generated":  "2026-11-05T00:12",
                      "error":  null
                  }
 }
