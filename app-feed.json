@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-05T23:57",
+    "updated":  "2026-11-06T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,65 +732,47 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-05",
+                   "updated":  "2026-11-06",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-05",
-                     "date_label":  "Thursday, November 5th, 2026",
-                     "soup":  "Homemade Chicken Tortilla Soup or Homemade Chili",
+                     "date":  "2026-11-06",
+                     "date_label":  "Friday, November 6th, 2026",
+                     "soup":  "Clam Chowder or Homemade Chicken Fajita Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Huge 3 Eggs Omelet with Broccoli, Diced Tomatoes, Mushrooms, Green Peppers, White Onion and Swiss Cheese Choice of Toast and Choice of American Fries or Hashbrowns",
-                                       "price":  "9.99",
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "5",
                                        "half_price":  null,
-                                       "description":  "Homemade French Bread Pizza",
+                                       "description":  "Prime Rib Dip",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "2- 8” French bread Pizzas with Homemade Pizza Sauce Mozzarella Cheese and your Choice of 1 Item",
-                                       "price":  "9.99",
+                                       "name":  "Thin Sliced Prime Rib with Mozzarella Cheese on a Grilled Hoagie Bun with Homemade Au jus for Dipping Served with Brew City Fries",
+                                       "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "NEW!!! Hot Honey Hula Burger",
+                                       "description":  "Dynamite Shrimp Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
-                                       "price":  "15.99",
+                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-Fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw wrapped in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Country Fried Steak Dinner",
+                                       "description":  "Mediterranean Turkey Club Salad Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese, Bacon Crumbles, Red Onions, Tomatoes, Cucumbers and",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "11 Ounce Crispy Country Fried Steak with Homemade Mashed Potatoes Covered in White Sausage Gravy or Beef Gravy",
-                                       "price":  "13.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Hot Honey Mozzarella Sticks",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Mozzarella Sticks",
-                                       "price":  "8.99",
-                                       "half_price":  null,
+                                       "name":  "a Hard-Boiled Egg on a Bed of Romaine Lettuce",
+                                       "price":  "14.99",
+                                       "half_price":  "11.99",
                                        "description":  "Dessert",
                                        "flags":  [
 
@@ -806,8 +788,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday November 5th, 2026.docx",
-                     "generated":  "2026-11-05T23:57",
+                     "source_file":  "Friday November 6th, 2026.docx",
+                     "generated":  "2026-11-06T00:12",
                      "error":  null
                  }
 }
