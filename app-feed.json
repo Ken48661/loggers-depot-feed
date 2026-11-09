@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-08T23:57",
+    "updated":  "2026-11-09T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,20 +732,20 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-08",
+                   "updated":  "2026-11-09",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-06",
-                     "date_label":  "Friday, November 6th, 2026",
-                     "soup":  "Clam Chowder or Homemade Chicken Fajita Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-09",
+                     "date_label":  "Monday, November 9th, 2026",
+                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
-                                       "price":  "5",
-                                       "half_price":  null,
+                                       "name":  "Biscuits \u0026 Gravy (avail. all day) Buttermilk Biscuits Covered in Homemade Country Gravy Full Order",
+                                       "price":  "5.99",
+                                       "half_price":  "3.99",
                                        "description":  "Prime Rib Dip",
                                        "flags":  [
 
@@ -755,31 +755,49 @@
                                        "name":  "Thin Sliced Prime Rib with Mozzarella Cheese on a Grilled Hoagie Bun with Homemade Au jus for Dipping Served with Brew City Fries",
                                        "price":  "12.99",
                                        "half_price":  null,
-                                       "description":  "Dynamite Shrimp Wrap",
+                                       "description":  "Grilled Corned Beef Sandwich",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Guinness Beer Battered Shrimp Tossed in Boom-Boom Sauce with Deep-Fried Onion Tanglers, Mozzarella Cheese and Homemade Coleslaw wrapped in a Grilled 12” Tortilla. Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "name":  "Our slow cooked Corned Beef Grilled on Texas Toast with Swiss Cheese, Pickles, Mayo and Mustard. Choice of Fries or Cup of Soup",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Mediterranean Turkey Club Salad Premium Sliced Turkey, Feta Cheese, Mozzarella Cheese, Bacon Crumbles, Red Onions, Tomatoes, Cucumbers and",
+                                       "description":  "Family Deal 2-Specialty Thin Crust Pizzas \u0026 Fries Choose 2 of our 13 Different Specialty Pizzas on Thin Crust and a",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "a Hard-Boiled Egg on a Bed of Romaine Lettuce",
-                                       "price":  "14.99",
-                                       "half_price":  "11.99",
+                                       "name":  "Basket of Shoestring Fries",
+                                       "price":  "24.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Gourmet Breaded Onion Rings",
+                                       "price":  "5.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Shoestring Fries",
+                                       "price":  "4.99",
+                                       "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Caramel Apple Crunch Cheesecake",
+                                       "name":  "Pumpkin Cheesecake",
                                        "price":  "7.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -788,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Friday November 6th, 2026.docx",
-                     "generated":  "2026-11-08T23:57",
+                     "source_file":  "Monday November 9th, 2026.docx",
+                     "generated":  "2026-11-09T00:12",
                      "error":  null
                  }
 }
