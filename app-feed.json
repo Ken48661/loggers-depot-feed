@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-09T23:57",
+    "updated":  "2026-11-10T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,37 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-09",
+                   "updated":  "2026-11-10",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-09",
-                     "date_label":  "Monday, November 9th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-10",
+                     "date_label":  "Tuesday, November 10th, 2026",
+                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Biscuits \u0026 Gravy (avail. all day) Buttermilk Biscuits Covered in Homemade Country Gravy Full Order",
-                                       "price":  "5.99",
-                                       "half_price":  "3.99",
-                                       "description":  "Prime Rib Dip",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Thin Sliced Prime Rib with Mozzarella Cheese on a Grilled Hoagie Bun with Homemade Au jus for Dipping Served with Brew City Fries",
-                                       "price":  "12.99",
+                                       "name":  "3 Eggs Scrambled Hashbrowns, Taco Meat, Diced Tomato and Diced White Onion Topped with Cheddar-Jack and Salsa Choice Toast",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Grilled Corned Beef Sandwich",
+                                       "description":  "4- Mexi Potato Skins and Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Our slow cooked Corned Beef Grilled on Texas Toast with Swiss Cheese, Pickles, Mayo and Mustard. Choice of Fries or Cup of Soup",
-                                       "price":  "14.99",
+                                       "name":  "Deep Fried Potato Half’s filled with Seasoned Taco Meat, Cheddar Jack Cheese and Topped with Shredded Lettuce and Diced Tomatoes. Served with a Cup of Soup",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Family Deal 2-Specialty Thin Crust Pizzas \u0026 Fries Choose 2 of our 13 Different Specialty Pizzas on Thin Crust and a",
+                                       "description":  "Taco Taco Taco",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Basket of Shoestring Fries",
-                                       "price":  "24.99",
+                                       "name":  "Beef Taco’s Hard or Soft Shell $2.49 ea. 2 Center Cut Battered Cod Fish Taco’s",
+                                       "price":  "8.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -779,7 +770,25 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Gourmet Breaded Onion Rings",
+                                       "name":  "2 Battered Shrimp Taco’s",
+                                       "price":  "8.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "10-Mini Tacos",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "8 Gourmet Breaded Onion Rings",
                                        "price":  "5.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -806,8 +815,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday November 9th, 2026.docx",
-                     "generated":  "2026-11-09T23:57",
+                     "source_file":  "Tuesday November 10th, 2026.docx",
+                     "generated":  "2026-11-10T00:12",
                      "error":  null
                  }
 }
