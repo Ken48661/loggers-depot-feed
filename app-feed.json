@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-10T19:12",
+    "updated":  "2026-11-11T06:57",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-10",
+                   "updated":  "2026-11-11",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-10",
-                     "date_label":  "Tuesday, November 10th, 2026",
-                     "soup":  "Homemade Chicken Fajita Soup or Homemade Chili",
+                     "date":  "2026-11-11",
+                     "date_label":  "Wednesday, November 11th, 2026",
+                     "soup":  "Cheesy Chicken Enchilada Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "3 Eggs Scrambled Hashbrowns, Taco Meat, Diced Tomato and Diced White Onion Topped with Cheddar-Jack and Salsa Choice Toast",
-                                       "price":  "9.99",
+                                       "name":  "2 Slices of Texas Toast (4 halves) topped with Powder Sugar",
+                                       "price":  "4.99",
                                        "half_price":  null,
-                                       "description":  "4- Mexi Potato Skins and Soup",
+                                       "description":  "Wrap it Wednesday (choice of one wrap below) Chicken Bacon Ranch, Double Crunch, Grilled Shrimp, Buffalo Chicken, Turkey Bacon Ranch or Dynamite Shrimp Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Deep Fried Potato Half’s filled with Seasoned Taco Meat, Cheddar Jack Cheese and Topped with Shredded Lettuce and Diced Tomatoes. Served with a Cup of Soup",
-                                       "price":  "9.99",
+                                       "name":  "Choice of: Crinkle Cut Fries or Cup of Soup",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Taco Taco Taco",
+                                       "description":  "Loggers Smash Burger Smash Burger topped with Homemade Brew Pub Sauce, Cheddar-Jack Cheese and Onion Tanglers on a Grilled Bun",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Beef Taco’s Hard or Soft Shell $2.49 ea. 2 Center Cut Battered Cod Fish Taco’s",
-                                       "price":  "8.99",
+                                       "name":  "Served with Shoestring Fries",
+                                       "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "",
+                                       "description":  "Chicken BLT Salad",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "2 Battered Shrimp Taco’s",
-                                       "price":  "8.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "10-Mini Tacos",
-                                       "price":  "7.99",
+                                       "name":  "Seasoned Chicken Breast, Bacon Crumbles, Cheddar-Jack Cheese, Diced Red Onions, Diced Tomatoes, Sliced Cucumbers, Croutons and a Hard-boiled Egg",
+                                       "price":  "11.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -815,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday November 10th, 2026.docx",
-                     "generated":  "2026-11-10T19:12",
+                     "source_file":  "Wednesday November 11th, 2026.docx",
+                     "generated":  "2026-11-11T06:57",
                      "error":  null
                  }
 }
