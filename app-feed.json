@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-11T23:57",
+    "updated":  "2026-11-12T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-11",
+                   "updated":  "2026-11-12",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-11",
-                     "date_label":  "Wednesday, November 11th, 2026",
-                     "soup":  "Cheesy Chicken Enchilada Soup or Homemade Chili",
+                     "date":  "2026-11-12",
+                     "date_label":  "Thursday, November 12th, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2 Slices of Texas Toast (4 halves) topped with Powder Sugar",
-                                       "price":  "4.99",
-                                       "half_price":  null,
-                                       "description":  "Wrap it Wednesday (choice of one wrap below) Chicken Bacon Ranch, Double Crunch, Grilled Shrimp, Buffalo Chicken, Turkey Bacon Ranch or Dynamite Shrimp Wrap",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Choice of: Crinkle Cut Fries or Cup of Soup",
+                                       "name":  "Garlic Butter Texas Toast with Swiss and American Cheese Grilled or Crunchy Chicken, Applewood Bacon, Diced Jalapeno’s and Fiesta Ranch Severed with our Ultimate Crisp Crinkle Cut Fries",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Loggers Smash Burger Smash Burger topped with Homemade Brew Pub Sauce, Cheddar-Jack Cheese and Onion Tanglers on a Grilled Bun",
+                                       "description":  "Pierogi Dinner",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Served with Shoestring Fries",
+                                       "name":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Sauteed with Green Peppers, Onions and Smoked Sausage.",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Buff-erogies-Pierogies tossed in Buffalo Sauce",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Super Salad Thursday (choice of one salad below) Turkey Club, Chef, Chicken Blt, Mediterranean Turkey Club, or",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Sesame Chicken",
                                        "price":  "11.99",
                                        "half_price":  null,
-                                       "description":  "Chicken BLT Salad",
+                                       "description":  "Lunch Special",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Seasoned Chicken Breast, Bacon Crumbles, Cheddar-Jack Cheese, Diced Red Onions, Diced Tomatoes, Sliced Cucumbers, Croutons and a Hard-boiled Egg",
-                                       "price":  "11.99",
+                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -806,8 +815,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Wednesday November 11th, 2026.docx",
-                     "generated":  "2026-11-11T23:57",
+                     "source_file":  "Thursday November 12th, 2026.docx",
+                     "generated":  "2026-11-12T00:12",
                      "error":  null
                  }
 }
