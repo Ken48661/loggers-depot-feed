@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-12T23:57",
+    "updated":  "2026-11-13T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,27 +732,45 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-12",
+                   "updated":  "2026-11-13",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-12",
-                     "date_label":  "Thursday, November 12th, 2026",
-                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-13",
+                     "date_label":  "Friday, November 6th, 2026",
+                     "soup":  "Clam Chowder or Minestrone Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Garlic Butter Texas Toast with Swiss and American Cheese Grilled or Crunchy Chicken, Applewood Bacon, Diced Jalapeno’s and Fiesta Ranch Severed with our Ultimate Crisp Crinkle Cut Fries",
-                                       "price":  "14.99",
+                                       "name":  "3 Eggs Scrambled with Hashbrowns, Diced Sausage Links, Diced White Onions Smothered with Homemade Country Gravy and Cheddar-Jack Cheese Choice of Toast",
+                                       "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Pierogi Dinner",
+                                       "description":  "Our Signature Fish and Chips Three Pieces of Center Cut Atlantic Cod, dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Sharp Cheddar Cheese \u0026 Creamy Whipped Potatoes Pierogies Sauteed with Green Peppers, Onions and Smoked Sausage.",
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "5",
+                                       "half_price":  null,
+                                       "description":  "Tuna Melt Premium Albacore Tuna on Pita Bread with Cheddar-Jack Cheese then Baked and Topped with Diced Tomatoes and Diced Red Onions",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Served with Shoestring Fries",
+                                       "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Beef Tips \u0026 Noodles We use our Premium House Sirloin and Our Yummy Beef Gravy",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Poured over top Egg Noodles. Served with Garlic Bread",
                                        "price":  "13.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -761,44 +779,8 @@
                                                  ]
                                    },
                                    {
-                                       "name":  "Buff-erogies-Pierogies tossed in Buffalo Sauce",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Super Salad Thursday (choice of one salad below) Turkey Club, Chef, Chicken Blt, Mediterranean Turkey Club, or",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Sesame Chicken",
-                                       "price":  "11.99",
-                                       "half_price":  null,
-                                       "description":  "Lunch Special",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "8 Gourmet Breaded Onion Rings",
-                                       "price":  "5.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Basket of Shoestring Fries",
-                                       "price":  "4.99",
+                                       "name":  "Bavarian Pretzel Bites with Creamy Nacho Cheese",
+                                       "price":  "6.99",
                                        "half_price":  null,
                                        "description":  "Dessert",
                                        "flags":  [
@@ -815,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Thursday November 12th, 2026.docx",
-                     "generated":  "2026-11-12T23:57",
+                     "source_file":  "Friday November 13th, 2026.docx",
+                     "generated":  "2026-11-13T00:12",
                      "error":  null
                  }
 }
