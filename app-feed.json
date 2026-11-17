@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-16T23:57",
+    "updated":  "2026-11-17T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,46 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-16",
+                   "updated":  "2026-11-17",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-16",
-                     "date_label":  "Monday, November 16th, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-17",
+                     "date_label":  "Tuesday, November 17th, 2026",
+                     "soup":  "Homemade Garden Tomato Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "Served with Tots",
+                                       "name":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
                                        "price":  "8.99",
                                        "half_price":  null,
-                                       "description":  "Family Deal 2-Specialty Traditional Crust Pizzas Choose 2 of our 13 Different Specialty Pizzas on Traditional Crust",
+                                       "description":  "New Today!!! Chicken Taco",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "And a Basket of Gourmet Onion Rings",
-                                       "price":  "24.99",
+                                       "name":  "Our Yummy Chicken Tender Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
+                                       "price":  "3.99",
                                        "half_price":  null,
-                                       "description":  "Pizza Burger",
+                                       "description":  "Taco Platter",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Specialty Blended Pizza Patty topped with Homemade Pizza Sauce Pepperoni, Banana Peppers and Mozzarella Cheese on a Hamburger Bun. Served with 3 Mozzarella Sticks",
+                                       "name":  "1 Hard \u0026 1 Soft Beef Taco,6 Mini-Tacos and Cup of Soup",
+                                       "price":  "10.99",
+                                       "half_price":  null,
+                                       "description":  "NEW!!! Hot Honey Hula Burger",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
+                                       "price":  "15.99",
+                                       "half_price":  null,
+                                       "description":  "Warm you up Special",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
                                        "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Pot Belly Salad",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Romaine Lettuce with Ham, Bacon Crumbles, Salami, Croutons, Diced Tomatoes, Diced Red Onion, Sliced Cucumbers and Mozzarella",
-                                       "price":  "11.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -791,23 +800,14 @@
                                        "name":  "Basket of Shoestring Fries",
                                        "price":  "4.99",
                                        "half_price":  null,
-                                       "description":  "Dessert",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Pumpkin Cheesecake",
-                                       "price":  "7.99",
-                                       "half_price":  null,
                                        "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday November 16th, 2026.docx",
-                     "generated":  "2026-11-16T23:57",
+                     "source_file":  "Tuesday November 17th, 2026.docx",
+                     "generated":  "2026-11-17T00:12",
                      "error":  null
                  }
 }
