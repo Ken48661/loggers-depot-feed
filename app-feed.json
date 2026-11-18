@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-17T23:57",
+    "updated":  "2026-11-18T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,54 +732,36 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-17",
+                   "updated":  "2026-11-18",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-17",
-                     "date_label":  "Tuesday, November 17th, 2026",
-                     "soup":  "Homemade Garden Tomato Soup or Homemade Chili",
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-18",
+                     "date_label":  "Wednesday, November 18th, 2026",
+                     "soup":  "Broccoli \u0026 Cheese Soup or Homemade Chili",
+                     "footer":  "DELIVERY STARTS 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
-                                       "price":  "8.99",
+                                       "name":  "2 Slices of Texas Toast (4 halves) topped with Powder Sugar",
+                                       "price":  "4.99",
                                        "half_price":  null,
-                                       "description":  "New Today!!! Chicken Taco",
+                                       "description":  "Wrap it Wednesday (choice of one wrap below) Chicken Bacon Ranch, Double Crunch, Grilled Shrimp, Buffalo Chicken, Turkey Bacon Ranch or Dynamite Shrimp Wrap",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Our Yummy Chicken Tender Wrapped in a Soft 6” Tortilla Shell with Cheddar-Jack Cheese, Shredded Lettuce and Diced Tomato",
-                                       "price":  "3.99",
+                                       "name":  "Choice of: Crinkle Cut Fries or Cup of Soup",
+                                       "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Taco Platter",
+                                       "description":  "NEW!!! Hot Honey Chicken Hula Bowl Breaded Chicken Tossed in Hot Honey Sauce set atop White Rice with Pineapple Tidbits and Broccoli. Served with a Vegetable Egg Roll Potato Skins and Soup",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "1 Hard \u0026 1 Soft Beef Taco,6 Mini-Tacos and Cup of Soup",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "NEW!!! Hot Honey Hula Burger",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "7oz Fresh Angus Beef Patty with Smoked Gouda, Applewood Bacon, Sliced Jalapenos, Pineapple Rings and Hot Honey Sauce on a Bun served with our Ultimate Crisp Crinkle Cut Fries.",
-                                       "price":  "15.99",
-                                       "half_price":  null,
-                                       "description":  "Warm you up Special",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
+                                       "name":  "4 Halves Loaded with Bacon Crumbles and Cheddar-jack Cheese. Topped With Chives and a Cup of Today’s Soup",
                                        "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
@@ -800,14 +782,23 @@
                                        "name":  "Basket of Shoestring Fries",
                                        "price":  "4.99",
                                        "half_price":  null,
+                                       "description":  "Dessert",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Pumpkin Cheesecake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
                                        "description":  "",
                                        "flags":  [
 
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday November 17th, 2026.docx",
-                     "generated":  "2026-11-17T23:57",
+                     "source_file":  "Wednesday November 18th, 2026.docx",
+                     "generated":  "2026-11-18T00:12",
                      "error":  null
                  }
 }
