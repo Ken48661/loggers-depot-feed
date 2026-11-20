@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-20T07:42",
+    "updated":  "2026-11-20T07:57",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -740,11 +740,47 @@
                      "date":  "2026-11-20",
                      "date_label":  "Friday, November 20th, 2026",
                      "soup":  "Clam Chowder or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS 9 AM",
+                     "footer":  "DELIVERY STARTS 9 AM",
                      "items":  [
+                                   {
+                                       "name":  "Served with Tots (Available All Day)",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "Our Signature Fish and Chips Three Pieces of Center Cut Atlantic Cod, dipped in our Signature Batter and Deep-Fried. Served with our Homemade Coleslaw, Homemade Tater Sauce and our Ultimate Crisp Crinkle Cut Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
                                    {
                                        "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
                                        "price":  "5",
+                                       "half_price":  null,
+                                       "description":  "Chicken Bacon and Mushroom Alfredo",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Grilled Chicken Breast Sautéed Mushrooms and Bacon over Penn Noodles Covered with our Signature Alfredo Sauce. Served with Garlic Bread and Side Salad.",
+                                       "price":  "16.99",
+                                       "half_price":  null,
+                                       "description":  "Loggers Big Depot",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "7oz Fresh Angus Beef cooked to your liking with Lettuce, Tomato, Pickles, Onion and Mayo on a Grilled Bun Served with Shoestring Fries",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Deep-fried Onion Battered Green Beans",
+                                       "price":  "7.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -753,7 +789,7 @@
                                    }
                                ],
                      "source_file":  "Friday November 20th, 2026.docx",
-                     "generated":  "2026-11-20T07:42",
+                     "generated":  "2026-11-20T07:57",
                      "error":  null
                  }
 }
