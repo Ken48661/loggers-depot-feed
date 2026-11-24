@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T23:57",
+    "updated":  "2026-11-24T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,55 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-23",
+                   "updated":  "2026-11-24",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-23",
-                     "date_label":  "Monday, November 23rd, 2026",
-                     "soup":  "Homemade Chicken Noodle Soup or Homemade Chili",
+                     "date":  "2026-11-24",
+                     "date_label":  "Tuesday, November 24th, 2026",
+                     "soup":  "Chicken Fajita Soup or Homemade Chili",
                      "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
                      "items":  [
                                    {
-                                       "name":  "3 Eggs Scrambled with Broccoli, Diced Tomatoes, Mushrooms, Green Peppers and Hashbrowns with Cheddar-Jack Cheese \u0026 Toast",
+                                       "name":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
+                                       "price":  "8.99",
+                                       "half_price":  null,
+                                       "description":  "Taco Taco Taco",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Beef Taco’s Hard or Soft Shell $2.49 ea. 2 Center Cut Battered Cod Fish Taco’s",
                                        "price":  "9.99",
                                        "half_price":  null,
-                                       "description":  "Family Deal 2-Specialty Traditional Crust Pizzas Choose 2 of our 13 Different Specialty Pizzas on Traditional Crust",
+                                       "description":  "",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "And a Basket of Bavarian Pretzels",
-                                       "price":  "24.99",
-                                       "half_price":  null,
-                                       "description":  "New!!! Homestyle Boneless Wings Basket",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Homestyle breaded boneless wings taste great as-is or tossed in one of our signature sauces. Served with Shoestring Fries",
-                                       "price":  "10.99",
-                                       "half_price":  null,
-                                       "description":  "Coney Dog $4.99 or 2 -$8.99 Covered with Real Detroit Coney Sauce with Diced White Onions.",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "1-Hot Dog with Sweet Relish and Diced White Onion",
-                                       "price":  "2.49",
-                                       "half_price":  null,
-                                       "description":  "Warm you up Special",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
+                                       "name":  "2 Battered Shrimp Taco’s",
                                        "price":  "9.99",
+                                       "half_price":  null,
+                                       "description":  "Buffalo Chicken Flatbread",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Classic Flatbread with Golden Chicken Tenders tossed in Mild Buffalo Sauce, Pepper-Jack Cheese, Diced Tomatoes and Cheddar-Jack Cheese. Then Baked to Perfection!",
+                                       "price":  "14.99",
+                                       "half_price":  null,
+                                       "description":  "Chicken Fajita Salad",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
+                                       "price":  "11.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -806,8 +806,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Monday November 23rd, 2026.docx",
-                     "generated":  "2026-11-23T23:57",
+                     "source_file":  "Tuesday November 24th, 2026.docx",
+                     "generated":  "2026-11-24T00:12",
                      "error":  null
                  }
 }
