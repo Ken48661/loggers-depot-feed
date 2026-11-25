@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-24T23:57",
+    "updated":  "2026-11-25T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,55 +732,46 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-24",
+                   "updated":  "2026-11-25",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
                      "found":  true,
-                     "date":  "2026-11-24",
-                     "date_label":  "Tuesday, November 24th, 2026",
-                     "soup":  "Chicken Fajita Soup or Homemade Chili",
-                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS @ 9 AM",
+                     "date":  "2026-11-25",
+                     "date_label":  "Wednesday, November 25th, 2026",
+                     "soup":  "Homemade Sausage Florentine Soup or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS 9 AM",
                      "items":  [
                                    {
-                                       "name":  "2 Eggs Cooked how You Like Corned Beef Hash Choice of Meat and Toast (Available until 11am)",
-                                       "price":  "8.99",
-                                       "half_price":  null,
-                                       "description":  "Taco Taco Taco",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Beef Taco’s Hard or Soft Shell $2.49 ea. 2 Center Cut Battered Cod Fish Taco’s",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "2 Battered Shrimp Taco’s",
-                                       "price":  "9.99",
-                                       "half_price":  null,
-                                       "description":  "Buffalo Chicken Flatbread",
-                                       "flags":  [
-
-                                                 ]
-                                   },
-                                   {
-                                       "name":  "Classic Flatbread with Golden Chicken Tenders tossed in Mild Buffalo Sauce, Pepper-Jack Cheese, Diced Tomatoes and Cheddar-Jack Cheese. Then Baked to Perfection!",
+                                       "name":  "Choice of: Crinkle Cut Fries or Cup of Soup",
                                        "price":  "14.99",
                                        "half_price":  null,
-                                       "description":  "Chicken Fajita Salad",
+                                       "description":  "Garlic Butter Steak and Potato",
                                        "flags":  [
 
                                                  ]
                                    },
                                    {
-                                       "name":  "Fajita Seasoned Grilled Chicken Set atop Romaine Lettuce with Sauteed Green Peppers \u0026 Onions, Cheddar-Jack Cheese and Diced Tomatoes.",
-                                       "price":  "11.99",
+                                       "name":  "Our House Sirloin cooked to your way with Garlic Butter and your Choice of Mashed Potatoes or Baked Both served with Garlic Butter on them Because Everything is better with Garlic Butter!!",
+                                       "price":  "17.99",
+                                       "half_price":  null,
+                                       "description":  "Coney Fries",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Basket of Crinkle Cut Fries Covered with Real Detroit Coney and Creamy Nacho Cheese",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "Warm you up Special",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Bowl of Soup with a Fresh Loaf of Paesano Bread",
+                                       "price":  "9.99",
                                        "half_price":  null,
                                        "description":  "",
                                        "flags":  [
@@ -806,8 +797,8 @@
                                                  ]
                                    }
                                ],
-                     "source_file":  "Tuesday November 24th, 2026.docx",
-                     "generated":  "2026-11-24T23:57",
+                     "source_file":  "Wednesday November 25th, 2026.docx",
+                     "generated":  "2026-11-25T00:12",
                      "error":  null
                  }
 }
