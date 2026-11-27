@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T19:12",
+    "updated":  "2026-11-26T19:27",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -745,7 +745,7 @@
 
                                ],
                      "source_file":  null,
-                     "generated":  "2026-11-26T19:12",
+                     "generated":  "2026-11-26T19:27",
                      "error":  "No specials document found for 2026-11-26"
                  }
 }
