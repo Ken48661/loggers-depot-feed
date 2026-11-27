@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T23:57",
+    "updated":  "2026-11-27T00:12",
     "restaurant":  {
                        "name":  "Loggers Depot",
                        "tagline":  "Food \u0026 Spirits",
@@ -732,20 +732,64 @@
                                   }
                               ],
                    "source":  "G:\\Dropbox\\Loggers\\Jay\u0027s\\Entertainment Schedule.docx",
-                   "updated":  "2026-11-26",
+                   "updated":  "2026-11-27",
                    "note":  "Live music and special events at Loggers Depot. Cover charge free for listed acoustic shows unless noted - tip your server and performers."
                },
     "specials":  {
-                     "found":  false,
-                     "date":  "2026-11-26",
-                     "date_label":  "Thursday, November 26, 2026",
-                     "soup":  null,
-                     "footer":  "DELIVERY STARTS @ 9 AM",
+                     "found":  true,
+                     "date":  "2026-11-27",
+                     "date_label":  "Friday, November 27th, 2026",
+                     "soup":  "Clam Chowder or Homemade Chili",
+                     "footer":  "All Prices Listed reflect a 3% CASH DISCOUNT / DELIVERY STARTS 9 AM",
                      "items":  [
+                                   {
+                                       "name":  "Available in Baked or Lemon Steamed $16.99 Extra piece",
+                                       "price":  "4.99",
+                                       "half_price":  null,
+                                       "description":  "Nacho Supreme",
+                                       "flags":  [
 
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fresh Cut and Deep-Fried Tortilla Chips, Topped with Taco-Seasoned Ground Beef, Creamy Nacho Cheese Sauce, Lettuce, Tomato, Onion and Black Olives. Full Order $14.99 Half Order",
+                                       "price":  "8.99",
+                                       "half_price":  null,
+                                       "description":  "Chicken Bacon Ranch Wrap Grilled Chicken, Bacon, Diced Tomatoes, \u0026 Red Onions, Cheddar-Jack Cheese, Lettuce, \u0026 Homemade Ranch Dressing in a Grilled Tortilla",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Served with our Ultimate Crisp Crinkle Cut Fries",
+                                       "price":  "12.99",
+                                       "half_price":  null,
+                                       "description":  "The Farmers Salad",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Fresh Salad Mix Topped with Grilled Chicken, Ham, Turkey, Cheddar-Jack Cheese, Red Onion, Tomatoes, Cucumbers, Hard Boiled Egg, Croutons, \u0026 Real Bacon Crumbles.",
+                                       "price":  "13.99",
+                                       "half_price":  null,
+                                       "description":  "Dessert",
+                                       "flags":  [
+
+                                                 ]
+                                   },
+                                   {
+                                       "name":  "Pumpkin Cheesecake",
+                                       "price":  "7.99",
+                                       "half_price":  null,
+                                       "description":  "",
+                                       "flags":  [
+
+                                                 ]
+                                   }
                                ],
-                     "source_file":  null,
-                     "generated":  "2026-11-26T23:57",
-                     "error":  "No specials document found for 2026-11-26"
+                     "source_file":  "Friday November 27th, 2026.docx",
+                     "generated":  "2026-11-27T00:12",
+                     "error":  null
                  }
 }
